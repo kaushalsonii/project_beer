@@ -1,0 +1,3080 @@
+name,amount,id,type,add,attribute
+Maris Otter Extra Pale,3300.0,1,malt,,
+Caramalt,200.0,1,malt,,
+Munich,400.0,1,malt,,
+Fuggles,25.0,1,hop,start,bitter
+First Gold,25.0,1,hop,start,bitter
+Fuggles,37.5,1,hop,middle,flavour
+First Gold,37.5,1,hop,middle,flavour
+Cascade,37.5,1,hop,end,flavour
+Maris Otter Extra Pale,3250.0,2,malt,,
+Caramalt,200.0,2,malt,,
+Munich,400.0,2,malt,,
+Amarillo,13.8,2,hop,start,bitter
+Simcoe,13.8,2,hop,start,bitter
+Amarillo,26.3,2,hop,end,flavour
+Motueka,18.8,2,hop,end,flavour
+Propino Pale Malt,1630.0,3,malt,,
+Wheat Malt,1630.0,3,malt,,
+Propino Pale Malt for kettle souring,30.0,3,malt,,
+Acidulated Malt for kettle souring,30.0,3,malt,,
+Bramling Cross,10.0,3,hop,middle,bitter
+Extra Pale,4580.0,4,malt,,
+Caramalt,250.0,4,malt,,
+Dark Crystal,60.0,4,malt,,
+Munich,250.0,4,malt,,
+Centennial,5.0,4,hop,start,bitter
+Amarillo,5.0,4,hop,start,bitter
+Centennial,10.0,4,hop,middle,flavour
+Amarillo,10.0,4,hop,middle,flavour
+Centennial,17.5,4,hop,end,flavour
+Amarillo,17.5,4,hop,end,flavour
+Lager Malt,6630.0,5,malt,,
+Wheat,380.0,5,malt,,
+Saaz,60.0,5,hop,start,bitter
+Saaz,60.0,5,hop,middle,flavour
+Saaz,60.0,5,hop,end,flavour
+Extra Pale,3630.0,6,malt,,
+Munich,130.0,6,malt,,
+Wheat,250.0,6,malt,,
+Amarillo,2.5,6,hop,start,bitter
+Nelson Sauvin,5.0,6,hop,middle,flavour
+Amarillo,5.0,6,hop,middle,flavour
+Peppercorns,2.5,6,hop,middle,flavour
+Nelson Sauvin,20.0,6,hop,end,flavour
+Amarillo,12.5,6,hop,end,flavour
+Extra Pale,9690.0,7,malt,,
+Chocolate,190.0,7,malt,,
+Carafa Special Malt Type 3,440.0,7,malt,,
+Tomahawk,31.25,7,hop,start,bitter
+Magnum,12.5,7,hop,start,bitter
+Magnum,12.5,7,hop,middle,flavour
+Tomahawk,12.5,7,hop,end,flavour
+Centennial,25.0,7,hop,end,flavour
+Amarillo,25.0,7,hop,end,flavour
+Centennial,25.0,7,hop,dry hop,aroma
+Amarillo,25.0,7,hop,dry hop,aroma
+Tomahawk,37.5,7,hop,dry hop,aroma
+Extra Pale,3330.0,8,malt,,
+Munich,420.0,8,malt,,
+Caramalt,280.0,8,malt,,
+Acidulated Malt,70.0,8,malt,,
+Magnum,7.5,8,hop,start,bitter
+Magnum,5.0,8,hop,middle,flavour
+Hersbrucker,6.25,8,hop,middle,flavour
+Saaz,6.25,8,hop,middle,flavour
+Hersbrucker,18.75,8,hop,end,flavour
+Saaz,18.75,8,hop,end,flavour
+Munich,5630.0,9,malt,,
+Flaked Oats,1880.0,9,malt,,
+Wheat,1880.0,9,malt,,
+Caramalt,1250.0,9,malt,,
+Crystal,630.0,9,malt,,
+Dark Crystal,630.0,9,malt,,
+Chocolate,310.0,9,malt,,
+Peated Malt,130.0,9,malt,,
+Amber,130.0,9,malt,,
+Brown,130.0,9,malt,,
+Saaz,25.0,9,hop,start,bitter
+First Gold,31.3,9,hop,start,bitter
+Extra Pale,6380.0,10,malt,,
+Crystal 150,130.0,10,malt,,
+Caramalt,250.0,10,malt,,
+Bramling Cross,60.0,10,hop,start,bitter
+Bramling Cross,50.0,10,hop,end,flavour
+Pale Ale,2180.0,11,malt,,
+Caramalt,300.0,11,malt,,
+Dark Crystal,300.0,11,malt,,
+Smoked Weyermann,1800.0,11,malt,,
+Flaked Oats,600.0,11,malt,,
+Brown,600.0,11,malt,,
+Amber,100.0,11,malt,,
+Chocolate,50.0,11,malt,,
+Munich,600.0,11,malt,,
+Crystal 150,200.0,11,malt,,
+First Gold,25.0,11,hop,start,bitter
+Fuggles,25.0,11,hop,start,bitter
+Honey,250.0,11,hop,middle,Flavour
+Lactose,375.0,11,hop,middle,Flavour
+First Gold,10.0,11,hop,end,aroma
+Fuggles,10.0,11,hop,end,aroma
+Pale Ale,3130.0,12,malt,,
+Caramalt,250.0,12,malt,,
+Crystal 150,180.0,12,malt,,
+Carafa Special Malt Type 1,250.0,12,malt,,
+Simcoe,12.5,12,hop,start,bitter
+Simcoe,19.0,12,hop,middle,flavour
+Simcoe,12.5,12,hop,end,flavour
+Amarillo,12.5,12,hop,end,flavour
+Citra,12.5,12,hop,end,flavour
+Simcoe,62.5,12,hop,dry hop,aroma
+Amarillo,62.5,12,hop,dry hop,aroma
+Citra,62.5,12,hop,dry hop,aroma
+Maris Otter Extra Pale,3440.0,13,malt,,
+Caramalt,630.0,13,malt,,
+Crystal 150,310.0,13,malt,,
+Carafa Special Malt Type 1,310.0,13,malt,,
+Carafa Special Malt Type 3,310.0,13,malt,,
+Cascade,43.8,13,hop,start,bitter
+Cascade,81.3,13,hop,end,flavour
+Cascade,250.0,13,hop,dry hop,aroma
+Maris Otter Extra Pale,2500.0,14,malt,,
+Caramalt,1250.0,14,malt,,
+Munich,610.0,14,malt,,
+Crystal 150,280.0,14,malt,,
+Dark Crystal 350-400,200.0,14,malt,,
+Nelson Sauvin,15.0,14,hop,start,bitter
+Amarillo,10.0,14,hop,end,flavour
+Nelson Sauvin,30.0,14,hop,end,flavour
+Pale Ale - Tipple,11100.0,15,malt,,
+Caramalt,940.0,15,malt,,
+Crystal,440.0,15,malt,,
+Columbus Extract,12.5,15,hop,start,bitter
+Centennial,37.5,15,hop,end,flavour
+Cascade,37.5,15,hop,end,flavour
+Simcoe,37.5,15,hop,end,flavour
+Extra Pale - Spring Blend,5000.0,16,malt,,
+Caramalt,1250.0,16,malt,,
+Crystal 150,630.0,16,malt,,
+Chocolate,630.0,16,malt,,
+Roasted Barley,630.0,16,malt,,
+Wheat,310.0,16,malt,,
+Flaked Oats,310.0,16,malt,,
+Smoked Malt,60.0,16,malt,,
+Columbus,31.25,16,hop,start,bitter
+Columbus,25.0,16,hop,end,bitter
+Willamette,25.0,16,hop,end,flavour
+Galena,25.0,16,hop,end,flavour
+Columbus,75.0,16,hop,dry hop,aroma
+Galena,75.0,16,hop,dry hop,aroma
+Simcoe,100.0,16,hop,dry hop,aroma
+Pale Ale,6130.0,17,malt,,
+Crystal 150,250.0,17,malt,,
+Caramalt,380.0,17,malt,,
+Carafa Special Malt Type 1,130.0,17,malt,,
+Carafa Special Malt Type 3,130.0,17,malt,,
+Hop Extract,20.0,17,hop,start,bitter
+Amarillo,25.0,17,hop,start,bitter
+Chinook,25.0,17,hop,end,flavour
+Cascade,25.0,17,hop,end,flavour
+Centennial,25.0,17,hop,end,flavour
+Columbus,25.0,17,hop,end,flavour
+Chinook,25.0,17,hop,dry hop,aroma
+Cascade,25.0,17,hop,dry hop,aroma
+Centennial,25.0,17,hop,dry hop,aroma
+Columbus,25.0,17,hop,dry hop,aroma
+Amarillo,25.0,17,hop,dry hop,aroma
+Extra Pale,5060.0,18,malt,,
+Caramalt,250.0,18,malt,,
+Dark Crystal,60.0,18,malt,,
+Cascade,2.5,18,hop,start,bitter
+Centennial,12.5,18,hop,middle,flavour
+Simcoe,17.5,18,hop,middle,flavour
+Simcoe,17.5,18,hop,end,flavour
+Citra,17.5,18,hop,end,flavour
+Simcoe,75.0,18,hop,dry hop,aroma
+Cascade,75.0,18,hop,dry hop,aroma
+Centennial,75.0,18,hop,dry hop,aroma
+Citra,25.0,18,hop,dry hop,aroma
+Extra Pale,6120.0,19,malt,,
+Caramalt,800.0,19,malt,,
+Tomahawk,7.0,19,hop,start,bitter
+Motueka,5.5,19,hop,start,bitter
+Galena,2.5,19,hop,middle,flavour
+Mt.Hood,2.5,19,hop,middle,flavour
+Challenger,15.0,19,hop,dry hop,aroma
+Galena,15.0,19,hop,dry hop,aroma
+Nelson Sauvin,20.0,19,hop,dry hop,aroma
+Extra Pale,5630.0,20,malt,,
+Wheat,690.0,20,malt,,
+Crystal,630.0,20,malt,,
+Columbus,12.5,20,hop,start,bitter
+Hersbrucker,12.5,20,hop,middle,flavour
+Extra Pale,2690.0,21,malt,,
+Wheat,1250.0,21,malt,,
+Caramalt,380.0,21,malt,,
+Waimea,2.5,21,hop,start,bitter
+Amarillo,2.5,21,hop,middle,flavour
+Nelson Sauvin,2.5,21,hop,middle,flavour
+Motueka,2.5,21,hop,middle,flavour
+Simcoe,6.0,21,hop,end,flavour
+Citra,6.0,21,hop,end,flavour
+Waimea,6.0,21,hop,end,flavour
+Extra Pale,10000.0,22,malt,,
+Caramalt,1880.0,22,malt,,
+Munich,1250.0,22,malt,,
+Amber,630.0,22,malt,,
+Nelson Sauvin,100.0,22,hop,start,bitter
+Nelson Sauvin,100.0,22,hop,end,flavour
+Extra Pale,5800.0,23,malt,,
+Ahtanum,17.5,23,hop,start,bitter
+Chinook,15.0,23,hop,start,bitter
+Crystal,17.5,23,hop,middle,flavour
+Chinook,17.5,23,hop,middle,flavour
+Ahtanum,17.5,23,hop,end,flavour
+Chinook,27.5,23,hop,end,flavour
+Crystal,17.5,23,hop,end,flavour
+Motueka,17.5,23,hop,end,flavour
+Extra Pale,12500.0,24,malt,,
+Nelson Sauvin,6.25,24,hop,start,bitter
+Centennial,12.5,24,hop,start,bitter
+Nelson Sauvin,12.5,24,hop,end,flavour
+Amarillo,12.5,24,hop,end,flavour
+Centennial,12.5,24,hop,end,flavour
+Wheat,2500.0,25,malt,,
+Extra Pale,2060.0,25,malt,,
+First Gold,18.75,25,hop,start,bitter
+First Gold,25.0,25,hop,end,flavour
+Sorachi Ace,16.25,25,hop,end,flavour
+Extra Pale,2810.0,26,malt,,
+Caramalt,630.0,26,malt,,
+Crystal 120,310.0,26,malt,,
+Cascade,25.0,26,hop,start,bitter
+Cascade,18.8,26,hop,end,flavour
+Centennial,18.8,26,hop,end,flavour
+Amarillo,25.0,26,hop,end,flavour
+Simcoe,31.3,26,hop,end,flavour
+Extra Pale,8000.0,27,malt,,
+Wheat,500.0,27,malt,,
+Flaked Oats,1380.0,27,malt,,
+Dark Crystal,880.0,27,malt,,
+Carafa Special Malt Type 1,630.0,27,malt,,
+Carafa Special Malt Type 3,630.0,27,malt,,
+Honey,700.0,27,malt,,
+Chinook,50.0,27,hop,start,bitter
+Cascade,25.0,27,hop,start,bitter
+Fuggles,25.0,27,hop,15,bitter
+Coffee,12.5,27,hop,15,twist
+Fuggles,25.0,27,hop,0, aroma
+Coffee,12.5,27,hop,0,twist
+Extra Pale - Spring Blend,5870.0,28,malt,,
+Caramalt,370.0,28,malt,,
+Crystal 150,190.0,28,malt,,
+HBC 369,40.0,28,hop,start,bitter
+HBC 369,100.0,28,hop,end,flavour
+HBC 369,250.0,28,hop,dry hop,aroma
+Extra Pale,4750.0,29,malt,,
+Caramalt,1250.0,29,malt,,
+Crystal 150,500.0,29,malt,,
+Dark Crystal,130.0,29,malt,,
+Chinook,20.0,29,hop,start,bitter
+Chinook,5.0,29,hop,middle,bitter
+Centennial,5.0,29,hop,middle,bitter
+Chinook,62.5,29,hop,end,flavour
+Centennial,62.5,29,hop,end,flavour
+Chinook,100.0,29,hop,dry hop,aroma
+Extra Pale,5000.0,30,malt,,
+Caramalt,310.0,30,malt,,
+Dark Crystal,60.0,30,malt,,
+Munich,310.0,30,malt,,
+Dana,2.5,30,hop,start,bitter
+Dana,25.0,30,hop,middle,flavour
+Dana,37.5,30,hop,end,flavour
+Dana,125.0,30,hop,dry hop,aroma
+Munich,130.0,31,malt,,
+Caramalt,190.0,31,malt,,
+Crystal 150,60.0,31,malt,,
+Amber,30.0,31,malt,,
+Dark Crystal,130.0,31,malt,,
+Chocolate,60.0,31,malt,,
+Wheat,60.0,31,malt,,
+Rye,130.0,31,malt,,
+Amarillo,6.3,31,hop,start,bitter
+Simcoe,5.0,31,hop,start,bitter
+Centennial,6.3,31,hop,start,bitter
+Amarillo,6.3,31,hop,middle,flavour
+Simcoe,2.5,31,hop,middle,flavour
+Centennial,6.3,31,hop,middle,flavour
+Amarillo,5.0,31,hop,end,flavour
+Simcoe,5.0,31,hop,end,flavour
+Cascade,12.5,31,hop,end,flavour
+Ahtanum,12.5,31,hop,end,flavour
+Centennial,50.0,31,hop,dry hop,aroma
+Cascade,50.0,31,hop,dry hop,aroma
+Ahtanum,25.0,31,hop,dry hop,aroma
+Simcoe,25.0,31,hop,dry hop,aroma
+Columbus,37.5,31,hop,dry hop,aroma
+Extra Pale,10000.0,32,malt,,
+Carafa Special Malt Type 1,940.0,32,malt,,
+Carafa Special Malt Type 3,940.0,32,malt,,
+Flaked Oats,1880.0,32,malt,,
+Pale Crystal,1250.0,32,malt,,
+Dark Crystal,630.0,32,malt,,
+First Gold,50.0,32,hop,start,bitter
+First Gold,50.0,32,hop,end,flavour
+Extra Pale,6380.0,33,malt,,
+Crystal 150,130.0,33,malt,,
+Caramalt,250.0,33,malt,,
+Sorachi Ace,14.5,33,hop,start,bitter
+Sorachi Ace,20.0,33,hop,end,flavour
+Extra Pale,1750.0,34,malt,,
+Munich,440.0,34,malt,,
+Dark Crystal,500.0,34,malt,,
+Wheat,560.0,34,malt,,
+Flaked Oats,560.0,34,malt,,
+Carafa Special Malt Type 3,130.0,34,malt,,
+Amber,250.0,34,malt,,
+Weyermann Beech Smoked,60.0,34,malt,,
+First Gold,18.5,34,hop,start,bitter
+Willamette,12.5,34,hop,middle,flavour
+Hallertauer Mittelfrüh,6.0,34,hop,middle,flavour
+Propino Pale Malt,1630.0,35,malt,,
+Wheat Malt,1630.0,35,malt,,
+Propino Pale Malt for kettle souring,30.0,35,malt,,
+Acidulated Malt for kettle souring,30.0,35,malt,,
+Bramling Cross,10.0,35,hop,middle,bitter
+Extra Pale,9350.0,36,malt,,
+Munich,630.0,36,malt,,
+Crystal 150,1000.0,36,malt,,
+Chocolate,60.0,36,malt,,
+Chinook,50.0,36,hop,start,bitter
+Cascade,25.0,36,hop,middle,flavour
+Citra,25.0,36,hop,middle,flavour
+Chinook,25.0,36,hop,middle,flavour
+Chinook,25.0,36,hop,end,flavour
+Citra,25.0,36,hop,end,flavour
+Cascade,25.0,36,hop,end,flavour
+Cascade,125.0,36,hop,dry hop,aroma
+Chinook,125.0,36,hop,dry hop,aroma
+Citra,125.0,36,hop,dry hop,aroma
+Extra Pale,6300.0,37,malt,,
+Caramalt,380.0,37,malt,,
+Crystal 150,290.0,37,malt,,
+Columbus Extract,31.0,37,hop,start,bitter
+Columbus,19.5,37,hop,start,bitter
+Columbus,19.5,37,hop,middle,flavour
+Centennial,19.5,37,hop,middle,flavour
+Simcoe,19.5,37,hop,middle,flavour
+Columbus,19.5,37,hop,end,flavour
+Centennial,19.5,37,hop,end,flavour
+Centennial,115.5,37,hop,dry hop,aroma
+Columbus,96.0,37,hop,dry hop,aroma
+Simcoe,96.0,37,hop,dry hop,aroma
+Amarillo,77.0,37,hop,dry hop,aroma
+Extra Pale,4580.0,38,malt,,
+Caramalt,250.0,38,malt,,
+Dark Crystal,60.0,38,malt,,
+Munich,250.0,38,malt,,
+Centennial,5.0,38,hop,start,bitter
+Amarillo,5.0,38,hop,start,bitter
+Centennial,10.0,38,hop,middle,flavour
+Amarillo,10.0,38,hop,middle,flavour
+Centennial,17.5,38,hop,end,flavour
+Amarillo,17.5,38,hop,end,flavour
+Extra Pale,5650.0,39,malt,,
+Caramalt,310.0,39,malt,,
+Dark Crystal,60.0,39,malt,,
+Kohatu,37.5,39,hop,start,bitter
+Kohatu,25.0,39,hop,middle,flavour
+Kohatu,37.5,39,hop,end,flavour
+Kohatu,250.0,39,hop,dry hop,aroma
+Extra Pale,5770.0,40,malt,,
+Caramalt,630.0,40,malt,,
+Wheat,630.0,40,malt,,
+Citra,4.0,40,hop,start,bitter
+Citra,37.5,40,hop,middle,flavour
+Citra,37.5,40,hop,end,flavour
+Blackberry Concentrate,62.5,40,hop,end,flavour
+Sour Cherry Puree,250.0,40,hop,end,flavour
+Citra,112.5,40,hop,dry hop,aroma
+Mosaic,200.0,40,hop,dry hop,aroma
+Centennial,187.5,40,hop,dry hop,aroma
+Pale Ale,9000.0,41,malt,,
+Rye,630.0,41,malt,,
+Amber,380.0,41,malt,,
+Dark Crystal,880.0,41,malt,,
+Roasted Barley,250.0,41,malt,,
+Chocolate,500.0,41,malt,,
+Carafa Special Malt Type 1,250.0,41,malt,,
+CO2 Extract,20.0,41,hop,start,bitter
+Willamette,50.0,41,hop,end,flavour
+Extra Pale,7400.0,42,malt,,
+Caramalt,380.0,42,malt,,
+Crystal 150,290.0,42,malt,,
+Columbus Extract,30.8,42,hop,start,bitter
+Columbus,19.2,42,hop,start,bitter
+Columbus,19.2,42,hop,middle,flavour
+Centennial,19.2,42,hop,middle,flavour
+Simcoe,19.2,42,hop,middle,flavour
+Columbus,19.2,42,hop,end,flavour
+Centennial,19.2,42,hop,end,flavour
+Simcoe,19.2,42,hop,end,flavour
+Centennial,115.4,42,hop,dry hop,aroma
+Columbus,96.2,42,hop,dry hop,aroma
+Simcoe,96.2,42,hop,dry hop,aroma
+Amarillo,76.9,42,hop,dry hop,aroma
+Extra Pale,2130.0,43,malt,,
+Wheat,2500.0,43,malt,,
+Pale Crystal,130.0,43,malt,,
+Ahtanum,25.0,43,hop,start,bitter
+Ahtanum,25.0,43,hop,end,flavour
+Extra Pale,4700.0,44,malt,,
+Munich,380.0,44,malt,,
+Acidulated Malt,630.0,44,malt,,
+Nelson Sauvin,20.0,44,hop,start,bitter
+Motueka,20.0,44,hop,start,bitter
+Nelson Sauvin,10.0,44,hop,middle,flavour
+Motueka,10.0,44,hop,middle,flavour
+Nelson Sauvin,20.0,44,hop,end,flavour
+Motueka,20.0,44,hop,end,flavour
+Motueka,100.0,44,hop,dry hop,aroma
+Nelson Sauvin,87.5,44,hop,dry hop,aroma
+Extra Pale,4059.9999999999995,45,malt,,
+Caramalt,310.0,45,malt,,
+Crystal 120,230.0,45,malt,,
+Dark Crystal,940.0,45,malt,,
+Amarillo,25.0,45,hop,start,bitter
+Amarillo,12.5,45,hop,middle,flavour
+Bramling Cross,12.5,45,hop,end,flavour
+Amarillo,50.0,45,hop,end,flavour
+Extra Pale,12500.0,46,malt,,
+Nelson Sauvin,6.25,46,hop,start,bitter
+Centennial,12.5,46,hop,start,bitter
+Nelson Sauvin,12.5,46,hop,end,flavour
+Amarillo,12.5,46,hop,end,flavour
+Centennial,12.5,46,hop,end,flavour
+Nelson Sauvin,12.5,46,hop,dry hop,aroma
+Amarillo,12.5,46,hop,dry hop,aroma
+Centennial,12.5,46,hop,dry hop,aroma
+Maris Otter Extra Pale,6562.5,47,malt,,
+Caramalt,312.5,47,malt,,
+Munich,1250.0,47,malt,,
+Crystal 150,312.5,47,malt,,
+Popcorn,6.25,47,malt,,
+Sorachi Ace,62.5,47,hop,start,bitter
+Willamette,25.0,47,hop,end,aroma
+Extra Pale,5000.0,48,malt,,
+Caramalt,310.0,48,malt,,
+Dark Crystal,60.0,48,malt,,
+Munich,310.0,48,malt,,
+Goldings,37.5,48,hop,start,bitter
+Goldings,25.0,48,hop,middle,flavour
+Goldings,37.5,48,hop,end,flavour
+Goldings,125.0,48,hop,dry hop,aroma
+Wheat,5000.0,49,malt,,
+Extra Pale,2000.0,49,malt,,
+Munich,2000.0,49,malt,,
+Caramalt,1130.0,49,malt,,
+Bramling Cross,30.0,49,hop,start,bitter
+Simcoe,12.5,49,hop,middle,flavour
+Saaz,15.0,49,hop,middle,flavour
+Simcoe,12.5,49,hop,end,flavour
+Saaz,15.0,49,hop,end,flavour
+Extra Pale,4690.0,50,malt,,
+Pale Chocolate,230.0,50,malt,,
+Chocolate,700.0,50,malt,,
+Dark Crystal,350.0,50,malt,,
+Flaked Oats,470.0,50,malt,,
+Caramalt,350.0,50,malt,,
+First Gold,35.0,50,hop,start,bitter
+Pale Ale,5300.0,51,malt,,
+Bobek,25.0,51,hop,start,bitter
+Bobek,25.0,51,hop,middle,flavour
+Bobek,25.0,51,hop,end,flavour
+Ginger,12.5,51,hop,end,flavour
+Orange Peel,12.5,51,hop,end,flavour
+Extra Pale,4500.0,52,malt,,
+Caramalt,550.0,52,malt,,
+Munich,330.0,52,malt,,
+Flaked Oats,1350.0,52,malt,,
+Dark Crystal,550.0,52,malt,,
+Carafa Special Malt Type 1,180.0,52,malt,,
+Carafa Special Malt Type 3,330.0,52,malt,,
+Columbus,75.0,52,hop,start,bitter
+Columbus,25.0,52,hop,middle,flavour
+Saaz,25.0,52,hop,end,flavour
+First Gold,25.0,52,hop,end,flavour
+Extra Pale,1750.0,53,malt,,
+Munich,480.0,53,malt,,
+Dark Crystal,500.0,53,malt,,
+Wheat,560.0,53,malt,,
+Flaked Oats,560.0,53,malt,,
+Carafa Special Malt Type 3,130.0,53,malt,,
+Amber,250.0,53,malt,,
+Weyermann Beech Smoked,60.0,53,malt,,
+First Gold,18.5,53,hop,start,bitter
+Willamette,12.5,53,hop,start,bitter
+Hallertauer Mittelfrüh,6.0,53,hop,start,bitter
+Pale Ale,5000.0,54,malt,,
+Crystal 150,380.0,54,malt,,
+Dark Crystal,130.0,54,malt,,
+Carafa Special Malt Type 1,60.0,54,malt,,
+Rye,500.0,54,malt,,
+Magnum,12.5,54,hop,start,bitter
+Chinook,25.0,54,hop,middle,flavour
+Citra,6.25,54,hop,middle,flavour
+Chinook,37.5,54,hop,end,flavour
+Citra,18.75,54,hop,end,flavour
+Chinook,100.0,54,hop,fv,aroma
+Citra,75.0,54,hop,fv,aroma
+Extra Pale,4880.0,55,malt,,
+Caramalt,310.0,55,malt,,
+Dark Crystal,60.0,55,malt,,
+Amarillo,20.0,55,hop,start,bitter
+Amarillo,25.0,55,hop,middle,flavour
+Amarillo,37.5,55,hop,end,flavour
+Amarillo,250.0,55,hop,dry hop,aroma
+Extra Pale - Spring Blend,6250.0,56,malt,,
+Wheat,1250.0,56,malt,,
+Caramalt,1250.0,56,malt,,
+Crystal,1560.0,56,malt,,
+Dark Crystal,630.0,56,malt,,
+Amber,630.0,56,malt,,
+Brown,630.0,56,malt,,
+Chocolate,630.0,56,malt,,
+Roasted Barley,310.0,56,malt,,
+Magnum,62.5,56,hop,start,bitter
+Willamette,31.25,56,hop,end,flavour
+First Gold,31.25,56,hop,end,flavour
+Pale Ale,8130.000000000001,57,malt,,
+Crystal 150,280.0,57,malt,,
+Caramalt,560.0,57,malt,,
+Columbus,50.0,57,hop,start,bitter
+Centennial,50.0,57,hop,start,bitter
+Columbus,12.5,57,hop,middle,flavour
+Centennial,12.5,57,hop,middle,flavour
+Columbus,37.5,57,hop,end,flavour
+Centennial,37.5,57,hop,end,flavour
+Simcoe,37.5,57,hop,end,flavour
+Extra Pale,7500.0,58,malt,,
+Dark Crystal,630.0,58,malt,,
+Chocolate,310.0,58,malt,,
+Roasted Barley,310.0,58,malt,,
+Chinook,25.0,58,hop,start,bitter
+Galena,25.0,58,hop,start,bitter
+Galena,25.0,58,hop,end,flavour
+First Gold,25.0,58,hop,end,flavour
+Coffee,9.4,58,hop,end,flavour
+Coffee,9.4,58,hop,dry hop,aroma
+Extra Pale,6390.0,59,malt,,
+Mandarina Bavaria,41.5,59,hop,start,bitter
+Mandarina Bavaria,41.5,59,hop,middle,flavour
+Mandarina Bavaria,41.5,59,hop,end,flavour
+Pale Ale,3500.0,60,malt,,
+Munich,750.0,60,malt,,
+Caramalt,500.0,60,malt,,
+Crystal,380.0,60,malt,,
+Dark Crystal,500.0,60,malt,,
+Wheat,1000.0,60,malt,,
+Flaked Oats,1000.0,60,malt,,
+Chocolate,250.0,60,malt,,
+Smoked Malt,60.0,60,malt,,
+Amber,250.0,60,malt,,
+Brown,250.0,60,malt,,
+Saaz,75.0,60,hop,start,bitter
+First Gold,10.0,60,hop,start,bitter
+Extra Pale,2380.0,61,malt,,
+Wheat,440.0,61,malt,,
+Torrified Wheat,440.0,61,malt,,
+Rye,190.0,61,malt,,
+Flaked Oats,440.0,61,malt,,
+Amber,190.0,61,malt,,
+Simcoe,25.0,61,hop,end,flavour
+Amarillo,25.0,61,hop,end,flavour
+Maris Otter Extra Pale,9250.0,62,malt,,
+Wheat,1880.0,62,malt,,
+Flaked Oats,1880.0,62,malt,,
+Smoked Peaty,130.0,62,malt,,
+First Gold,81.25,62,hop,start,bitter
+First Gold,62.5,62,hop,end,flavour
+Coffee Beans,12.5,62,hop,end,flavour
+Extra Pale,5210.0,63,malt,,
+Chinook,20.0,63,hop,start,bitter
+Ahtanum,12.5,63,hop,start,bitter
+Chinook,20.0,63,hop,middle,flavour
+Ahtanum,12.5,63,hop,middle,flavour
+Chinook,30.0,63,hop,end,flavour
+Ahtanum,12.5,63,hop,end,flavour
+Simcoe,12.5,63,hop,end,flavour
+Nelson Sauvin,140.0,63,hop,end,flavour
+Extra Pale,6250.0,64,malt,,
+Munich,250.0,64,malt,,
+Dextrose,380.0,64,malt,,
+Saaz,12.5,64,hop,start,bitter
+Hallertauer Mittelfrüh,12.5,64,hop,middle,flavour
+Pacifica,12.5,64,hop,end,flavour
+Pacific Jade,25.0,64,hop,end,flavour
+Pacifica,25.0,64,hop,end,flavour
+Pacific Jade,75.0,64,hop,dry hop,aroma
+Pacifica,37.5,64,hop,dry hop,aroma
+Extra Pale,3630.0,65,malt,,
+Dark Crystal,190.0,65,malt,,
+Roasted Barley,310.0,65,malt,,
+Black Malt,130.0,65,malt,,
+Vic Secret,12.5,65,hop,start,bitter
+Bramling Cross,12.5,65,hop,end,aroma
+Challenger,12.5,65,hop,end,aroma
+Extra Pale,7600.0,66,malt,,
+Dark Crystal,1750.0,66,malt,,
+Chocolate,500.0,66,malt,,
+Roasted Barley,500.0,66,malt,,
+Chinook,37.5,66,hop,start,bitter
+Galena,37.5,66,hop,start,bitter
+Chinook,37.5,66,hop,start,bitter
+Galena,37.5,66,hop,start,bitter
+Galena,25.0,66,hop,end,flavour
+First Gold,25.0,66,hop,end,flavour
+Chinook,25.0,66,hop,end,flavour
+Maris Otter Extra Pale,4300.0,67,malt,,
+Munich,800.0,67,malt,,
+Amarillo,10.0,67,hop,start,bitter
+Simcoe,15.0,67,hop,start,bitter
+Amarillo,25.0,67,hop,end,flavour
+Citra,20.0,67,hop,end,flavour
+Maris Otter Extra Pale,4019.9999999999995,68,malt,,
+Nelson Sauvin,2.0,68,hop,start,bitter
+Nelson Sauvin,5.0,68,hop,end,flavour
+Amarillo,2.5,68,hop,end,flavour
+Extra Pale,7750.0,69,malt,,
+Wheat,500.0,69,malt,,
+Munich,500.0,69,malt,,
+Crystal 150,380.0,69,malt,,
+Chocolate,130.0,69,malt,,
+Waimea,15.0,69,hop,start,bitter
+Saaz,12.5,69,hop,middle,flavour
+Fuggles,12.5,69,hop,middle,flavour
+Pale Ale - Tipple,10000.0,70,malt,,
+Chocolate,1250.0,70,malt,,
+Carafa Special Malt Type 3,940.0,70,malt,,
+Crystal,940.0,70,malt,,
+Flaked Oats,1560.0,70,malt,,
+Simcoe,37.5,70,hop,start,bitter
+Challenger,25.0,70,hop,end,flavour
+Extra Pale,3630.0,71,malt,,
+Caramalt,250.0,71,malt,,
+Dark Crystal,130.0,71,malt,,
+Cascade,7.5,71,hop,start,bitter
+Centennial,5.0,71,hop,middle,flavour
+Citra,5.0,71,hop,middle,flavour
+Simcoe,17.5,71,hop,end,flavour
+Simcoe,62.5,71,hop,dry hop,aroma
+Cascade,62.5,71,hop,dry hop,aroma
+Centennial,62.5,71,hop,dry hop,aroma
+Citra,12.5,71,hop,dry hop,aroma
+Extra Pale,6880.0,72,malt,,
+Acidulated Malt,1880.0,72,malt,,
+Wheat Malt,1250.0,72,malt,,
+Rye,250.0,72,malt,,
+Special W,50.0,72,malt,,
+Amarillo,8.5,72,hop,start,bitter
+Citra,8.5,72,hop,start,bitter
+Simcoe,8.5,72,hop,start,bitter
+Amarillo,5.0,72,hop,end,flavour
+Citra,5.0,72,hop,end,flavour
+Simcoe,5.0,72,hop,end,flavour
+Amarillo,1.5,72,hop,dry hop,aroma
+Citra,1.5,72,hop,dry hop,aroma
+Simcoe,1.5,72,hop,dry hop,aroma
+Extra Pale,6250.0,73,malt,,
+Wheat,1250.0,73,malt,,
+Caramalt,1250.0,73,malt,,
+Crystal,1562.5,73,malt,,
+Dark Crystal,625.0,73,malt,,
+Amber,625.0,73,malt,,
+Brown,625.0,73,malt,,
+Chocolate,625.0,73,malt,,
+Roasted Barley,312.5,73,malt,,
+Magnum,62.5,73,hop,start,bitter
+Willamette,31.25,73,hop,end,bitter
+First Gold,31.25,73,hop,end,aroma / bitter
+Extra Pale,3250.0,74,malt,,
+Caramalt,250.0,74,malt,,
+Munich,380.0,74,malt,,
+Simcoe,5.0,74,hop,start,bitter
+Amarillo,6.3,74,hop,start,bitter
+Simcoe,2.5,74,hop,middle,flavour
+Amarillo,5.0,74,hop,middle,flavour
+Motueka,5.0,74,hop,middle,flavour
+Simcoe,12.5,74,hop,end,flavour
+Amarillo,12.5,74,hop,end,flavour
+Motueka,12.5,74,hop,end,flavour
+Simcoe,12.5,74,hop,dry hop,aroma
+Amarillo,12.5,74,hop,dry hop,aroma
+Motueka,12.5,74,hop,dry hop,aroma
+Extra Pale - Spring Blend,4380.0,75,malt,,
+Wheat,630.0,75,malt,,
+Caramalt,310.0,75,malt,,
+Motueka,37.5,75,hop,start,bitter
+Motueka,18.75,75,hop,end,flavour
+Extra Pale,5000.0,76,malt,,
+Dark Crystal,500.0,76,malt,,
+Caramalt,440.0,76,malt,,
+Amber,250.0,76,malt,,
+Chocolate,190.0,76,malt,,
+Motueka,10.0,76,hop,start,bitter
+Magnum,12.5,76,hop,start,bitter
+Cascade,6.0,76,hop,middle,flavour
+Amarillo,6.0,76,hop,middle,flavour
+Cascade,5.0,76,hop,end,flavour
+Amarillo,5.0,76,hop,end,flavour
+Willamette,5.0,76,hop,end,flavour
+Extra Pale,2060.0,77,malt,,
+Caramalt,630.0,77,malt,,
+Crystal 150,250.0,77,malt,,
+Wheat,500.0,77,malt,,
+Rye,190.0,77,malt,,
+Centennial,2.5,77,hop,start,bitter
+Amarillo,2.5,77,hop,start,bitter
+Centennial,12.5,77,hop,middle,flavour
+Amarillo,12.5,77,hop,middle,flavour
+Centennial,25.0,77,hop,end,flavour
+Amarillo,150.0,77,hop,dry hop,aroma
+Centennial,125.0,77,hop,dry hop,aroma
+Extra Pale - Spring Blend,8750.0,78,malt,,
+Caramalt,930.0,78,malt,,
+Dark Crystal,440.0,78,malt,,
+Carafa Special Malt Type 1,110.0,78,malt,,
+Chocolate,110.0,78,malt,,
+Brown,380.0,78,malt,,
+Flaked Oats,940.0,78,malt,,
+Galena,37.5,78,hop,start,bitter
+Willamette,50.0,78,hop,end,bitter
+First Gold,25.0,78,hop,end,flavour
+Maris Otter Extra Pale,4820.0,79,malt,,
+Caramalt,2500.0,79,malt,,
+Crystal 150,960.0,79,malt,,
+Chinook,40.0,79,hop,start,bitter
+Chinook,62.5,79,hop,end,flavour
+Centennial,62.5,79,hop,end,flavour
+Chinook,178.0,79,hop,dry hop,aroma
+Pale Ale,10000.0,80,malt,,
+Wheat Malt,940.0,80,malt,,
+Flaked Oats,1880.0,80,malt,,
+Dark Crystal 350,1250.0,80,malt,,
+Chocolate,940.0,80,malt,,
+Black Patent,940.0,80,malt,,
+First Gold,75.0,80,hop,start,bitter
+Fuggles,75.0,80,hop,start,bitter
+Fuggles,62.5,80,hop,end,flavour
+Coffee Beans,37.5,80,hop,end,flavour
+Pilsner,3250.0,81,malt,,
+Dextrin Malt,380.0,81,malt,,
+Chinook,2.5,81,hop,start,bitter
+Amarillo,25.0,81,hop,end,flavour
+Simcoe,12.5,81,hop,end,flavour
+Citra,25.0,81,hop,end,flavour
+Mosaic,12.5,81,hop,end,flavour
+Amarillo,63.0,81,hop,dry hop,flavour
+Simcoe,63.0,81,hop,dry hop,flavour
+Citra,63.0,81,hop,dry hop,aroma
+Extra Pale,4000.0,82,malt,,
+Flaked Oats,750.0,82,malt,,
+Brown,380.0,82,malt,,
+Crystal 150,250.0,82,malt,,
+Munich,500.0,82,malt,,
+Carafa Special Malt Type 1,60.0,82,malt,,
+Columbus,47.0,82,hop,start,bitter
+Simcoe,25.0,82,hop,end,flavour
+Centennial,25.0,82,hop,end,flavour
+Columbus,25.0,82,hop,dry hop,aroma
+Simcoe,37.5,82,hop,dry hop,aroma
+Citra,12.5,82,hop,FV,aroma
+Extra Pale,5650.0,83,malt,,
+Caramalt,310.0,83,malt,,
+Dark Crystal,60.0,83,malt,,
+Comet,15.0,83,hop,start,bitter
+Comet,25.0,83,hop,middle,flavour
+Comet,37.5,83,hop,end,flavour
+Comet,250.0,83,hop,dry hop,aroma
+Pilsner,5400.0,84,malt,,
+Munich,130.0,84,malt,,
+Amber,50.0,84,malt,,
+Sorachi Ace,6.5,84,hop,start,bitter
+Sorachi Ace,6.5,84,hop,end,flavour
+Mosaic,6.5,84,hop,end,flavour
+Amarillo,6.5,84,hop,end,flavour
+Extra Pale,1750.0,85,malt,,
+Munich,440.0,85,malt,,
+Dark Crystal,500.0,85,malt,,
+Wheat,560.0,85,malt,,
+Flaked Oats,560.0,85,malt,,
+Carafa Special Malt Type 3,130.0,85,malt,,
+Amber,250.0,85,malt,,
+Weyermann Beech Smoked,630.0,85,malt,,
+First Gold,18.5,85,hop,start,bitter
+Willamette,12.5,85,hop,start,bitter
+Hallertauer Mittelfrüh,6.5,85,hop,start,bitter
+Extra Pale,4500.0,86,malt,,
+Munich,500.0,86,malt,,
+Amber,50.0,86,malt,,
+Dark Crystal,80.0,86,malt,,
+Amarillo,30.0,86,hop,start,bitter
+Amarillo,10.0,86,hop,end,flavour
+Bobek,10.0,86,hop,end,flavour
+Guarana Powder,6.0,86,hop,end,flavour
+Kola Nut Powder,6.0,86,hop,end,flavour
+Poppy Seed,6.0,86,hop,end,flavour
+Heather Honey,100.0,86,hop,end,flavour
+Extra Pale,3690.0,87,malt,,
+Caramalt,160.0,87,malt,,
+Dark Crystal,60.0,87,malt,,
+Rye,310.0,87,malt,,
+Columbus,5.0,87,hop,start,bitter
+Columbus,7.5,87,hop,middle,flavour
+Ahtanum,12.5,87,hop,middle,flavour
+Ahtanum,37.5,87,hop,end,flavour
+Ahtanum,125.0,87,hop,dry hop,aroma
+Columbus,125.0,87,hop,dry hop,aroma
+Extra Pale,4580.0,88,malt,,
+Caramalt,250.0,88,malt,,
+Dark Crystal,60.0,88,malt,,
+Munich,250.0,88,malt,,
+Centennial,5.0,88,hop,start,bitter
+Amarillo,5.0,88,hop,start,bitter
+Centennial,10.0,88,hop,middle,flavour
+Amarillo,10.0,88,hop,middle,flavour
+Centennial,17.5,88,hop,end,flavour
+Amarillo,17.5,88,hop,end,flavour
+Extra Pale,6380.0,89,malt,,
+Crystal 150,130.0,89,malt,,
+Caramalt,250.0,89,malt,,
+Citra,2.5,89,hop,start,bitter
+Citra,10.0,89,hop,middle,flavour
+Citra,37.5,89,hop,end,flavour
+Pale Ale,6350.0,90,malt,,
+Munich,770.0,90,malt,,
+Caramalt,960.0,90,malt,,
+Special W,290.0,90,malt,,
+Carafa Special Malt Type 1,380.0,90,malt,,
+Carafa Special Malt Type 3,190.0,90,malt,,
+Nugget,19.0,90,hop,start,bitter
+Columbus,38.5,90,hop,start,bitter
+Centennial,19.0,90,hop,middle,flavour
+Simcoe,19.0,90,hop,middle,flavour
+Centennial,19.0,90,hop,end,flavour
+Simcoe,19.0,90,hop,end,flavour
+Willamette,19.0,90,hop,end,flavour
+Centennial,38.5,90,hop,dry hop,aroma
+Simcoe,38.5,90,hop,dry hop,aroma
+Willamette,38.5,90,hop,dry hop,aroma
+Extra Pale,2790.0,91,malt,,
+Caramalt,630.0,91,malt,,
+Crystal 150,190.0,91,malt,,
+Simcoe,5.0,91,hop,start,bitter
+Citra,5.0,91,hop,start,bitter
+Simcoe,5.0,91,hop,middle,flavour
+Citra,5.0,91,hop,middle,flavour
+Simcoe,50.0,91,hop,dry hop,aroma
+Citra,75.0,91,hop,dry hop,aroma
+Mosaic,62.5,91,hop,dry hop,aroma
+Maris Otter Extra Pale,10000.0,92,malt,,
+Carafa Special Malt Type 1,1880.0,92,malt,,
+Flaked Oats,1880.0,92,malt,,
+Crystal 150,940.0,92,malt,,
+Dark Crystal 350-400,940.0,92,malt,,
+Fuggles,125.0,92,hop,start,bitter
+Fuggles,37.5,92,hop,end,flavour
+Extra Pale,5250.0,93,malt,,
+Wheat Malt,1880.0,93,malt,,
+Dark Crystal,130.0,93,malt,,
+Sorachi Ace,7.5,93,hop,start,bitter
+Amarillo,7.5,93,hop,start,bitter
+Sorachi Ace,15.0,93,hop,end,flavour
+Amarillo,15.0,93,hop,end,flavour
+Extra Pale,6130.0,94,malt,,
+Caramalt,380.0,94,malt,,
+Wheat,250.0,94,malt,,
+Rye,250.0,94,malt,,
+Motueka,25.0,94,hop,start,bitter
+Saaz,12.5,94,hop,middle,flavour
+Bobek,12.5,94,hop,middle,flavour
+Saaz,12.5,94,hop,end,flavour
+Bobek,12.5,94,hop,end,flavour
+Maris Otter,3850.0,95,malt,,
+Amarillo,25.0,95,hop,start,bitter
+Simcoe,20.0,95,hop,end,flavour
+Amarillo,25.0,95,hop,end,flavour
+Crystal,20.0,95,hop,end,flavour
+Liberty,20.0,95,hop,end,flavour
+Simcoe,50.0,95,hop,dry hop,aroma
+Amarillo,50.0,95,hop,dry hop,aroma
+Extra Pale,10630.0,96,malt,,
+Carafa Special Malt Type 3,1250.0,96,malt,,
+Flaked Oats,2190.0,96,malt,,
+Smoked Malt,630.0,96,malt,,
+Crystal,1250.0,96,malt,,
+Galena,36.0,96,hop,start,bitter
+Willamette,37.5,96,hop,end,flavour
+Extra Pale,4500.0,97,malt,,
+Rye,500.0,97,malt,,
+CaraAroma,40.0,97,malt,,
+Caramunich,100.0,97,malt,,
+Brown,250.0,97,malt,,
+Caramalt,130.0,97,malt,,
+Crystal,70.0,97,malt,,
+Munich,110.0,97,malt,,
+Motueka,10.0,97,hop,start,bitter
+First Gold,10.0,97,hop,start,bitter
+Galena,10.0,97,hop,start,bitter
+Motueka,5.0,97,hop,end,flavour
+First Gold,5.0,97,hop,end,flavour
+Galena,10.0,97,hop,end,flavour
+Extra Pale,3880.0,98,malt,,
+Munich,630.0,98,malt,,
+Dark Crystal,130.0,98,malt,,
+Amber,380.0,98,malt,,
+Magnum,2.5,98,hop,start,bitter
+Willamette,12.5,98,hop,middle,flavour
+First Gold,12.5,98,hop,middle,flavour
+Extra Pale,6130.0,99,malt,,
+Caramalt,880.0,99,malt,,
+Challenger,12.5,99,hop,start,bitter
+Bravo,12.5,99,hop,start,bitter
+Comet,12.5,99,hop,middle,flavour
+EXP 366,12.5,99,hop,middle,flavour
+Centennial,12.5,99,hop,end,flavour
+Simcoe,12.5,99,hop,end,flavour
+Citra,12.5,99,hop,end,flavour
+Comet,25.0,99,hop,dry hop,aroma
+Centennial,62.5,99,hop,dry hop,aroma
+Simcoe,62.5,99,hop,dry hop,aroma
+Citra,62.5,99,hop,dry hop,aroma
+Extra Pale,4500.0,100,malt,,
+Caramalt,880.0,100,malt,,
+Magnum,2.5,100,hop,start,bitter
+Simcoe,12.5,100,hop,middle,flavour
+Amarillo,12.5,100,hop,middle,flavour
+Mosaic,25.0,100,hop,end,flavour
+Citra,25.0,100,hop,end,flavour
+Amarillo,12.5,100,hop,end,flavour
+Simcoe,12.5,100,hop,end,flavour
+Citra,50.0,100,hop,dry hop,aroma
+Amarillo,50.0,100,hop,dry hop,aroma
+Simcoe,50.0,100,hop,dry hop,aroma
+Maris Otter Extra Pale,5360.0,101,malt,,
+Dark Crystal 350-400,710.0,101,malt,,
+Carafa Special Malt Type 3,180.0,101,malt,,
+Caramalt,540.0,101,malt,,
+Chocolate,250.0,101,malt,,
+Wheat,360.0,101,malt,,
+Flaked Oats,540.0,101,malt,,
+Columbus,14.3,101,hop,start,bitter
+Galena,14.3,101,hop,start,bitter
+Galena,21.4,101,hop,start,bitter
+Cascade,21.4,101,hop,end,flavour
+Columbus,21.4,101,hop,end,flavour
+Extra Pale,14500.0,102,malt,,
+Mandarina Bavaria,7.5,102,hop,start,bitter
+Strisselspalt,7.5,102,hop,start,bitter
+Mandarina Bavaria,25.0,102,hop,end,flavour
+Strisselspalt,25.0,102,hop,end,flavour
+Extra Pale,9500.0,103,malt,,
+Caramalt,500.0,103,malt,,
+Crystal 150,130.0,103,malt,,
+Brown,250.0,103,malt,,
+Munich,880.0,103,malt,,
+Magnum,25.0,103,hop,start,bitter
+Simcoe,18.5,103,hop,middle,flavour
+Mosaic,12.5,103,hop,middle,flavour
+Ahtanum,18.5,103,hop,middle,flavour
+Ahtanum,18.5,103,hop,end,flavour
+Mosaic,12.5,103,hop,end,flavour
+Mosaic,62.5,103,hop,dry hop,aroma
+Ahtanum,62.5,103,hop,dry hop,aroma
+Simcoe,62.5,103,hop,dry hop,aroma
+Extra Pale,3000.0,104,malt,,
+Wheat,2000.0,104,malt,,
+Dark Crystal,80.0,104,malt,,
+Cascade,6.0,104,hop,start,bitter
+Cascade,6.0,104,hop,middle,flavour
+Saaz,12.5,104,hop,middle,flavour
+Hersbrucker,12.5,104,hop,middle,flavour
+Maris Otter Extra Pale,6860.0,105,malt,,
+Caramalt,930.0,105,malt,,
+Columbus,25.0,105,hop,start,bitter
+Centennial,25.0,105,hop,start,bitter
+Columbus,12.5,105,hop,end,flavour
+Centennial,12.5,105,hop,end,flavour
+Nelson Sauvin,25.0,105,hop,end,flavour
+Bramling Cross/ First Gold,37.5,105,hop,end,flavour
+Columbus,71.43,105,hop,dry hop,aroma
+Centennial,71.43,105,hop,dry hop,aroma
+Nelson Sauvin,71.43,105,hop,dry hop,aroma
+Extra Pale,4380.0,106,malt,,
+Caramalt,250.0,106,malt,,
+Chinook,20.0,106,hop,start,bitter
+Ahtanum,12.5,106,hop,start,bitter
+Chinook,20.0,106,hop,middle,flavour
+Ahtanum,12.5,106,hop,middle,flavour
+Chinook,27.5,106,hop,end,flavour
+Ahtanum,12.5,106,hop,end,flavour
+Simcoe,12.5,106,hop,end,flavour
+Nelson Sauvin,12.5,106,hop,end,flavour
+Chinook,47.5,106,hop,dry hop,aroma
+Ahtanum,37.5,106,hop,dry hop,aroma
+Simcoe,37.5,106,hop,dry hop,aroma
+Nelson Sauvin,20.0,106,hop,dry hop,aroma
+Cascade,37.5,106,hop,dry hop,aroma
+Amarillo,10.0,106,hop,dry hop,aroma
+Extra Pale,5650.0,107,malt,,
+Caramalt,310.0,107,malt,,
+Dark Crystal,60.0,107,malt,,
+HBC 366,2.5,107,hop,start,bitter
+HBC 366,25.0,107,hop,middle,flavour
+HBC 366,37.5,107,hop,end,flavour
+HBC 366,250.0,107,hop,dry hop,aroma
+Extra Pale,4580.0,108,malt,,
+Caramalt,250.0,108,malt,,
+Dark Crystal,60.0,108,malt,,
+Munich,250.0,108,malt,,
+Centennial,5.0,108,hop,start,bitter
+Amarillo,5.0,108,hop,start,bitter
+Centennial,10.0,108,hop,middle,flavour
+Amarillo,10.0,108,hop,middle,flavour
+Centennial,17.5,108,hop,end,flavour
+Amarillo,17.5,108,hop,end,flavour
+Extra Pale,6880.0,109,malt,,
+Wheat,1000.0,109,malt,,
+Dark Crystal,130.0,109,malt,,
+Black Malt,1250.0,109,malt,,
+Roasted Barley,1500.0,109,malt,,
+Weyermann Smoked,500.0,109,malt,,
+Cascade,75.0,109,hop,start,bitter
+Cascade,25.0,109,hop,middle,flavour
+Extra Pale,5000.0,110,malt,,
+Special W,630.0,110,malt,,
+Roasted Barley,310.0,110,malt,,
+Dark Crystal,310.0,110,malt,,
+Sorachi Ace,15.0,110,hop,start,bitter
+Sorachi Ace,10.0,110,hop,middle,flavour
+Sorachi Ace,10.0,110,hop,end,flavour
+Sorachi Ace,1.5,110,hop,dry hop,aroma
+Extra Pale,3500.0,111,malt,,
+Munich,440.0,111,malt,,
+Crystal 150,130.0,111,malt,,
+Acidulated Malt,630.0,111,malt,,
+Cascade,6.25,111,hop,start,bitter
+Amarillo,6.25,111,hop,start,bitter
+Centennial,5.0,111,hop,middle,flavour
+Chinook,5.0,111,hop,middle,flavour
+Cascade,12.5,111,hop,end,flavour
+Centennial,7.5,111,hop,end,flavour
+Chinook,7.5,111,hop,end,flavour
+Amarillo,12.5,111,hop,end,flavour
+Extra Pale,2500.0,112,malt,,
+Torrified Wheat,690.0,112,malt,,
+Motueka,5.0,112,hop,start,bitter
+Motueka,12.5,112,hop,middle,flavour
+Motueka,12.5,112,hop,end,flavour
+Maris Otter Extra Pale,6860.0,113,malt,,
+Caramalt,930.0,113,malt,,
+Columbus,25.0,113,hop,start,bitter
+Centennial,25.0,113,hop,start,bitter
+Columbus,12.5,113,hop,end,flavour
+Centennial,12.5,113,hop,end,flavour
+Nelson Sauvin,25.0,113,hop,end,flavour
+Bramling Cross/ First Gold,37.5,113,hop,end,flavour
+NZ Nelson Sauvin,71.5,113,hop,dry hop,aroma
+Bramling Cross,71.5,113,hop,dry hop,aroma
+Simcoe,71.5,113,hop,dry hop,aroma
+Extra Pale,6350.0,114,malt,,
+Crystal 150,480.0,114,malt,,
+Carafa Special Malt Type 1,480.0,114,malt,,
+Chocolate,480.0,114,malt,,
+Munich,1920.0,114,malt,,
+Smoked Warminster,480.0,114,malt,,
+Hallertauer Mittelfrüh,7.5,114,hop,start,bitter
+Hallertauer Mittelfrüh,11.5,114,hop,middle,flavour
+Galena,19.0,114,hop,middle,flavour
+Extra Pale,4380.0,115,malt,,
+Caramalt,630.0,115,malt,,
+Ahtanum,7.5,115,hop,start,bitter
+Chinook,5.0,115,hop,middle,flavour
+Ahtanum,7.5,115,hop,middle,flavour
+Chinook,5.0,115,hop,end,flavour
+Ahtanum,7.5,115,hop,end,flavour
+Simcoe,12.5,115,hop,end,flavour
+Nelson Sauvin,6.0,115,hop,end,flavour
+Extra Pale,5630.0,116,malt,,
+Ginger Root,130.0,116,malt,,
+Citra,12.5,116,hop,start,bitter
+Citra,12.5,116,hop,middle,flavour
+Citra,25.0,116,hop,end,flavour
+Maris Otter Extra Pale,3780.0,117,malt,,
+Caramalt,310.0,117,malt,,
+Munich,310.0,117,malt,,
+Cascade,12.5,117,hop,start,bitter
+Saaz,12.5,117,hop,start,bitter
+Cascade,25.0,117,hop,end,flavour
+Motueka,12.5,117,hop,end,flavour
+Chinook,25.0,117,hop,end,flavour
+Pale Ale,2130.0,118,malt,,
+Amber,250.0,118,malt,,
+Flaked Oats,250.0,118,malt,,
+Chocolate,380.0,118,malt,,
+Roasted Barley,130.0,118,malt,,
+Carafa Special Malt Type 3,190.0,118,malt,,
+Galena,12.5,118,hop,start,bitter
+Organic Lager,1130.0,119,malt,,
+Organic Caramalt,280.0,119,malt,,
+Organic Munich,2700.0,119,malt,,
+Organic Chocolate,230.0,119,malt,,
+Cascade,27.2,119,hop,start,bitter
+Cascade,27.2,119,hop,end,flavour
+Extra Pale - Spring Blend,8750.0,120,malt,,
+Caramalt,940.0,120,malt,,
+Dark Crystal,440.0,120,malt,,
+Carafa Special Malt Type 1,110.0,120,malt,,
+Chocolate,110.0,120,malt,,
+Brown,370.0,120,malt,,
+Flaked Oats,940.0,120,malt,,
+Galena,37.5,120,hop,start,bitter
+Willamette,50.0,120,hop,end,flavour
+First Gold,25.0,120,hop,end,flavour
+Extra Pale,5300.0,121,malt,,
+Ahtanum,17.5,121,hop,start,bitter
+Chinook,15.0,121,hop,start,bitter
+Crystal,17.5,121,hop,middle,flavour
+Chinook,17.5,121,hop,middle,flavour
+Ahtanum,17.5,121,hop,end,flavour
+Chinook,17.5,121,hop,end,flavour
+Motueka,17.5,121,hop,end,flavour
+Chinook,30.0,121,hop,dry hop,aroma
+Extra Pale - Spring Blend,6790.0,122,malt,,
+Caramalt,250.0,122,malt,,
+Rye,1250.0,122,malt,,
+Chinook,50.0,122,hop,start,bitter
+Amarillo,62.5,122,hop,middle,flavour
+Chinook,62.5,122,hop,end,flavour
+Amarillo,107.14,122,hop,dry hop,aroma
+Chinook,142.86,122,hop,dry hop,aroma
+Pale Ale,3940.0,123,malt,,
+Munich,440.0,123,malt,,
+Carafa Special Malt Type 1,130.0,123,malt,,
+Magnum,25.0,123,hop,start,bitter
+Hersbrucker,25.0,123,hop,end,flavour
+Pale Ale,5000.0,124,malt,,
+Caramalt,630.0,124,malt,,
+Crystal 150,250.0,124,malt,,
+Nelson Sauvin,12.5,124,hop,start,bitter
+Nelson Sauvin,12.5,124,hop,start,bitter
+Nelson Sauvin,12.5,124,hop,middle,flavour
+Nelson Sauvin,50.0,124,hop,end,flavour
+Pale Ale,2750.0,125,malt,,
+Wheat,2130.0,125,malt,,
+Ahtanum,31.25,125,hop,start,bitter
+Ahtanum,31.25,125,hop,end,flavour
+Juniper Berries,25.0,125,hop,dry hop,aroma
+Pale Ale,2750.0,126,malt,,
+Wheat,250.0,126,malt,,
+Dark Crystal,190.0,126,malt,,
+Brown,380.0,126,malt,,
+Black Malt,190.0,126,malt,,
+Carafa Special Malt Type 1,190.0,126,malt,,
+Flaked Oats,380.0,126,malt,,
+Crystal 150,250.0,126,malt,,
+Lactose,380.0,126,malt,,
+Magnum,12.5,126,hop,start,bitter
+Sorachi Ace,6.3,126,hop,middle,flavour
+Extra Pale - Spring Blend,5870.0,127,malt,,
+Caramalt,370.0,127,malt,,
+Crystal 150,190.0,127,malt,,
+Galaxy,75.4,127,hop,start,bitter
+Galaxy,75.4,127,hop,end,flavour
+Galaxy,250.0,127,hop,dry hop,aroma
+Extra Pale - Spring Blend,2810.0,128,malt,,
+Wheat,2810.0,128,malt,,
+Munich,940.0,128,malt,,
+Flaked Oats,310.0,128,malt,,
+Motueka,50.0,128,hop,start,bitter
+Motueka,31.25,128,hop,end,flavour
+Motueka,250.0,128,hop,dry hop,aroma
+Pale Ale,6880.0,129,malt,,
+Wheat,500.0,129,malt,,
+Flaked Oats,1000.0,129,malt,,
+Dark Crystal,500.0,129,malt,,
+Carafa Special Malt Type 1,750.0,129,malt,,
+Chocolate,1000.0,129,malt,,
+Bramling Cross,12.5,129,hop,start,bitter
+Bramling Cross,12.5,129,hop,middle,flavour
+Sorachi Ace,12.5,129,hop,middle,flavour
+Sorachi Ace,25.0,129,hop,end,flavour
+Willamette,25.0,129,hop,end,flavour
+Extra Pale,3750.0,130,malt,,
+Wheat Malt,630.0,130,malt,,
+Rye,1250.0,130,malt,,
+Acidulated Malt,630.0,130,malt,,
+Dark Crystal,630.0,130,malt,,
+Special W,630.0,130,malt,,
+Munich,630.0,130,malt,,
+Citra,3.5,130,hop,start,bitter
+Sorachi Ace,1.5,130,hop,start,bitter
+Extra Pale - Spring Blend,5870.0,131,malt,,
+Caramalt,370.0,131,malt,,
+Crystal 150,190.0,131,malt,,
+Motueka,75.0,131,hop,start,bitter
+Motueka,100.0,131,hop,end,flavour
+Motueka,250.0,131,hop,dry hop,aroma
+Extra Pale,2560.0,132,malt,,
+Caramalt,880.0,132,malt,,
+Munich,630.0,132,malt,,
+Crystal 150,380.0,132,malt,,
+Dark Crystal,130.0,132,malt,,
+Cascade,2.5,132,hop,start,bitter
+Amarillo,2.5,132,hop,start,bitter
+Nelson Sauvin,2.5,132,hop,middle,flavour
+Amarillo,12.5,132,hop,end,flavour
+Nelson Sauvin,12.5,132,hop,end,flavour
+Simcoe,25.0,132,hop,dry hop,aroma
+Cascade,50.0,132,hop,dry hop,aroma
+Ahtanum,25.0,132,hop,dry hop,aroma
+Nelson Sauvin,12.5,132,hop,dry hop,aroma
+Centennial,50.0,132,hop,dry hop,aroma
+Amarillo,25.0,132,hop,dry hop,aroma
+Extra Pale,2700.0,133,malt,,
+Caramalt,700.0,133,malt,,
+Munich,640.0,133,malt,,
+Chocolate,60.0,133,malt,,
+Simcoe,25.0,133,hop,start,bitter
+Amarillo,25.0,133,hop,start,bitter
+Coffee,12.5,133,hop,middle,flavour
+Amarillo,37.5,133,hop,end,flavour
+Simcoe,37.5,133,hop,end,flavour
+Coffee,12.5,133,hop,end,flavour
+Simcoe,125.0,133,hop,dry hop,aroma
+Amarillo,125.0,133,hop,dry hop,aroma
+Maris Otter Extra Pale,6000.0,134,malt,,
+Chocolate,500.0,134,malt,,
+Flaked Oats,500.0,134,malt,,
+Crystal,500.0,134,malt,,
+Black Malt,250.0,134,malt,,
+Roasted Malt,250.0,134,malt,,
+Chinook,81.25,134,hop,start,bitter
+Sorachi Ace,62.5,134,hop,end,flavour
+Pale Ale,4000.0,135,malt,,
+Caramalt,250.0,135,malt,,
+Crystal 150,130.0,135,malt,,
+Citra,8.5,135,hop,start,bitter
+Citra,62.5,135,hop,end,flavour
+Citra,31.5,135,hop,dry hop,aroma
+Extra Pale,7500.0,136,malt,,
+Caramalt,380.0,136,malt,,
+Crystal 150,580.0,136,malt,,
+Chocolate,100.0,136,malt,,
+Motueka,9.5,136,hop,start,bitter
+Hallertauer Mittelfrüh,19.0,136,hop,start,bitter
+Amarillo,19.0,136,hop,middle,flavour
+Motueka,19.0,136,hop,middle,flavour
+Amarillo,19.0,136,hop,end,flavour
+Motueka,28.5,136,hop,end,flavour
+Amarillo,57.5,136,hop,dry hop,aroma
+Centennial,57.5,136,hop,dry hop,aroma
+Simcoe,57.5,136,hop,dry hop,aroma
+Extra Pale,7400.0,137,malt,,
+Caramalt,380.0,137,malt,,
+Crystal 150,290.0,137,malt,,
+Columbus Extract,30.8,137,hop,start,bitter
+Columbus,19.2,137,hop,start,bitter
+Columbus,19.2,137,hop,middle,flavour
+Centennial,19.2,137,hop,middle,flavour
+Simcoe,19.2,137,hop,middle,flavour
+Columbus,19.2,137,hop,end,flavour
+Centennial,19.2,137,hop,end,flavour
+Simcoe,19.2,137,hop,end,flavour
+Centennial,115.4,137,hop,dry hop,aroma
+Columbus,96.2,137,hop,dry hop,aroma
+Simcoe,96.2,137,hop,dry hop,aroma
+Amarillo,76.9,137,hop,dry hop,aroma
+Extra Pale,8000.0,138,malt,,
+Wheat,500.0,138,malt,,
+Flaked Oats,1380.0,138,malt,,
+Dark Crystal,880.0,138,malt,,
+Carafa Special Malt Type 1,630.0,138,malt,,
+Carafa Special Malt Type 3,630.0,138,malt,,
+Honey,700.0,138,malt,,
+Chinook,50.0,138,hop,start,bitter
+Cascade,25.0,138,hop,start,bitter
+Fuggles,25.0,138,hop,middle,flavour
+Coffee beans,12.5,138,hop,middle,flavour
+Fuggles,25.0,138,hop,end,flavour
+Coffee beans,12.5,138,hop,end,twist
+Pale Ale,5500.0,139,malt,,
+Maris Otter Extra Pale,1000.0,139,malt,,
+C02 Extract,25.0,139,hop,start,bitter
+Amarillo,12.5,139,hop,middle,flavour
+Simcoe,12.5,139,hop,middle,flavour
+Mosaic,25.0,139,hop,end,flavour
+Citra,25.0,139,hop,end,flavour
+Amarillo,25.0,139,hop,end,flavour
+Simcoe,25.0,139,hop,end,flavour
+Citra,62.5,139,hop,dry hop,aroma
+Amarillo,62.5,139,hop,dry hop,aroma
+Simcoe,62.5,139,hop,dry hop,aroma
+Mosaic,62.5,139,hop,dry hop,aroma
+Extra Pale,5880.0,140,malt,,
+Pioneer,41.5,140,hop,start,bitter
+Pioneer,41.5,140,hop,middle,flavour
+Pioneer,41.5,140,hop,end,flavour
+Extra Pale,7020.0,141,malt,,
+Crystal 150,190.0,141,malt,,
+Rye,960.0,141,malt,,
+Carafa Special Malt Type 1,290.0,141,malt,,
+Cascara,40.0,141,malt,,
+Centennial,38.5,141,hop,start,bitter
+Centennial,19.0,141,hop,middle,flavour
+Centennial,77.0,141,hop,end,flavour
+Cascara,38.5,141,hop,end,flavour
+Extra Pale,2500.0,142,malt,,
+Wheat Malt,1250.0,142,malt,,
+Rye,630.0,142,malt,,
+Citra,5.0,142,hop,start,bitter
+Amarillo,5.0,142,hop,start,bitter
+Citra,7.5,142,hop,end,flavour
+Amarillo,7.5,142,hop,end,flavour
+Extra Pale,4250.0,143,malt,,
+Carared,630.0,143,malt,,
+Citra,2.5,143,hop,start,bitter
+Challenger,6.0,143,hop,start,bitter
+Centennial,12.5,143,hop,middle,flavour
+Citra,10.0,143,hop,middle,flavour
+Citra,12.5,143,hop,end,flavour
+Mosaic,12.5,143,hop,end,flavour
+Bramling Cross,12.5,143,hop,end,flavour
+Centennial,50.0,143,hop,dry hop,aroma
+Citra,50.0,143,hop,dry hop,aroma
+Bramling Cross,50.0,143,hop,dry hop,aroma
+Mosaic,50.0,143,hop,dry hop,aroma
+Nelson Sauvin,12.5,143,hop,dry hop,aroma
+Simcoe,12.5,143,hop,dry hop,aroma
+Extra Pale,11250.0,144,malt,,
+Dark Crystal,1750.0,144,malt,,
+Chocolate,500.0,144,malt,,
+Roasted Barley,500.0,144,malt,,
+Chinook,37.5,144,hop,start,bitter
+Galena,37.5,144,hop,start,bitter
+Chinook,37.5,144,hop,start,bitter
+Galena,37.5,144,hop,start,bitter
+Galena,25.0,144,hop,end,flavour
+First Gold,25.0,144,hop,end,flavour
+Chinook,25.0,144,hop,end,flavour
+Extra Pale,4380.0,145,malt,,
+Crystal 150,160.0,145,malt,,
+Dark Crystal,160.0,145,malt,,
+Munich,1250.0,145,malt,,
+Rye,630.0,145,malt,,
+Galena,17.5,145,hop,start,bitter
+Sorachi Ace,17.5,145,hop,start,bitter
+Ella,17.5,145,hop,start,bitter
+Galena,17.5,145,hop,middle,flavour
+Sorachi Ace,17.5,145,hop,middle,flavour
+Ella,17.5,145,hop,middle,flavour
+Galena,17.5,145,hop,end,flavour
+Sorachi Ace,17.5,145,hop,end,flavour
+Ella,17.5,145,hop,end,flavour
+Galena,10.0,145,hop,dry hop,aroma
+Sorachi Ace,10.0,145,hop,dry hop,aroma
+Ella,10.0,145,hop,dry hop,aroma
+Extra Pale,6380.0,146,malt,,
+Crystal 150,130.0,146,malt,,
+Caramalt,250.0,146,malt,,
+Nelson Sauvin,37.5,146,hop,start,bitter
+Nelson Sauvin,50.0,146,hop,end,flavour
+Extra Pale,3690.0,147,malt,,
+Caramalt,500.0,147,malt,,
+Columbus,25.0,147,hop,start,bitter
+Centennial,25.0,147,hop,start,bitter
+Columbus,25.0,147,hop,middle,flavour
+Centennial,25.0,147,hop,middle,flavour
+Nelson Sauvin,75.0,147,hop,middle,flavour
+Bramling Cross,75.0,147,hop,middle,flavour
+Columbus,75.0,147,hop,end,flavour
+Centennial,75.0,147,hop,end,flavour
+Nelson Sauvin,75.0,147,hop,end,flavour
+Bramling Cross,75.0,147,hop,end,flavour
+Nelson Sauvin,70.0,147,hop,dry hop,aroma
+Bramling Cross,70.0,147,hop,dry hop,aroma
+Simcoe,70.0,147,hop,dry hop,aroma
+Maris Otter Extra Pale,11250.0,148,malt,,
+Caramalt,310.0,148,malt,,
+Crystal 150,630.0,148,malt,,
+Dark Crystal,440.0,148,malt,,
+Chinook,18.8,148,hop,start,bitter
+Centennial,18.8,148,hop,start,bitter
+Chinook,12.5,148,hop,start,bitter
+Centennial,12.5,148,hop,start,bitter
+Chinook,62.5,148,hop,end,flavour
+Centennial,62.5,148,hop,end,flavour
+Ahtanum,62.5,148,hop,end,flavour
+Chinook,175.0,148,hop,dry hop,aroma
+Centennial,175.0,148,hop,dry hop,aroma
+Ahtanum,150.0,148,hop,dry hop,aroma
+Extra Pale,8000.0,149,malt,,
+Magnum,66.7,149,hop,end,flavour
+Extra Pale,10000.0,150,malt,,
+Carafa Special Malt Type 2,1880.0,150,malt,,
+Flaked Oats,1880.0,150,malt,,
+Saaz,125.0,150,hop,start,bitter
+Saaz,37.5,150,hop,end,flavour
+Extra Pale,3750.0,151,malt,,
+Wheat Malt,420.0,151,malt,,
+Magnum,10.0,151,hop,start,bitter
+Amarillo,12.5,151,hop,middle,flavour
+Simcoe,12.5,151,hop,middle,flavour
+Amarillo,12.5,151,hop,end,flavour
+Simcoe,12.5,151,hop,end,flavour
+Pale Ale,4380.0,152,malt,,
+Chinook,12.5,152,hop,start,bitter
+Amarillo,37.5,152,hop,end,flavour
+Chinook,25.0,152,hop,end,flavour
+Mosaic,37.5,152,hop,end,flavour
+Amarillo,62.5,152,hop,dry hop,aroma
+Chinook,62.5,152,hop,dry hop,aroma
+Mosaic,62.5,152,hop,dry hop,aroma
+Extra Pale,5000.0,153,malt,,
+Wheat Malt,1250.0,153,malt,,
+Rye,630.0,153,malt,,
+Acidulated Malt,630.0,153,malt,,
+Citra,7.5,153,hop,start,bitter
+Amarillo,5.0,153,hop,start,bitter
+Citra,7.5,153,hop,middle,flavour
+Amarillo,5.0,153,hop,middle,flavour
+Citra,7.5,153,hop,end,flavour
+Sorachi Ace,7.5,153,hop,end,flavour
+Mosaic,7.5,153,hop,end,flavour
+Pilsner,3130.0,154,malt,,
+Wheat,250.0,154,malt,,
+Munich,250.0,154,malt,,
+Mosaic,2.5,154,hop,start,bitter
+Cascade,12.5,154,hop,middle,flavour
+Jester,50.0,154,hop,end,flavour
+Cascade,50.0,154,hop,dry hop,aroma
+Mosaic,50.0,154,hop,dry hop,aroma
+Extra Pale,6560.0,155,malt,,
+Dark Crystal 350,660.0,155,malt,,
+Carafa Special Malt Type 3,310.0,155,malt,,
+Caramalt,310.0,155,malt,,
+Chocolate,70.0,155,malt,,
+Magnum,12.5,155,hop,start,bitter
+Galena,12.5,155,hop,start,bitter
+Hercules,12.5,155,hop,start,bitter
+Magnum,6.25,155,hop,start,bitter
+Galena,6.25,155,hop,start,bitter
+Cascade,25.0,155,hop,end,flavour
+Galena,25.0,155,hop,end,flavour
+Extra Pale,5650.0,156,malt,,
+Caramalt,250.0,156,malt,,
+Dark Crystal,60.0,156,malt,,
+Simcoe,2.5,156,hop,start,bitter
+Simcoe,25.0,156,hop,middle,flavour
+Simcoe,37.5,156,hop,end,flavour
+Simcoe,187.5,156,hop,dry hop,aroma
+Extra Pale,2160.0,157,malt,,
+Wheat,630.0,157,malt,,
+Crystal,310.0,157,malt,,
+Roasted Barley,190.0,157,malt,,
+CaraAroma,130.0,157,malt,,
+Pacific Hallertau,15.5,157,hop,start,bitter
+Pacific Hallertau,10.2,157,hop,start,bitter
+Motueka,6.1,157,hop,middle,flavour
+Pacific Hallertau,12.5,157,hop,end,flavour
+Motueka,25.0,157,hop,end,flavour
+Amarillo,12.5,157,hop,end,flavour
+Extra Pale,4880.0,158,malt,,
+Caramalt,750.0,158,malt,,
+Vic Secret,12.5,158,hop,start,bitter
+Centennial,12.5,158,hop,middle,flavour
+Centennial,12.5,158,hop,end,flavour
+Kohatu,16.5,158,hop,end,flavour
+Vic Secret,12.5,158,hop,dry hop,aroma
+Citra,62.5,158,hop,dry hop,aroma
+Simcoe,87.5,158,hop,dry hop,aroma
+Centennial,37.5,158,hop,dry hop,aroma
+Amarillo,50.0,158,hop,dry hop,aroma
+Extra Pale,4380.0,159,malt,,
+Carafa Special Malt Type 1,1500.0,159,malt,,
+Flaked Oats,560.0,159,malt,,
+Smoked Malt,250.0,159,malt,,
+Crystal 150,250.0,159,malt,,
+Columbus,37.5,159,hop,start,bitter
+Columbus,37.5,159,hop,middle,flavour
+First Gold,18.5,159,hop,middle,flavour
+Motueka,12.5,159,hop,middle,flavour
+Hersbrucker,12.5,159,hop,middle,flavour
+First Gold,18.5,159,hop,end,flavour
+Motueka,12.5,159,hop,end,flavour
+Hersbrucker,12.5,159,hop,end,flavour
+Maris Otter Extra Pale,5250.0,160,malt,,
+White Cane Sugar,880.0,160,malt,,
+C02 Extract,10.0,160,hop,start,bitter
+Citra,37.5,160,hop,end,flavour
+Amarillo,37.5,160,hop,end,flavour
+Centennial,37.5,160,hop,end,flavour
+Citra,100.0,160,hop,dry hop,aroma
+Amarillo,100.0,160,hop,dry hop,aroma
+Centennial,100.0,160,hop,dry hop,aroma
+Extra Pale,7600.0,161,malt,,
+Dark Crystal,1750.0,161,malt,,
+Chocolate,500.0,161,malt,,
+Roasted Barley,500.0,161,malt,,
+Chinook,37.5,161,hop,start,bitter
+Galena,37.5,161,hop,start,bitter
+Chinook,37.5,161,hop,start,bitter
+Galena,37.5,161,hop,start,bitter
+Galena,25.0,161,hop,end,flavour
+First Gold,25.0,161,hop,end,flavour
+Chinook,25.0,161,hop,end,flavour
+Extra Pale,3630.0,162,malt,,
+Caramalt,310.0,162,malt,,
+Munich,310.0,162,malt,,
+Hallertauer Mittelfrüh,37.5,162,hop,start,bitter
+Hallertauer Mittelfrüh,25.0,162,hop,middle,flavour
+Tettnang,37.5,162,hop,middle,flavour
+Saaz,25.0,162,hop,end,flavour
+Pilsner,3810.0,163,malt,,
+Columbus,5.0,163,hop,start,bitter
+Hersbrucker,12.5,163,hop,start,bitter
+Saaz,12.5,163,hop,end,flavour
+Extra Pale,6390.0,164,malt,,
+Ella,2.5,164,hop,start,bitter
+Ella,41.5,164,hop,middle,flavour
+Ella,41.5,164,hop,end,flavour
+Extra Pale,9500.0,165,malt,,
+Caramalt,1000.0,165,malt,,
+Dark Crystal,750.0,165,malt,,
+Centennial,75.0,165,hop,start,bitter
+Centennial,25.0,165,hop,middle,flavour
+Simcoe,25.0,165,hop,middle,flavour
+Simcoe,25.0,165,hop,end,flavour
+Citra,25.0,165,hop,end,flavour
+Simcoe,200.0,165,hop,dry hop,aroma
+Citra,150.0,165,hop,dry hop,aroma
+Centennial,200.0,165,hop,dry hop,aroma
+Pale Ale,3380.0,166,malt,,
+Caramalt,500.0,166,malt,,
+Crystal 150,190.0,166,malt,,
+Centennial,2.5,166,hop,start,bitter
+Amarillo,2.5,166,hop,start,bitter
+Centennial,10.0,166,hop,start,bitter
+Amarillo,10.0,166,hop,start,bitter
+Amarillo,12.5,166,hop,end,flavour
+Centennial,100.0,166,hop,dry hop,aroma
+Amarillo,87.5,166,hop,dry hop,aroma
+Extra Pale,5300.0,167,malt,,
+Caramalt,250.0,167,malt,,
+Crystal 150,190.0,167,malt,,
+Carafa Special Malt Type 1,130.0,167,malt,,
+Carafa Special Malt Type 3,190.0,167,malt,,
+Simcoe,18.75,167,hop,start,bitter
+Simcoe,18.75,167,hop,middle,bitter
+Simcoe,37.5,167,hop,end,flavour
+Simcoe,175.0,167,hop,dry hop,aroma
+Cascade,37.5,167,hop,dry hop,aroma
+Mosaic,37.5,167,hop,dry hop,aroma
+Extra Pale,5800.0,168,malt,,
+Centennial,25.0,168,hop,start,bitter
+Columbus Extract,30.0,168,hop,start,bitter
+Centennial,18.75,168,hop,middle,flavour
+Columbus,18.75,168,hop,middle,flavour
+Centennial,50.0,168,hop,end,flavour
+Columbus,25.0,168,hop,end,flavour
+Amarillo,100.0,168,hop,dry hop,aroma
+Citra,100.0,168,hop,dry hop,aroma
+Simcoe,100.0,168,hop,dry hop,aroma
+Extra Pale,8130.000000000001,170,malt,,
+Chocolate,160.0,170,malt,,
+Carafa Special Malt Type 3,480.0,170,malt,,
+Hercules,31.3,170,hop,start,bitter
+Magnum,12.5,170,hop,start,bitter
+Magnum,12.5,170,hop,start,bitter
+Hercules,12.5,170,hop,end,flavour
+Centennial,25.0,170,hop,end,flavour
+Amarillo,25.0,170,hop,end,flavour
+Extra Pale - Spring Blend,5870.0,171,malt,,
+Caramalt,370.0,171,malt,,
+Crystal 150,190.0,171,malt,,
+Challenger,85.0,171,hop,start,bitter
+Challenger,100.0,171,hop,end,flavour
+Challenger,250.0,171,hop,dry hop,aroma
+Propino Pale Malt,4100.0,172,malt,,
+Enigma,2.5,172,hop,start,bitter
+Enigma,10.0,172,hop,middle,flavour
+Enigma,37.5,172,hop,end,flavour
+Extra Pale,6390.0,173,malt,,
+Chinook,13.5,173,hop,start,bitter
+Chinook,41.5,173,hop,middle,flavour
+Chinook,41.5,173,hop,end,flavour
+Extra Pale,6130.0,174,malt,,
+Caramalt,860.0,174,malt,,
+Amarillo,12.5,174,hop,start,bitter
+Citra,6.0,174,hop,start,bitter
+Cascade,12.5,174,hop,start,bitter
+Amarillo,6.0,174,hop,middle,flavour
+Citra,6.0,174,hop,middle,flavour
+Cascade,12.5,174,hop,middle,flavour
+Amarillo,18.5,174,hop,end,flavoour
+Citra,12.5,174,hop,end,flavouor
+Cascade,12.5,174,hop,end,flavour
+Citra,100.0,174,hop,dry hop,aroma
+Amarillo,137.5,174,hop,dry hop,aroma
+Cascade,87.5,174,hop,dry hop,aroma
+Pale Ale - Tipple,8320.0,175,malt,,
+Munich,1790.0,175,malt,,
+Crystal,1190.0,175,malt,,
+Dark Crystal,590.0,175,malt,,
+Carafa Special Malt Type 1,120.0,175,malt,,
+First Gold,125.0,175,hop,start,bitter
+Challenger,62.5,175,hop,end,flavour
+Amarillo,125.0,175,hop,end,flavour
+Maris Otter Extra Pale,6250.0,176,malt,,
+Amber,250.0,176,malt,,
+Crystal 150,250.0,176,malt,,
+Bramling Cross,62.5,176,hop,start,bitter
+First Gold,50.0,176,hop,end,flavour
+Bramling Cross,50.0,176,hop,end,flavour
+Pale Ale,7500.0,177,malt,,
+Wheat,500.0,177,malt,,
+Flaked Oats,750.0,177,malt,,
+Dark Crystal,750.0,177,malt,,
+Carafa Special Malt Type 1,500.0,177,malt,,
+Carafa Special Malt Type 3,500.0,177,malt,,
+Rye,750.0,177,malt,,
+Brown,750.0,177,malt,,
+Chinook,50.0,177,hop,start,bitter
+Fuggles,25.0,177,hop,middle,flavour
+Fuggles,25.0,177,hop,end,flavour
+Willamette,25.0,177,hop,end,flavour
+Ginger Powder,1.5,177,hop,end,flavour
+Honey,1250.0,177,hop,end,flavour
+Cold Infused Coffee,25.0,177,hop,end,flavour
+Extra Pale,4750.0,178,malt,,
+Caramalt,320.0,178,malt,,
+Dark Crystal,60.0,178,malt,,
+Munich,320.0,178,malt,,
+Simcoe,2.5,178,hop,start,bitter
+Simcoe,25.0,178,hop,middle,flavour
+Simcoe,37.5,178,hop,end,flavour
+Simcoe,250.0,178,hop,dry hop,aroma
+Extra Pale,2000.0,179,malt,,
+Wheat Malt,310.0,179,malt,,
+Munich,310.0,179,malt,,
+Caramalt,630.0,179,malt,,
+Pale Crystal 60,310.0,179,malt,,
+Dark Crystal 350,81.0,179,malt,,
+Amber,81.0,179,malt,,
+Chocolate,81.0,179,malt,,
+Centennial,25.0,179,hop,start,bitter
+Centennial,37.5,179,hop,start,bitter
+Centennial,12.5,179,hop,start,bitter
+Columbus,50.0,179,hop,start,bitter
+Centennial,25.0,179,hop,middle,flavour
+Columbus,25.0,179,hop,middle,flavour
+Centennial,18.8,179,hop,end,flavour
+Columbus,18.8,179,hop,end,flavour
+Galena,18.8,179,hop,end,flavour
+Simcoe,18.8,179,hop,end,flavour
+Pilsner,1690.0,180,malt,,
+Wheat,380.0,180,malt,,
+Flaked Oats,130.0,180,malt,,
+Chinook,2.5,180,hop,start,bitter
+Amarillo,37.5,180,hop,end,flavour
+Chinook,25.0,180,hop,end,flavour
+Mosaic,37.5,180,hop,end,flavour
+Amarillo,62.5,180,hop,dry hop,aroma
+Chinook,62.5,180,hop,dry hop,aroma
+Mosaic,62.5,180,hop,dry hop,aroma
+Extra Pale,6400.0,181,malt,,
+Caramalt,630.0,181,malt,,
+Dark Crystal,60.0,181,malt,,
+Vic Secret,2.5,181,hop,start,bitter
+Vic Secret,25.0,181,hop,middle,flavour
+Vic Secret,37.5,181,hop,end,flavour
+Vic Secret,250.0,181,hop,dry hop,aroma
+Caramalt,3130.0,182,malt,,
+Columbus,8.5,182,hop,start,bitter
+Cascade,20.5,182,hop,end,flavour
+Centennial,20.5,182,hop,end,flavour
+Columbus,20.5,182,hop,end,flavour
+Ahtanum,20.5,182,hop,end,flavour
+Centennial,75.0,182,hop,dry hop,aroma
+Cascade,75.0,182,hop,dry hop,aroma
+Amarillo,100.0,182,hop,dry hop,aroma
+Maris Otter Extra Pale,3380.0,183,malt,,
+Caramalt,250.0,183,malt,,
+Munich,630.0,183,malt,,
+Cascade,1.25,183,hop,start,bitter
+Cascade,10.0,183,hop,end,flavour
+Centennial,10.0,183,hop,end,flavour
+Chinook,10.0,183,hop,end,flavour
+Amarillo,10.0,183,hop,end,flavour
+Chinook,75.0,183,hop,dry hop,aroma
+Amarillo,75.0,183,hop,dry hop,aroma
+Cascade,100.0,183,hop,dry hop,aroma
+Extra Pale,5730.0,184,malt,,
+Amber,520.0,184,malt,,
+Crystal,520.0,184,malt,,
+First Gold,146.0,184,hop,start,bitter
+East Kent Goldings,47.0,184,hop,middle,flavour
+Fuggles,46.0,184,hop,middle,flavour
+Bramling Cross,62.5,184,hop,end,flavour
+Goldings,62.5,184,hop,dry hop,aroma
+Extra Pale,11250.0,185,malt,,
+Dark Crystal,1750.0,185,malt,,
+Chocolate,500.0,185,malt,,
+Roasted Barley,500.0,185,malt,,
+Chinook,37.5,185,hop,start,bitter
+Galena,37.5,185,hop,start,bitter
+Chinook,37.5,185,hop,start,bitter
+Galena,37.5,185,hop,start,bitter
+Galena,25.0,185,hop,end,flavour
+First Gold,25.0,185,hop,end,flavour
+Chinook,25.0,185,hop,end,flavour
+Pale Ale,4690.0,186,malt,,
+Munich,630.0,186,malt,,
+Rye,310.0,186,malt,,
+Wheat,630.0,186,malt,,
+Motueka,50.0,186,hop,start,bitter
+Amarillo,25.0,186,hop,end,flavour
+Motueka,12.5,186,hop,end,flavour
+Jasmine,31.0,186,hop,end,flavour
+Motueka,125.0,186,hop,dry hop,aroma
+Jasmine,37.5,186,hop,dry hop,aroma
+Amarillo,125.0,186,hop,dry hop,aroma
+Extra Pale,3380.0,187,malt,,
+Crystal 150,130.0,187,malt,,
+Munich,380.0,187,malt,,
+Rye,250.0,187,malt,,
+Centennial,12.5,187,hop,start,bitter
+Simcoe,6.25,187,hop,middle,flavour
+Cascade,7.5,187,hop,middle,flavour
+Amarillo,7.5,187,hop,middle,flavour
+Simcoe,6.25,187,hop,end,flavour
+Cascade,7.5,187,hop,end,flavour
+Amarillo,7.5,187,hop,end,flavour
+Simcoe,25.0,187,hop,dry hop,aroma
+Cascade,25.0,187,hop,dry hop,aroma
+Centennial,25.0,187,hop,dry hop,aroma
+Amarillo,25.0,187,hop,dry hop,aroma
+Extra Pale,6500.0,188,malt,,
+Caramalt,860.0,188,malt,,
+Munich,500.0,188,malt,,
+Flaked Oats,2000.0,188,malt,,
+Dark Crystal,860.0,188,malt,,
+Carafa Special Malt Type 1,250.0,188,malt,,
+Carafa Special Malt Type 3,500.0,188,malt,,
+Columbus,75.0,188,hop,start,bitter
+Columbus,25.0,188,hop,middle,flavour
+Saaz,25.0,188,hop,end,flavour
+First Gold,25.0,188,hop,end,flavour
+Extra Pale - Spring Blend,8750.0,189,malt,,
+Caramalt,1250.0,189,malt,,
+Munich,1250.0,189,malt,,
+Amber,625.0,189,malt,,
+Crystal,625.0,189,malt,,
+Carafa Special Malt Type 1,312.5,189,malt,,
+Columbus,37.5,189,hop,start,bitter
+Columbus,50.0,189,hop,middle,flavour
+Saaz,62.5,189,hop,end,flavour
+Columbus,37.5,189,hop,end,flavour
+Ginger Powder,12.5,189,hop,end,flavour
+Extra Pale,5750.0,190,malt,,
+Caramalt,630.0,190,malt,,
+Wheat,630.0,190,malt,,
+Mosaic,12.5,190,hop,start,bitter
+Mosaic,37.5,190,hop,middle,flavour
+Mosaic,37.5,190,hop,end,flavour
+Blueberries,20.0,190,hop,end,flavour
+Mosaic,187.5,190,hop,dry hop,aroma
+Extra Pale,3810.0,191,malt,,
+Rye,500.0,191,malt,,
+Crystal 150,560.0,191,malt,,
+Dark Crystal,190.0,191,malt,,
+Acidulated Malt,130.0,191,malt,,
+Magnum,25.0,191,hop,start,bitter
+Willamette,12.5,191,hop,middle,flavour
+Amarillo,12.5,191,hop,middle,flavour
+Willamette,25.0,191,hop,end,flavour
+Amarillo,25.0,191,hop,end,flavour
+Amarillo,125.0,191,hop,dry hop,aroma
+Willamette,125.0,191,hop,dry hop,aroma
+Extra Pale,5300.0,192,malt,,
+Ahtanum,17.5,192,hop,start,bitter
+Chinook,15.0,192,hop,start,bitter
+Crystal,17.5,192,hop,middle,flavour
+Chinook,17.5,192,hop,middle,flavour
+Ahtanum,17.5,192,hop,end,flavour
+Chinook,27.5,192,hop,end,flavour
+Crystal,17.5,192,hop,end,flavour
+Motueka,17.5,192,hop,end,flavour
+Extra Pale,1880.0,193,malt,,
+Wheat,1880.0,193,malt,,
+Magnum,8.5,193,hop,start,bitter
+Extra Pale,6250.0,194,malt,,
+Crystal 150,250.0,194,malt,,
+Caramalt,460.0,194,malt,,
+Columbus,30.0,194,hop,start,bitter
+Columbus,40.0,194,hop,middle,flavour
+Centennial,40.0,194,hop,middle,flavour
+Simcoe,40.0,194,hop,middle,flavour
+Columbus,40.0,194,hop,end,flavour
+Centennial,40.0,194,hop,end,flavour
+Simcoe,40.0,194,hop,end,flavour
+Columbus,60.0,194,hop,dry hop,aroma
+Centennial,70.0,194,hop,dry hop,aroma
+Simcoe,70.0,194,hop,dry hop,aroma
+Extra Pale,4250.0,195,malt,,
+Carared,630.0,195,malt,,
+Citra,2.5,195,hop,start,bitter
+Challenger,6.0,195,hop,start,bitter
+Centennial,12.5,195,hop,middle,flavour
+Citra,10.0,195,hop,middle,flavour
+Citra,12.5,195,hop,end,flavour
+Mosaic,12.5,195,hop,end,flavour
+Bramling Cross,12.5,195,hop,end,flavour
+Centennial,50.0,195,hop,dry hop,aroma
+Citra,50.0,195,hop,dry hop,aroma
+Bramling Cross,50.0,195,hop,dry hop,aroma
+Mosaic,50.0,195,hop,dry hop,aroma
+Nelson Sauvin,12.5,195,hop,dry hop,aroma
+Simcoe,12.5,195,hop,dry hop,aroma
+Extra Pale,7500.0,196,malt,,
+Caramalt,1150.0,196,malt,,
+Carafa Special Malt Type 2,480.0,196,malt,,
+Crystal 150,480.0,196,malt,,
+Smoked Warminster,770.0,196,malt,,
+Magnum,11.5,196,hop,start,bitter
+Cascade,11.5,196,hop,middle,flavour
+Fuggles,11.5,196,hop,middle,flavour
+First Gold,11.5,196,hop,end,flavour
+Coffee,19.25,196,hop,end,flavour
+Extra Pale,3000.0,197,malt,,
+Munich,130.0,197,malt,,
+Crystal 150,190.0,197,malt,,
+Caramalt,880.0,197,malt,,
+Columbus,2.5,197,hop,start,bitter
+Columbus,3.5,197,hop,middle,flavour
+Centennial,6.0,197,hop,middle,flavour
+Columbus,18.5,197,hop,end,flavour
+Centennial,18.5,197,hop,end,flavour
+Columbus,100.0,197,hop,dry hop,aroma
+Centennial,100.0,197,hop,dry hop,aroma
+Cascade,100.0,197,hop,dry hop,aroma
+Extra Pale,7750.0,198,malt,,
+Wheat,500.0,198,malt,,
+Munich,500.0,198,malt,,
+Saaz,25.0,198,hop,start,bitter
+Saaz,15.0,198,hop,end,flavour
+Styrian Goldings,15.0,198,hop,end,flavour
+Extra Pale,2630.0,199,malt,,
+Munich,880.0,199,malt,,
+Crystal 150,380.0,199,malt,,
+Special W,310.0,199,malt,,
+Carafa Special Malt Type 1,440.0,199,malt,,
+Flaked Oats,380.0,199,malt,,
+Torrified Wheat,310.0,199,malt,,
+Magnum,5.0,199,hop,start,bitter
+First Gold,25.0,199,hop,middle,flavour
+First Gold,25.0,199,hop,end,flavour
+Sorachi Ace,25.0,199,hop,end,flavour
+Extra Pale,6750.0,200,malt,,
+Caramalt,60.0,200,malt,,
+Dark Crystal,60.0,200,malt,,
+Centennial,25.0,200,hop,start,bitter
+Cascade,12.5,200,hop,middle,flavour
+Citra,12.5,200,hop,middle,flavour
+Simcoe,25.0,200,hop,end,flavour
+Citra,12.5,200,hop,end,flavour
+Cascade,25.0,200,hop,end,flavour
+Simcoe,87.5,200,hop,dry hop,aroma
+Cascade,100.0,200,hop,dry hop,aroma
+Centennial,87.5,200,hop,dry hop,aroma
+Citra,112.5,200,hop,dry hop,aroma
+Extra Pale,5000.0,201,malt,,
+Caramalt,310.0,201,malt,,
+Dark Crystal,60.0,201,malt,,
+Munich,310.0,201,malt,,
+Waimea,2.5,201,hop,start,bitter
+Waimea,20.0,201,hop,middle,flavour
+Waimea,37.5,201,hop,end,flavour
+Waimea,125.0,201,hop,dry hop,aroma
+Extra Pale,7500.0,202,malt,,
+Wheat,500.0,202,malt,,
+Flaked Oats,1380.0,202,malt,,
+Dark Crystal,880.0,202,malt,,
+Carafa Special Malt Type 1,630.0,202,malt,,
+Carafa Special Malt Type 3,630.0,202,malt,,
+Rye,750.0,202,malt,,
+Honey,500.0,202,malt,,
+Chinook,50.0,202,hop,start,bitter
+Cascade,25.0,202,hop,start,bitter
+Fuggles,25.0,202,hop,middle,flavour
+Coffee,12.5,202,hop,middle,flavour
+Fuggles,25.0,202,hop,end,flavour
+Coffee,12.5,202,hop,end,flavour
+Extra Pale,8210.0,203,malt,,
+Pinhead Oats,360.0,203,malt,,
+Carahell,180.0,203,malt,,
+CaraAroma,180.0,203,malt,,
+Roasted Malt,90.0,203,malt,,
+Peated Malt,90.0,203,malt,,
+Green Bullet,50.0,203,hop,start,bitter
+Motueka,35.5,203,hop,end,flavour
+Pacific Gem,21.5,203,hop,end,flavour
+Nelson Sauvin,7.0,203,hop,end,flavour
+Propino Pale Malt,5000.0,204,malt,,
+Dextrin Malt,630.0,204,malt,,
+Flaked Oats,630.0,204,malt,,
+Centennial,25.0,204,hop,start,bitter
+Cascade,21.25,204,hop,end,flavour
+Willamette,21.25,204,hop,end,flavour
+Maris Otter Extra Pale,6570.0,205,malt,,
+Caramalt,750.0,205,malt,,
+Crystal 150,320.0,205,malt,,
+Carafa Special Malt Type 1,500.0,205,malt,,
+Amarillo,25.0,205,hop,start,bitter
+Columbus,25.0,205,hop,start,bitter
+Chinook,62.5,205,hop,end,flavour
+Columbus,62.5,205,hop,end,flavour
+Cascade,62.5,205,hop,end,flavour
+Centennial,62.5,205,hop,end,flavour
+Centennial,125.0,205,hop,dry hop,aroma
+Cascade,62.5,205,hop,dry hop,aroma
+Amarillo,62.5,205,hop,dry hop,aroma
+Chinook,62.5,205,hop,dry hop,aroma
+Extra Pale,6000.0,206,malt,,
+Caramalt,500.0,206,malt,,
+Wheat,500.0,206,malt,,
+Flaked Malted Oats,500.0,206,malt,,
+Crystal 150,630.0,206,malt,,
+Carafa Special Malt Type 3,750.0,206,malt,,
+Bravo,25.0,206,hop,start,bitter
+Bravo,12.5,206,hop,middle,flavour
+Mt.Hood,25.0,206,hop,middle,flavour
+Bravo,12.5,206,hop,end,flavour
+Mt.Hood,25.0,206,hop,end,flavour
+Maris Otter Extra Pale,6000.0,207,malt,,
+Caramalt,750.0,207,malt,,
+Crystal 150,250.0,207,malt,,
+Bay Leaves,5.0,207,hop,dry hop,aroma
+Rosemary,25.0,207,hop,dry hop,aroma
+Elderflower,10.0,207,hop,dry hop,aroma
+Extra Pale,5000.0,208,malt,,
+Rye,630.0,208,malt,,
+Caramalt,250.0,208,malt,,
+Amarillo,17.5,208,hop,start,bitter
+Citra,17.5,208,hop,start,bitter
+Simcoe,17.5,208,hop,start,bitter
+Amarillo,17.5,208,hop,middle,flavour
+Citra,17.5,208,hop,middle,flavour
+Simcoe,17.5,208,hop,middle,flavour
+Amarillo,17.5,208,hop,end,aroma
+Citra,17.5,208,hop,end,flavour
+Simcoe,17.5,208,hop,end,aroma
+Nelson Sauvin,22.5,208,hop,end,aroma
+Extra Pale,2500.0,209,malt,,
+Flaked Oats,630.0,209,malt,,
+Special W,380.0,209,malt,,
+Roasted Barley,380.0,209,malt,,
+Carafa Special Malt Type 1,380.0,209,malt,,
+Wheat,630.0,209,malt,,
+Galena,7.5,209,hop,start,bitter
+Bramling Cross,12.5,209,hop,middle,flavour
+Willamette,25.0,209,hop,end,flavour
+Centennial,25.0,209,hop,end,flavour
+Centennial,62.5,209,hop,dry hop,aroma
+Willamette,62.5,209,hop,dry hop,aroma
+Extra Pale,4380.0,210,malt,,
+Wheat,310.0,210,malt,,
+Dark Crystal,190.0,210,malt,,
+Brown,310.0,210,malt,,
+Black Malt,310.0,210,malt,,
+Carafa Special Malt Type 1,190.0,210,malt,,
+Flaked Oats,440.0,210,malt,,
+Crystal 150,310.0,210,malt,,
+Magnum,25.0,210,hop,start,bitter
+Extra Pale - Spring Blend,4150.0,211,malt,,
+Caramalt,1120.0,211,malt,,
+Crystal 150,560.0,211,malt,,
+Chocolate,380.0,211,malt,,
+Roasted Barley,310.0,211,malt,,
+Wheat Malt,630.0,211,malt,,
+Columbus,31.3,211,hop,start,bitter
+Columbus,12.5,211,hop,middle,flavour
+Simcoe,12.5,211,hop,middle,flavour
+Chinook,12.5,211,hop,middle,flavour
+Columbus,25.0,211,hop,end,flavour
+Simcoe,25.0,211,hop,end,flavour
+Chinook,25.0,211,hop,end,flavour
+Columbus,87.5,211,hop,dry hop,aroma
+Simcoe,87.5,211,hop,dry hop,aroma
+Chinook,75.0,211,hop,dry hop,aroma
+Pale Ale,4380.0,212,malt,,
+Chinook,12.5,212,hop,start,bitter
+Amarillo,37.5,212,hop,end,flavour
+Chinook,25.0,212,hop,end,flavour
+Mosaic,37.5,212,hop,dry hop,aroma
+Amarillo,62.5,212,hop,dry hop,aroma
+Chinook,62.5,212,hop,dry hop,aroma
+Mosaic,62.5,212,hop,dry hop,aroma
+Extra Pale,5000.0,213,malt,,
+Caramalt,310.0,213,malt,,
+Dark Crystal,60.0,213,malt,,
+Munich,310.0,213,malt,,
+El Dorado,3.75,213,hop,start,bitter
+El Dorado,12.5,213,hop,middle,flavour
+El Dorado,37.5,213,hop,end,flavour
+El Dorado,125.0,213,hop,dry hop,aroma
+Lager Malt,4660.0,214,malt,,
+Saaz,12.5,214,hop,start,bitter
+Cascade,12.5,214,hop,start,bitter
+Cascade,25.0,214,hop,end,flavour
+Chinook,25.0,214,hop,end,flavour
+Motueka,12.5,214,hop,end,flavour
+Extra Pale,3800.0,215,malt,,
+Dark Crystal,190.0,215,malt,,
+Roasted Barley,310.0,215,malt,,
+Black Malt,130.0,215,malt,,
+Amber,310.0,215,malt,,
+Flaked Oats,250.0,215,malt,,
+Bravo,12.5,215,hop,start,bitter
+Bramling Cross,12.5,215,hop,middle,flavour
+Challenger,12.5,215,hop,middle,flavour
+Pale Ale,6880.0,216,malt,,
+Wheat,500.0,216,malt,,
+Flaked Oats,1000.0,216,malt,,
+Dark Crystal,500.0,216,malt,,
+Carafa Special Malt Type 1,750.0,216,malt,,
+Chocolate,1000.0,216,malt,,
+Bramling Cross,12.5,216,hop,start,bitter
+Bramling Cross,12.5,216,hop,start,bitter
+Sorachi Ace,12.5,216,hop,middle,flavour
+Sorachi Ace,25.0,216,hop,end,flavour
+Willamette,25.0,216,hop,end,flavour
+Pale Ale,5000.0,217,malt,,
+Crystal 150,380.0,217,malt,,
+Dark Crystal,130.0,217,malt,,
+Carafa Special Malt Type 1,60.0,217,malt,,
+Rye,500.0,217,malt,,
+Magnum,12.5,217,hop,start,bitter
+Chinook,25.0,217,hop,middle,flavour
+Citra,6.25,217,hop,middle,flavour
+Chinook,37.5,217,hop,end,flavour
+Citra,18.75,217,hop,end,flavour
+Chinook,100.0,217,hop,fv,aroma
+Citra,75.0,217,hop,fv,aroma
+Extra Pale,5800.0,218,malt,,
+Centennial,25.0,218,hop,start,bitter
+Columbus Extract,30.0,218,hop,start,bitter
+Centennial,18.75,218,hop,middle,flavour
+Columbus,18.75,218,hop,middle,flavour
+Centennial,50.0,218,hop,end,flavour
+Columbus,25.0,218,hop,end,flavour
+Amarillo,100.0,218,hop,dry hop,aroma
+Citra,100.0,218,hop,dry hop,aroma
+Simcoe,100.0,218,hop,dry hop,aroma
+Extra Pale,7300.0,219,malt,,
+Wheat,360000.0,219,malt,,
+Smoked Malt,535000.0,219,malt,,
+Magnum,36.0,219,hop,start,bitter
+Citra,11.0,219,hop,middle,flavour
+Amarillo,1.0,219,hop,middle,flavour
+Pale Ale,2300.0,220,malt,,
+Maris Otter,1300.0,220,malt,,
+Caramalt,500.0,220,malt,,
+Simcoe,3.75,220,hop,start,bitter
+Simcoe,12.5,220,hop,middle,flavour
+Simcoe,37.5,220,hop,end,flavour
+Simcoe,187.5,220,hop,dry hop,aroma
+Pale Ale,1600.0,221,malt,,
+Wheat,1600.0,221,malt,,
+Bramling Cross,10.0,221,hop,start,flavour
+Pale Ale,7500.0,222,malt,,
+Wheat,500.0,222,malt,,
+Flaked Oats,750.0,222,malt,,
+Dark Crystal,750.0,222,malt,,
+Carafa Special Malt Type 1,500.0,222,malt,,
+Carafa Special Malt Type 3,500.0,222,malt,,
+Rye,750.0,222,malt,,
+Brown,750.0,222,malt,,
+Chinook,25.0,222,hop,start,bitter
+Sorachi Ace,50.0,222,hop,start,bitter
+Ginger Powder,1.25,222,hop,end,flavour
+Honey,1250.0,222,hop,end,flavour
+Cold Infused Coffee,25.0,222,hop,end,flavour
+Pilsner,1300.0,223,malt,,
+Caramalt,120.0,223,malt,,
+Munich,500.0,223,malt,,
+Pale Ale,1200.0,223,malt,,
+Magnum,4.0,223,hop,start,bitter
+Perle,20.0,223,hop,middle,flavour
+Perle,10.0,223,hop,end,aroma
+Pale Ale,4200.0,224,malt,,
+Premium English Caramalt,200.0,224,malt,,
+DRC,200.0,224,malt,,
+Flaked Oats,1200.0,224,malt,,
+Magnum,10.2,224,hop,start,bitter
+Coffee,60.0,224,hop,middle,flavour
+Pale Ale,2600.0,225,malt,,
+Caramalt,350.0,225,malt,,
+Munich,200.0,225,malt,,
+Flaked Oats,800.0,225,malt,,
+Dark Crystal,350.0,225,malt,,
+Carafa Special Malt Type 1,100.0,225,malt,,
+Carafa Special Malt Type 2,200.0,225,malt,,
+Columbus,60.0,225,hop,start,bitter
+Columbus,20.0,225,hop,middle,flavour
+Saaz,20.0,225,hop,end,flavour
+First Gold,20.0,225,hop,end,flavour
+Extra Pale,5800.0,226,malt,,
+Centennial,25.0,226,hop,start,bitter
+Columbus Extract,30.0,226,hop,start,bitter
+Centennial,18.75,226,hop,middle,flavour
+Columbus,18.75,226,hop,middle,flavour
+Centennial,50.0,226,hop,end,flavour
+Columbus,25.0,226,hop,end,flavour
+Amarillo,100.0,226,hop,dry hop,aroma
+Citra,100.0,226,hop,dry hop,aroma
+Simcoe,100.0,226,hop,dry hop,aroma
+Pale Ale,2200.0,227,malt,,
+Caramalt,300.0,227,malt,,
+Dark Crystal,300.0,227,malt,,
+Smoked Weyermann,1800.0,227,malt,,
+Flaked Oats,600.0,227,malt,,
+Brown,600.0,227,malt,,
+Black Malt,100.0,227,malt,,
+Chocolate,500.0,227,malt,,
+Munich,600.0,227,malt,,
+Dark Muscavado (Wort Kettle),1000.0,227,malt,,
+Magnum,20.0,227,hop,start,bitter
+Chinook,20.0,227,hop,start,bitter
+Pilsner,3000.0,228,malt,,
+Munich,800.0,228,malt,,
+Perle,10.0,228,hop,start,bitter
+Perle,10.0,228,hop,middle,flavour
+Extra Pale,5000.0,229,malt,,
+Rye,1000.0,229,malt,,
+Centennial,25.0,229,hop,start,bitter
+Columbus Extract,30.0,229,hop,start,bitter
+Centennial,18.75,229,hop,middle,flavour
+Columbus,18.75,229,hop,middle,flavour
+Centennial,50.0,229,hop,end,flavour
+Columbus,25.0,229,hop,end,flavour
+Amarillo,100.0,229,hop,dry hop,aroma
+Citra,100.0,229,hop,dry hop,aroma
+Simcoe,100.0,229,hop,dry hop,aroma
+Extra Pale,5800.0,230,malt,,
+Carafa Special Malt Type 3,800.0,230,malt,,
+Centennial,25.0,230,hop,start,bitter
+Columbus Extract,30.0,230,hop,start,bitter
+Centennial,18.75,230,hop,middle,flavour
+Columbus,18.75,230,hop,middle,flavour
+Centennial,50.0,230,hop,end,flavour
+Columbus,25.0,230,hop,end,flavour
+Amarillo,100.0,230,hop,dry hop,aroma
+Citra,100.0,230,hop,dry hop,aroma
+Simcoe,100.0,230,hop,dry hop,aroma
+Pale Ale,2300.0,231,malt,,
+Maris Otter,1300.0,231,malt,,
+Caramalt,500.0,231,malt,,
+Chinook,3.75,231,hop,start,bitter
+Chinook,12.5,231,hop,middle,flavour
+Chinook,37.5,231,hop,end,flavour
+Chinook,187.5,231,hop,dry hop,aroma
+Pale Ale,2300.0,232,malt,,
+Maris Otter,1300.0,232,malt,,
+Caramalt,500.0,232,malt,,
+Equinox,3.75,232,hop,start,bitter
+Equinox,10.0,232,hop,middle,flavour
+Equinox,37.5,232,hop,end,flavour
+Equinox,187.5,232,hop,dry hop,aroma
+Pale Ale,2300.0,233,malt,,
+Maris Otter,1300.0,233,malt,,
+Caramalt,500.0,233,malt,,
+Citra,3.75,233,hop,start,bitter
+Citra,12.5,233,hop,middle,flavour
+Citra,37.5,233,hop,end,flavour
+Citra,187.5,233,hop,dry hop,aroma
+Extra Pale,5300.0,234,malt,,
+Cane Sugar,500.0,234,malt,,
+Centennial,25.0,234,hop,start,bitter
+Centennial,13.0,234,hop,middle,flavour
+Columbus,13.0,234,hop,middle,flavour
+Mosaic,38.0,234,hop,end,flavour
+Citra,25.0,234,hop,end,flavour
+Habanero powder,6.0,234,hop,end,flavour
+Coriander seed,1.0,234,hop,end,flavour
+Maris Otter,7000.0,235,malt,,
+Centennial,5.0,235,hop,90,bitter
+Centennial,1.0,235,hop,15,flavour
+Columbus,1.0,235,hop,15,flavour
+Mosaic,3.0,235,hop,whirlpool,aroma
+Citra,2.0,235,hop,whirlpool,aroma
+Coriander Seed,4.0,235,hop,whirlpool,aroma
+Mango,500.0,235,hop,secondary,flavour
+1 lemon drop chilli,1.0,235,hop,maturation,flavour
+Maris Otter,4000.0,236,malt,,
+Dark Crystal,350.0,236,malt,,
+Centennial,20.0,236,hop,60,bitter
+Cascade,20.0,236,hop,30,flavour
+Amarillo,40.0,236,hop,whirlpool,aroma
+Cascade,25.0,236,hop,dry hop,aroma
+Amarillo,25.0,236,hop,dry hop,aroma
+Pilsner,1000.0,237,malt,,
+Wheat,1000.0,237,malt,,
+Munich,750.0,237,malt,,
+Flaked Oats,200.0,237,malt,,
+Smoked Malt,60.0,237,malt,,
+Perle,6.0,237,hop,15,bitter
+Lemon Peel,12.0,237,hop,15,aroma
+Honey,10.0,237,hop,15,flavour
+Pilsner,1630.0,238,malt,,
+Caramalt,160.0,238,malt,,
+Munich,630.0,238,malt,,
+Pale Ale,1500.0,238,malt,,
+Magnum,5.0,238,hop,Start,Bitter
+Perle,25.0,238,hop,Middle,Flavour
+Perle,12.5,238,hop,End,Flavour
+Pale Ale,6300.0,239,malt,,
+Dextrose,1000.0,239,malt,,
+Columbus,10.0,239,hop,Start,Bitter
+Simcoe,25.0,239,hop,End,Flavour
+Mosaic,25.0,239,hop,End,Flavour
+Citra,25.0,239,hop,End,Flavour
+Amarillo,25.0,239,hop,End,Flavour
+Simcoe,50.0,239,hop,Dry Hop,Aroma
+Mosaic,50.0,239,hop,Dry Hop,Aroma
+Citra,50.0,239,hop,Dry Hop,Aroma
+Amarillo,50.0,239,hop,Dry Hop,Aroma
+Maris Otter,3000.0,240,malt,,
+Rye,250.0,240,malt,,
+Flaked Oats,250.0,240,malt,,
+Bramling Cross,7.0,240,hop,15,Bitter
+Coriander,4.0,240,hop,15,Aroma
+Peppercorn,2.0,240,hop,15,Flavour
+Amarillo,15.0,240,hop,Whirlpool,Aroma
+Extra Pale,4900.0,241,malt,,
+Caramalt,700.0,241,malt,,
+Columbus,8.0,241,hop,Start,Bitter
+Centennial,8.0,241,hop,Start,Bitter
+Columbus,5.0,241,hop,Middle,Flavour
+Centennial,5.0,241,hop,Middle,Flavour
+Enigma,5.0,241,hop,Middle,Flavour
+Bramling Cross,6.0,241,hop,Middle,Flavour
+Columbus,6.0,241,hop,End,Flavour
+Centennial,6.0,241,hop,End,Flavour
+Enigma,5.0,241,hop,End,Flavour
+Bramling Cross,6.0,241,hop,End,Flavour
+Citra,30.0,241,hop,Dry Hop,Aroma
+Enigma,60.0,241,hop,Dry Hop,Aroma
+Bramling Cross,30.0,241,hop,Dry Hop,Aroma
+Maris Otter,4000.0,242,malt,,
+Munich,500.0,242,malt,,
+Crystal,500.0,242,malt,,
+Carahell,500.0,242,malt,,
+Wheat,500.0,242,malt,,
+Cascade,10.0,242,hop,Mash,Bitter
+Nelson Sauvin,10.0,242,hop,Mash,Bitter
+Cascade,30.0,242,hop,Start,Bitter
+Nelson Sauvin,15.0,242,hop,Start,Bitter
+Cascade,15.0,242,hop,Middle,Flavour
+Nelson Sauvin,15.0,242,hop,Middle,Flavour
+Cascade,100.0,242,hop,End,Aroma
+Nelson Sauvin,100.0,242,hop,End,Aroma
+Maris Otter,1500.0,243,malt,,
+Wheat,1500.0,243,malt,,
+Bramling Cross,6.0,243,hop,Start,Bitter
+Juniper Berry,400.0,243,hop,Start,Aroma
+Coriander,20.0,243,hop,Start,Aroma
+Orange Peel,155.0,243,hop,Start,Aroma
+Extra Pale,7200.0,244,malt,,
+Brown,1000.0,244,malt,,
+Double Roasted Crystal,1000.0,244,malt,,
+Flaked Oats,1000.0,244,malt,,
+Galena,40.0,244,hop,Start,Bitter
+Bramling Cross,40.0,244,hop,Middle,Flavour
+Maris Otter,5000.0,245,malt,,
+Munich,530.0,245,malt,,
+Dark Crystal,270.0,245,malt,,
+Apollo,26.67,245,hop,Start,Bitter
+Centennial,13.33,245,hop,Middle,Flavour
+Centennial,13.33,245,hop,End,Aroma
+Simcoe,13.33,245,hop,End,Aroma
+Simcoe,1.33,245,hop,Dry Hop,Aroma
+Apollo,0.67,245,hop,Dry Hop,Aroma
+Extra Pale,2600.0,246,malt,,
+Simpsons Rye,500.0,246,malt,,
+Medium Crystal,150.0,246,malt,,
+Equinox,10.0,246,hop,Start,Bitter
+Equinox,40.0,246,hop,Middle,Flavour
+Equinox,150.0,246,hop,End,Aroma
+Equinox,150.0,246,hop,Dry Hop,Aroma
+Pale Ale,3600.0,247,malt,,
+Wheat,200.0,247,malt,,
+Dextrin Malt,200.0,247,malt,,
+Chocolate,350.0,247,malt,,
+Double Roasted Crystal,300.0,247,malt,,
+Galena,30.0,247,hop,Start,Bitter
+Dark Muscavado,400.0,247,hop,Additions,Flavour
+Pale Ale,3000.0,248,malt,,
+Caramalt,200.0,248,malt,,
+Cascade,40.0,248,hop,End,Aroma
+Equinox,40.0,248,hop,End,Aroma
+Extra Pale,5800.0,249,malt,,
+Centennial,25.0,249,hop,Start,Bitter
+Columbus Extract,30.0,249,hop,Start,Bitter
+Centennial,18.75,249,hop,Middle,Flavour
+Columbus,18.75,249,hop,Middle,Flavour
+Centennial,50.0,249,hop,End,Flavour
+Columbus,25.0,249,hop,End,Flavour
+Amarillo,100.0,249,hop,Dry Hop,Aroma
+Citra,100.0,249,hop,Dry Hop,Aroma
+Simcoe,100.0,249,hop,Dry Hop,Aroma
+Maris Otter,4000.0,250,malt,,
+Rye,800.0,250,malt,,
+Centennial,40.0,250,hop,60,Bitter
+Centennial,15.0,250,hop,15,Bitter
+Columbus,15.0,250,hop,15,Flavour
+Centennial,50.0,250,hop,Whirlpool,Aroma
+Columbus,25.0,250,hop,Whirlpool,Aroma
+Columbus,10.0,250,hop,Dry Hop,Aroma
+Citra,10.0,250,hop,Dry Hop,Aroma
+Pale Ale,2000.0,251,malt,,
+Crisp Rye,220.0,251,malt,,
+Munich,110.0,251,malt,,
+Wheat,170.0,251,malt,,
+Acidulated Malt,60.0,251,malt,,
+Sorachi Ace,22.0,251,hop,Start,Bitter
+Sorachi Ace,22.0,251,hop,End,Flavour
+Pilsner,5160.0,252,malt,,
+Pale Ale,1720.0,252,malt,,
+Magnum,5.0,252,hop,Start,Bitter
+Sterling,10.0,252,hop,Start,Bitter
+Sterling,10.0,252,hop,End,Flavour
+Propino Pale Malt,5600.0,253,malt,,
+Premium English Caramalt,600.0,253,malt,,
+Munich,600.0,253,malt,,
+Amber,200.0,253,malt,,
+Dark Crystal,200.0,253,malt,,
+Brown,200.0,253,malt,,
+Bramling Cross,10.0,253,hop,Start,Bitter
+First Gold,10.0,253,hop,Start,Bitter
+First Gold,5.0,253,hop,Middle,Flavour
+Propino Pale Malt,1200.0,254,malt,,
+Pilsner,1350.0,254,malt,,
+Munich,500.0,254,malt,,
+Amber,100.0,254,malt,,
+Perle,5.0,254,hop,Start,Bitter
+Hallertauer Mittelfrüh,7.0,254,hop,Start,Bitter
+Mandarina Bavaria,20.0,254,hop,End,Flavour
+Pale Ale,7400.0,255,malt,,
+Wheat,1000.0,255,malt,,
+Mandarina Bavaria,20.0,255,hop,Start,Bitter
+Mandarina Bavaria,40.0,255,hop,Middle,Aroma
+Ginger Powder,10.0,255,hop,End,Bitter
+Pink Peppercorns,20.0,255,hop,End,Bitter
+Bitter Orange Peel,20.0,255,hop,End,Flavour
+Oat Husks,40.0,255,hop,End,Flavour
+Pale Ale,3300.0,256,malt,,
+Maris Otter,800.0,256,malt,,
+Wheat,500.0,256,malt,,
+Flaked Oats,200.0,256,malt,,
+Chinook,1.0,256,hop,Middle,Aroma
+Chinook,20.0,256,hop,End,Flavour
+Amarillo,30.0,256,hop,End,Flavour
+Simcoe,30.0,256,hop,End,Flavour
+Citra,50.0,256,hop,Dry Hop,Aroma
+Amarillo,50.0,256,hop,Dry Hop,Aroma
+Mosaic,50.0,256,hop,Dry Hop,Aroma
+Simcoe,50.0,256,hop,Dry Hop,Aroma
+Pale Ale,7800.0,257,malt,,
+Flaked Oats,1000.0,257,malt,,
+Brown,800.0,257,malt,,
+Extra Dark Crystal,400.0,257,malt,,
+Wheat,400.0,257,malt,,
+Carafa Special Malt Type 1,400.0,257,malt,,
+Chocolate,200.0,257,malt,,
+Magnum,10.0,257,hop,Start,Bitter
+Lactose,600.0,257,hop,Middle,Aroma
+Coffee,20.0,257,hop,Dry Hop,Flavour
+Cacoa Nibs,20.0,257,hop,Dry Hop,Flavour
+Vanilla,4.0,257,hop,Dry Hop,Flavour
+Extra Pale,6500.0,258,malt,,
+Caramalt,875.0,258,malt,,
+Munich,500.0,258,malt,,
+Flaked Oats,2000.0,258,malt,,
+Dark Crystal,875.0,258,malt,,
+Carafa Special Malt Type 1,250.0,258,malt,,
+Carafa Special Malt Type 3,500.0,258,malt,,
+Columbus,60.0,258,hop,Start,Bitter
+Columbus,20.0,258,hop,Middle,Flavour
+Saaz,20.0,258,hop,End,Flavour
+First Gold,20.0,258,hop,End,Flavour
+Propino Pale Malt,3800.0,259,malt,,
+Medium Crystal,300.0,259,malt,,
+Extra Dark Crystal,50.0,259,malt,,
+Premium English Caramalt,300.0,259,malt,,
+Brown,500.0,259,malt,,
+Chocolate,200.0,259,malt,,
+Magnum,2.0,259,hop,Start,Bitter
+Hallertauer Mittelfrüh,20.0,259,hop,Start,Bitter
+First Gold,10.0,259,hop,Start,Bitter
+Hallertauer Mittelfrüh,7.0,259,hop,End,Flavour
+Sweet Orange Peel,20.0,259,hop,Whirlpool,Flavour
+Propino Pale Malt,3400.0,260,malt,,
+Torrified Wheat,390.0,260,malt,,
+Flaked Oats,560.0,260,malt,,
+Mosaic,33.0,260,hop,Whirlpool,Aroma
+Citra,83.0,260,hop,Dry Hop,Aroma
+Mosaic,83.0,260,hop,Dry Hop,Aroma
+Extra Pale,4380.0,261,malt,,
+Flaked Oats,620.0,261,malt,,
+Brown,620.0,261,malt,,
+Dark Crystal,250.0,261,malt,,
+Wheat,250.0,261,malt,,
+Carafa Special Malt Type 1,190.0,261,malt,,
+Magnum,37.5,261,hop,Start,Bitter
+Lactose,262.5,261,hop,Middle,Aroma
+Vanilla Extract,25.0,261,hop,End,Flavour
+Cacao Nibs,25.0,261,hop,End,Flavour
+Coffee,25.0,261,hop,End,Flavour
+Propino Pale Malt,3300.0,262,malt,,
+Maris Otter,800.0,262,malt,,
+Wheat,500.0,262,malt,,
+Flaked Oats,200.0,262,malt,,
+Chinook,1.0,262,hop,Middle,Aroma
+Chinook,20.0,262,hop,End,Flavour
+Amarillo,30.0,262,hop,End,Flavour
+Simcoe,30.0,262,hop,End,Flavour
+Citra,50.0,262,hop,Dry Hop,Aroma
+Amarillo,50.0,262,hop,Dry Hop,Aroma
+Mosaic,50.0,262,hop,Dry Hop,Aroma
+Simcoe,50.0,262,hop,Dry Hop,Aroma
+Pilsner,3096.0,263,malt,,
+Pale Ale,1032.0,263,malt,,
+Magnum,4.0,263,hop,70,Bitter
+Mandarina Bavaria,20.0,263,hop,15,Flavour
+Mandarina Bavaria,20.0,263,hop,0,Aroma
+Pale Ale,3240.0,264,malt,,
+Uncrushed Wheat,600.0,264,malt,,
+Flaked Oats,240.0,264,malt,,
+Chinook,20.0,264,hop,Start,Aroma
+Mandarina Bavaria,20.0,264,hop,Start,Aroma
+Simcoe,30.0,264,hop,Start,Aroma
+Citra,50.0,264,hop,Dry Hop,Aroma
+Mandarina Bavaria,50.0,264,hop,Dry Hop,Aroma
+Mosaic,50.0,264,hop,Dry Hop,Aroma
+Simcoe,50.0,264,hop,Dry Hop,Aroma
+Pale Ale,4860.0,265,malt,,
+Wheat,540.0,265,malt,,
+Flaked Oats,540.0,265,malt,,
+Amarillo,40.0,265,hop,Start,Aroma
+Simcoe,40.0,265,hop,0,Aroma
+Apricot Juice,1.0,265,hop,Flame Out,Flavour
+Peach Juice,1.0,265,hop,Flame Out,Flavour
+Maris Otter,4533.0,266,malt,,
+Dextrin Malt,567.0,266,malt,,
+Flaked Oats,567.0,266,malt,,
+Amarillo,30.0,266,hop,0,Aroma
+Sorachi Ace,30.0,266,hop,0,Aroma
+Lemon Peel,4.0,266,hop,Flame Out,Flavour
+Coriander Seeds,2.0,266,hop,Flame Out,Flavour
+Lemon Concentrate,100.0,266,hop,Flame Out,Flavour
+Pale Ale,8160.0,267,malt,,
+Golden Naked Oats,960.0,267,malt,,
+Medium Crystal,480.0,267,malt,,
+Brown,240.0,267,malt,,
+Carafa Special Malt Type 3,120.0,267,malt,,
+Columbus,40.0,267,hop,First Wort Hops,Bittering
+American Oak Chips Medium Toast Soaked In Speyside Whisky,4.0,267,hop,Flame Out,Flavour
+Black Pepper,4.0,267,hop,Flame Out,Flavour
+Cardamon,10.0,267,hop,Flame Out,Flavour
+Ginger,10.0,267,hop,Flame Out,Flavour
+Nutmeg,2.0,267,hop,Flame Out,Flavour
+Cinnamon,2.0,267,hop,Flame Out,Flavour
+Star Anis,1.0,267,hop,Flame Out,Flavour
+Pale Ale,3960.0,268,malt,,
+Maris Otter,960.0,268,malt,,
+Wheat,600.0,268,malt,,
+Flaked Oats,240.0,268,malt,,
+Chinook,1.0,268,hop,10,Flavour
+Chinook,20.0,268,hop,0,Aroma
+Amarillo,20.0,268,hop,0,Aroma
+Simcoe,20.0,268,hop,0,Aroma
+Citra,50.0,268,hop,Dry Hop,Aroma
+Simcoe,50.0,268,hop,Dry Hop,Aroma
+Amarillo,50.0,268,hop,Dry Hop,Aroma
+Mosaic,50.0,268,hop,Dry Hop,Aroma
+Maris Otter,3740.0,269,malt,,
+White Wheat,2267.0,269,malt,,
+Extra Dark Crystal,91.0,269,malt,,
+Magnum,10.0,269,hop,60,Bitter
+Ariana,12.0,269,hop,15,Flavour
+Cascade,12.0,269,hop,15,Flavour
+Mandarina Bavaria,12.0,269,hop,15,Flavour
+Ariana,10.0,269,hop,Dry Hop,Aroma
+Mandarina Bavaria,10.0,269,hop,Dry Hop,Flavour
+Pale Ale,5300.0,270,malt,,
+Wheat,800.0,270,malt,,
+Flaked Oats,800.0,270,malt,,
+Smoked Malt,200.0,270,malt,,
+Magnum,7.0,270,hop,60,Bittering
+Mandarina Bavaria,33.0,270,hop,0,Aroma
+Callista,33.0,270,hop,0,Aroma
+Ground Coffee,33.0,270,hop,0,Aroma
+Cocoa Nibs,33.0,270,hop,Dry Hop,Flavour
+Oak Chips,33.0,270,hop,Dry Hop,Flavour
+Vanilla,3.0,270,hop,Dry Hop,Flavour
+Maris Otter,4533.0,271,malt,,
+Torrified Wheat,567.0,271,malt,,
+Flaked Oats,567.0,271,malt,,
+Amarillo,50.0,271,hop,0,Aroma
+Citra,50.0,271,hop,0,Aroma
+Mosaic,50.0,271,hop,0,Aroma
+Milk Sugars,500.0,271,hop,Flame out,Flavour
+Raspberry Juice,3000.0,271,hop,Flame out,Flavour
+Amarillo,30.0,271,hop,Dry Hop,Aroma
+Citra,30.0,271,hop,Dry Hop,Aroma
+Mosaic,30.0,271,hop,Dry Hop,Aroma
+Maris Otter,1700.0,272,malt,,
+Spelt,1133.0,272,malt,,
+White Wheat,567.0,272,malt,,
+Pilsner,567.0,272,malt,,
+Magnum,10.0,272,hop,60,Bittering
+Mandarina Bavaria,20.0,272,hop,0,Aroma
+Golden Honey,200.0,272,hop,Flame Out,Flavour
+Pale Ale,4920.0,273,malt,,
+Maris Otter,720.0,273,malt,,
+Simcoe,40.0,273,hop,70,Bittering
+Simcoe,20.0,273,hop,10,Flavour
+Mosaic,20.0,273,hop,0,Aroma
+Citra,20.0,273,hop,0,Aroma
+Simcoe,20.0,273,hop,0,Aroma
+Amarillo,20.0,273,hop,0,Aroma
+Citra,66.0,273,hop,Dry Hop,Aroma
+Mosaic,66.0,273,hop,Dry Hop,Aroma
+Simcoe,66.0,273,hop,Dry Hop,Aroma
+Pale Ale,4080.0,274,malt,,
+Rye,360.0,274,malt,,
+Light Crystal,180.0,274,malt,,
+Chocolate Wheat,240.0,274,malt,,
+Carafa Special Malt Type 3,180.0,274,malt,,
+Simcoe,24.0,274,hop,90,Bittering
+Chinook,20.0,274,hop,30,Flavour
+Centennial,20.0,274,hop,0,Aroma
+Simcoe,20.0,274,hop,0,Aroma
+Citra,150.0,274,hop,Dry Hop,Aroma
+Chinook,50.0,274,hop,Dry Hop,Aroma
+Pilsner,3627.0,275,malt,,
+Torrified Wheat,567.0,275,malt,,
+Acidulated Malt,283.0,275,malt,,
+Rye,136.0,275,malt,,
+Flaked Oats,136.0,275,malt,,
+Magnum,10.0,275,hop,60,Bittering
+Mosaic,10.0,275,hop,0,Aroma
+Amarillo,10.0,275,hop,0,Aroma
+Lemon Peel,20.0,275,hop,Flame Out,Flavour
+Coriander Seeds,1.0,275,hop,Flame Out,Flavour
+Pale Ale,3600.0,276,malt,,
+Wheat,2340.0,276,malt,,
+Double Roasted Crystal,120.0,276,malt,,
+Magnum,8.0,276,hop,70,Bittering
+Cascade,2.0,276,hop,10,Flavour
+Mandarina Bavaria,2.0,276,hop,10,Flavour
+Ariana,2.0,276,hop,10,Flavour
+Cascade,10.0,276,hop,0,Aroma
+Mandarina Bavaria,10.0,276,hop,0,Aroma
+Ariana,10.0,276,hop,0,Aroma
+Pale Ale,3300.0,277,malt,,
+Wheat,300.0,277,malt,,
+Carapils,240.0,277,malt,,
+Perle,70.0,277,hop,70,Bittering
+Hallertauer Mittelfrüh,20.0,277,hop,15,Flavour
+Extra Pale,9600.0,278,malt,,
+Munich,480.0,278,malt,,
+Flaked Oats,480.0,278,malt,,
+Amber,240.0,278,malt,,
+Brown,240.0,278,malt,,
+Double Roasted Crystal,240.0,278,malt,,
+Bramling Cross,60.0,278,hop,70,Bittering
+Bramling Cross,20.0,278,hop,15,Flavour
+Honey,400.0,278,hop,Flame Out,Flavour
+American Oak Chips Medium Toast Soaked in Bourbon,50.0,278,hop,Wood Ageing,Flavour
+Pale Ale,3420.0,279,malt,,
+Rye,480.0,279,malt,,
+Medium Crystal,180.0,279,malt,,
+Carafa Special Malt Type 3,120.0,279,malt,,
+Magnum,10.0,279,hop,70,Bittering
+Amarillo,10.0,279,hop,10,Flavour
+Mandarina Bavaria,10.0,279,hop,0,Aroma
+Amarillo,20.0,279,hop,0,Aroma
+Hallertauer Blanc,10.0,279,hop,0,Aroma
+Mandarina Bavaria,50.0,279,hop,Dry Hop,Aroma
+Amarillo,100.0,279,hop,Dry Hop,Aroma
+Hallertauer Blanc,50.0,279,hop,Dry Hop,Aroma
+Pilsner,3720.0,280,malt,,
+Dextrose,840.0,280,malt,,
+White Wheat,480.0,280,malt,,
+Torrified Wheat,240.0,280,malt,,
+Amarillo,6.0,280,hop,70,Bitter
+Amarillo,4.0,280,hop,15,Flavour
+Mandarina Bavaria,6.0,280,hop,15,Flavour
+Amarillo,10.0,280,hop,0,Aroma
+Mandarina Bavaria,10.0,280,hop,0,Aroma
+Cloudberries,100.0,280,hop,Flame Out,Flavour
+Pale Ale,8160.0,281,malt,,
+Rye,1440.0,281,malt,,
+Brown,120.0,281,malt,,
+Magnum,40.0,281,hop,70,Bittering
+Galena,20.0,281,hop,15,Flavour
+American Oak Chips Heavy Toast Soaked in Bourbon,100.0,281,hop,Wood Ageing,Flavour
+Pilsner,3627.0,282,malt,,
+Torrified Wheat,567.0,282,malt,,
+Acidulated Malt,287.0,282,malt,,
+Rye,136.0,282,malt,,
+Flaked Oats,287.0,282,malt,,
+Magnum,10.0,282,hop,60,Bittering
+Mosaic,10.0,282,hop,0,Aroma
+Amarillo,10.0,282,hop,0,Aroma
+Lemon Peel,10.0,282,hop,Flame Out,Flavour
+Coriander Seed,0.5,282,hop,Flame Out,Flavour
+Coconut Extract,6.0,282,hop,Dry Hop,Flavour
+Pineapple Juice,50.0,282,hop,Dry Hop,Flavour
+Pale Ale,6480.0,283,malt,,
+Munich,1440.0,283,malt,,
+Double Roasted Crystal,720.0,283,malt,,
+Chocolate Wheat,720.0,283,malt,,
+Flaked Oats,720.0,283,malt,,
+Medium Crystal,480.0,283,malt,,
+Oat Husks,48.0,283,malt,,
+Magnum,40.0,283,hop,70,Bitering
+Galena,12.0,283,hop,0,Aroma
+Centennial,10.0,283,hop,0,Aroma
+Muscovado Sugar,900.0,283,hop,Kettle,Flavour
+Ground Coffee,20.0,283,hop,Flame Out,Flavour
+Cold Brew Coffee,160.0,283,hop,FV Addition,Flavour
+Pale Ale,5520.0,284,malt,,
+Caramalt,120.0,284,malt,,
+Simcoe,24.0,284,hop,90,Bittering
+Chinook,20.0,284,hop,30,Flavour
+Simcoe,30.0,284,hop,0,Aroma
+Citra,40.0,284,hop,Dry Hop,Aroma
+Chinook,40.0,284,hop,Dry Hop,Aroma
+Centennial,20.0,284,hop,Dry Hop,Aroma
+Simcoe,40.0,284,hop,Dry Hop,Aroma
+Pale Ale,5520.0,285,malt,,
+Caramalt,120.0,285,malt,,
+Simcoe,24.0,285,hop,90,Bittering
+Chinook,20.0,285,hop,30,Flavour
+Simcoe,30.0,285,hop,0,Aroma
+Blueberry Juice,800.0,285,hop,Flame Out,Flavour
+Citra,40.0,285,hop,Dry Hop,Aroma
+Chinook,40.0,285,hop,Dry Hop,Aroma
+Simcoe,40.0,285,hop,Dry Hop,Aroma
+Centennial,20.0,285,hop,Dry Hop,Aroma
+Pale Ale,5520.0,286,malt,,
+Caramalt,120.0,286,malt,,
+Simcoe,24.0,286,hop,90,Bittering
+Chinook,20.0,286,hop,30,Flavour
+Simcoe,30.0,286,hop,0,Aroma
+Fresh Strawberries,2000.0,286,hop,Flame Out,Flavour
+Citra,40.0,286,hop,Dry Hop,Aroma
+Chinook,40.0,286,hop,Dry Hop,Aroma
+Simcoe,40.0,286,hop,Dry Hop,Aroma
+Centennial,20.0,286,hop,Dry Hop,Aroma
+Pale Ale,5520.0,287,malt,,
+Caramalt,120.0,287,malt,,
+Simcoe,24.0,287,hop,90,Bittering
+Chinook,20.0,287,hop,30,Flavour
+Simcoe,30.0,287,hop,0,Aroma
+Blackcurrant Concentrate,1500.0,287,hop,Flame Out,Flavour
+Citra,40.0,287,hop,Dry Hop,Aroma
+Chinook,40.0,287,hop,Dry Hop,Aroma
+Simcoe,40.0,287,hop,Dry Hop,Aroma
+Centennial,20.0,287,hop,Dry Hop,Aroma
+Pale Ale,5520.0,288,malt,,
+Caramalt,120.0,288,malt,,
+Simcoe,24.0,288,hop,90,Bittering
+Chinook,20.0,288,hop,30,Flavour
+Simcoe,30.0,288,hop,0,Aroma
+Lingonberry Juice,500.0,288,hop,Flame Out,Flavour
+Citra,40.0,288,hop,Dry Hop,Aroma
+Chinook,40.0,288,hop,Dry Hop,Aroma
+Simcoe,40.0,288,hop,Dry Hop,Aroma
+Centennial,20.0,288,hop,Dry Hop,Aroma
+Pale Ale,5520.0,289,malt,,
+Caramalt,120.0,289,malt,,
+Simcoe,24.0,289,hop,90,Bittering
+Chinook,20.0,289,hop,30,Flavour
+Simcoe,30.0,289,hop,0,Aroma
+Seville Orange Juice,200.0,289,hop,Flame Out,Flavour
+Citra,40.0,289,hop,Dry Hop,Aroma
+Chinook,40.0,289,hop,Dry Hop,Aroma
+Simcoe,40.0,289,hop,Dry Hop,Aroma
+Centennial,20.0,289,hop,Dry Hop,Aroma
+Pale Ale,5520.0,290,malt,,
+Caramalt,120.0,290,malt,,
+Simcoe,24.0,290,hop,90,Bittering
+Chinook,20.0,290,hop,30,Flavour
+Simcoe,30.0,290,hop,0,Aroma
+Elderflower Concentrate,500.0,290,hop,Flame Out,Flavour
+Citra,40.0,290,hop,Dry Hop,Aroma
+Chinook,40.0,290,hop,Dry Hop,Aroma
+Simcoe,40.0,290,hop,Dry Hop,Aroma
+Centennial,20.0,290,hop,Dry Hop,Aroma
+Pale Ale,5520.0,291,malt,,
+Caramalt,120.0,291,malt,,
+Simcoe,24.0,291,hop,90,Bittering
+Chinook,20.0,291,hop,30,Flavour
+Simcoe,30.0,291,hop,0,Aroma
+Lemon Juice,200.0,291,hop,Flame Out,Flavour
+Citra,40.0,291,hop,Dry Hop,Aroma
+Chinook,40.0,291,hop,Dry Hop,Aroma
+Simcoe,40.0,291,hop,Dry Hop,Aroma
+Centennial,20.0,291,hop,Dry Hop,Aroma
+Pale Ale,5520.0,292,malt,,
+Caramalt,120.0,292,malt,,
+Simcoe,24.0,292,hop,90,Bittering
+Chinook,20.0,292,hop,30,Flavour
+Simcoe,30.0,292,hop,0,Aroma
+Citra,40.0,292,hop,Dry Hop,Aroma
+Chinook,40.0,292,hop,Dry Hop,Aroma
+Simcoe,40.0,292,hop,Dry Hop,Aroma
+Centennial,20.0,292,hop,Dry Hop,Aroma
+Mandarin Segements,1000.0,292,hop,Mash,Flavour
+Extra Pale,5760.0,293,malt,,
+Caramalt,1200.0,293,malt,,
+Chocolate,1080.0,293,malt,,
+Flaked Oats,720.0,293,malt,,
+Extra Dark Crystal,480.0,293,malt,,
+Brown,480.0,293,malt,,
+Dextrin Malt,480.0,293,malt,,
+Double Roasted Crystal,240.0,293,malt,,
+Amber,240.0,293,malt,,
+Magnum,40.0,293,hop,70,Bittering
+American Oak Chips Medium Toast soaked in Speyside Whisky,50.0,293,hop,Wood Ageing,Flavour
+American Oak Chips Heavy Toast soaked in Speyside Whisky,50.0,293,hop,Wood Ageing,Flavour
+Pale Ale,4920.0,294,malt,,
+Flaked Oats,600.0,294,malt,,
+Wheat,360.0,294,malt,,
+Citra,2.0,294,hop,70,Bittering
+Citra,30.0,294,hop,0,Aroma
+Citra,200.0,294,hop,Dry Hop,Aroma
+Pale Ale,5169.0,295,malt,,
+Medium Crystal,738.0,295,malt,,
+Munich,738.0,295,malt,,
+Flaked Oats,738.0,295,malt,,
+Brown,554.0,295,malt,,
+Chocolate Wheat,369.0,295,malt,,
+Carafa Special Malt Type 1,369.0,295,malt,,
+Galena,12.0,295,hop,70,Bittering
+Cinnamon Powder,1.0,295,hop,Flame Out,Flavour
+Cocoa Nibs,15.4,295,hop,Flame Out,Flavour
+Vanilla Extract,108.0,295,hop,Dry Hop,Flavour
+Ground Coffee,31.0,295,hop,Dry Hop,Flavour
+Habenero Powder,1.0,295,hop,Dry Hop,Flavour
+Pale Ale,4320.0,296,malt,,
+Caramalt,840.0,296,malt,,
+Bitter Orange,10000.0,296,malt,,
+Sweet Orange Peel,10000.0,296,malt,,
+Grapefruit Peel,10000.0,296,malt,,
+Magnum,2.0,296,hop,70,Bittering
+Simcoe,10.0,296,hop,10,Flavour
+Amarillo,10.0,296,hop,10,Flavour
+Simcoe,10.0,296,hop,0,Aroma
+Amarillo,10.0,296,hop,0,Aroma
+Citra,20.0,296,hop,0,Aroma
+Mosaic,20.0,296,hop,10,Aroma
+Simcoe,40.0,296,hop,Dry Hop,Aroma
+Amarillo,40.0,296,hop,Dry Hop,Aroma
+Citra,40.0,296,hop,Dry Hop,Aroma
+Pale Ale,4800.0,297,malt,,
+Wheat,600.0,297,malt,,
+Flaked Oats,600.0,297,malt,,
+Mosaic,10.0,297,hop,0,Aroma
+Citra,10.0,297,hop,0,Aroma
+Peach Concentrate,150.0,297,hop,Flame Out,Aroma
+Mango Concentrate,150.0,297,hop,Flame Out,Aroma
+Milk Sugars,400.0,297,hop,Kettle,Flavour
+Extra Pale,7440.0,298,malt,,
+Flaked Oats,1440.0,298,malt,,
+Chocolate,720.0,298,malt,,
+Roasted Barley,720.0,298,malt,,
+Caramalt,480.0,298,malt,,
+Smoked Malt,480.0,298,malt,,
+Dark Crystal,480.0,298,malt,,
+Nelson Sauvin,40.0,298,hop,60,Bittering
+Columbus,40.0,298,hop,60,Bittering
+Sorachi Ace,20.0,298,hop,10,Flavour
+Centennial,20.0,298,hop,10,Flavour
+Nelson Sauvin,20.0,298,hop,10,Flavour
+Sorachi Ace,20.0,298,hop,Flame Out,Aroma
+Centennial,20.0,298,hop,Flame Out,Aroma
+Nelson Sauvin,20.0,298,hop,Flame Out,Aroma
+Maris Otter,227.0,299,malt,,
+Torrified Wheat,227.0,299,malt,,
+Carapils,113.0,299,malt,,
+Flaked Oats,113.0,299,malt,,
+Magnum,2.0,299,hop,45,Bittering
+Raspberry Juice,800.0,299,hop,Kettle,Flavour
+Pale Ale,3120.0,300,malt,,
+Wheat,300.0,300,malt,,
+Caramalt,300.0,300,malt,,
+Munich,300.0,300,malt,,
+Simcoe,11.0,300,hop,65,Bittering
+Cascade,3.0,300,hop,10,Flavour
+Simcoe,5.0,300,hop,0,Aroma
+Mosaic,28.0,300,hop,0,Aroma
+Pilsner,3360.0,301,malt,,
+Carapils,240.0,301,malt,,
+Magnum,12.0,301,hop,70,Bittering
+Spalter,15.0,301,hop,30,Flavour
+Spalter,15.0,301,hop,10,Flavour
+Saphire,30.0,301,hop,0,Aroma
+Saphire,30.0,301,hop,Dry Hop,Aroma
+Pale Ale,3960.0,302,malt,,
+Maris Otter,960.0,302,malt,,
+Wheat,600.0,302,malt,,
+Flaked Oats,240.0,302,malt,,
+Chinook,1.0,302,hop,10,Flavour
+Chinook,20.0,302,hop,0,Aroma
+Amarillo,20.0,302,hop,0,Aroma
+Simcoe,20.0,302,hop,0,Aroma
+Citra,50.0,302,hop,Dry Hop,Aroma
+Simcoe,50.0,302,hop,Dry Hop,Aroma
+Amarillo,50.0,302,hop,Dry Hop,Aroma
+Mosaic,50.0,302,hop,Dry Hop,Aroma
+"American Oak Wood- chip medium toast, Ageing soaked in Bourbon",50.0,302,hop,Dry Hop,Wood Ageing
+Pale Ale,3960.0,303,malt,,
+Maris Otter,960.0,303,malt,,
+Wheat,600.0,303,malt,,
+Flaked Oats,240.0,303,malt,,
+Chinook,1.0,303,hop,10,Flavour
+Chinook,20.0,303,hop,0,Aroma
+Amarillo,20.0,303,hop,0,Aroma
+Simcoe,20.0,303,hop,0,Aroma
+Citra,50.0,303,hop,Dry Hop,Aroma
+Simcoe,50.0,303,hop,Dry Hop,Aroma
+Amarillo,50.0,303,hop,Dry Hop,Aroma
+Mosaic,50.0,303,hop,Dry Hop,Aroma
+"American Oak Wood- chip medium toast, Ageing soaked in Rye Whisky",50.0,303,hop,Dry Hop,Wood Ageing
+Pale Ale,4440.0,304,malt,,
+Caramalt,720.0,304,malt,,
+Magnum,18.0,304,hop,70,Bittering
+Centennial,20.0,304,hop,0,Aroma
+Simcoe,20.0,304,hop,0,Aroma
+Citra,20.0,304,hop,0,Aroma
+Centennial,50.0,304,hop,Dry Hop,Aroma
+Simcoe,50.0,304,hop,Dry Hop,Aroma
+Citra,50.0,304,hop,Dry Hop,Aroma
+Pale Ale,5280.0,305,malt,,
+Dextrose,480.0,305,malt,,
+Medium Crystal,120.0,305,malt,,
+Simcoe,16.0,305,hop,90,Bittering
+Columbus,12.0,305,hop,90,Bittering
+Chinook,20.0,305,hop,30,Flavour
+Centennial,20.0,305,hop,0,Aroma
+Simcoe,20.0,305,hop,0,Aroma
+Citra,60.0,305,hop,Dry Hop,Aroma
+Mosaic,60.0,305,hop,Dry Hop,Aroma
+Centennial,40.0,305,hop,Dry Hop,Aroma
+Simcoe,40.0,305,hop,Dry Hop,Aroma
+Pale Ale,8400.0,306,malt,,
+Caramalt,1200.0,306,malt,,
+Flaked Oats,960.0,306,malt,,
+Wheat,720.0,306,malt,,
+Double Roasted Crystal,480.0,306,malt,,
+Extra Dark Crystal,360.0,306,malt,,
+Magnum,12.0,306,hop,70,Bittering
+Fuggles,40.0,306,hop,70,Bittering
+Pilsner,4680.0,307,malt,,
+Caramalt,840.0,307,malt,,
+Extra Dark Crystal,300.0,307,malt,,
+Carafa Special Malt Type 3,180.0,307,malt,,
+Chocolate Wheat,180.0,307,malt,,
+Magnum,8.0,307,hop,60,Bittering
+Sorachi Ace,8.0,307,hop,10,Flavour
+Sorachi Ace,20.0,307,hop,0,Aroma
+Maple Syrup,50.0,307,hop,Flame Out,Flavour
+Maple Syrup,25.0,307,hop,Dry Hop,Flavour
+Pale Ale,7380.0,308,malt,,
+Weyermann Special III,1200.0,308,malt,,
+Flaked Oats,462.0,308,malt,,
+Chinook,15.0,308,hop,70,Bittering
+Cocoa Nibs,115.0,308,hop,Dry Hop,Flavour
+Sodium Chloride,8.0,308,hop,Dry Hop,Flavour
+Cinnamon Powder,1.0,308,hop,Dry Hop,Flavour
+Extra Pale,6500.0,309,malt,,
+Flaked Oats,2000.0,309,malt,,
+Caramalt,875.0,309,malt,,
+Dark Crystal,875.0,309,malt,,
+Munich,500.0,309,malt,,
+Carafa Special Malt Type 3,500.0,309,malt,,
+Carafa Special Malt Type 1,250.0,309,malt,,
+Columbus,60.0,309,hop,Start,Bittering
+Columbus,20.0,309,hop,Middle,Flavour
+Saaz,20.0,309,hop,End,Flavour
+First Gold,20.0,309,hop,End,Flavour
+Pale Ale,3420.0,310,malt,,
+Caramalt,432.0,310,malt,,
+Medium Crystal,90.0,310,malt,,
+Simcoe,6.0,310,hop,70,Bitter
+Citra,2.0,310,hop,70,Bitter
+Simcoe,2.0,310,hop,10,Flavour
+Citra,2.0,310,hop,10,Flavour
+Ahtanum,5.0,310,hop,10,Flavour
+Chinook,5.0,310,hop,10,Flavour
+Chinook,3.0,310,hop,0,Aroma
+Simcoe,18.0,310,hop,0,Aroma
+Citra,5.0,310,hop,0,Aroma
+Mosaic,8.0,310,hop,0,Aroma
+Tangerine Extract,7.5,310,hop,Flame Out,Flavour
+Simcoe,40.0,310,hop,Dry Hop,Aroma
+Citra,25.0,310,hop,Dry Hop,Aroma
+Mosaic,25.0,310,hop,Dry Hop,Aroma
+Chinook,19.0,310,hop,Dry Hop,Aroma
+Ahtanum,15.0,310,hop,Dry Hop,Aroma
+Cascade,15.0,310,hop,Dry Hop,Aroma
+Amarillo,4.0,310,hop,Dry Hop,Aroma
+Pale Ale,4380.0,311,malt,,
+Wheat,360.0,311,malt,,
+Carapils,240.0,311,malt,,
+Columbus,40.0,311,hop,90,Bittering
+Cascade,20.0,311,hop,30,Flavour
+Centennial,30.0,311,hop,0,Aroma
+German Cascade,40.0,311,hop,Dry Hop,Aroma
+Ariana,40.0,311,hop,Dry Hop,Aroma
+Huell Melon,40.0,311,hop,Dry Hop,Aroma
+German Comet,60.0,311,hop,Dry Hop,Aroma
+Pale Ale,7500.0,312,malt,,
+Brown,750.0,312,malt,,
+Rye,750.0,312,malt,,
+Dark Crystal,750.0,312,malt,,
+Flaked Oats,750.0,312,malt,,
+Wheat,500.0,312,malt,,
+Carafa Special Malt Type 1,500.0,312,malt,,
+Carafa Special Malt Type 3,500.0,312,malt,,
+Chinook,25.0,312,hop,Start,Bittering
+Sorachi Ace,50.0,312,hop,Start,Bittering
+Ginger Powder,1.25,312,hop,End,Flavour
+Cold infused coffee,25.0,312,hop,End,Flavour
+Honey,1250.0,312,hop,End,Flavour
+Habanero,5.0,312,hop,Dry Hop,Flavour
+Lemon drop chili,3.0,312,hop,Dry Hop,Flavour
+Pilsner,5880.0,313,malt,,
+Chocolate,1680.0,313,malt,,
+Munich,960.0,313,malt,,
+Wheat,960.0,313,malt,,
+Brown,600.0,313,malt,,
+Black Malt,480.0,313,malt,,
+Extra Dark Crystal,240.0,313,malt,,
+Flaked Oats,240.0,313,malt,,
+Oat Husks,48.0,313,malt,,
+Cascade,30.0,313,hop,70,Bittering
+Cascade,30.0,313,hop,10,Flavour
+Demerara Sugar,750.0,313,hop,Kettle,Flavour
+Marshmallows,40.0,313,hop,Kettle,Flavour
+Ground Coffee,10.0,313,hop,Dry Hop,Flavour
+Cocoa Nibs,10.0,313,hop,Dry Hop,Flavour
+Pale Ale,3960.0,314,malt,,
+Uncrushed Wheat,600.0,314,malt,,
+Flaked Oats,600.0,314,malt,,
+Magnum,2.0,314,hop,65,Bittering
+Citra,20.0,314,hop,10,Flavour
+Amarillo,40.0,314,hop,0,Aroma
+Nelson Sauvin,40.0,314,hop,0,Aroma
+Citra,40.0,314,hop,0,Aroma
+Idaho 7,60.0,314,hop,Dry Hop,Aroma
+Nelson Sauvin,80.0,314,hop,Dry Hop,Aroma
+Citra,60.0,314,hop,Dry Hop,Aroma
+Mango Puree,1000.0,314,hop,Dry Hop,Aroma
+Pale Ale,4320.0,315,malt,,
+Munich Type 1 Light,600.0,315,malt,,
+Double Roasted Crystal,420.0,315,malt,,
+Chocolate Wheat,300.0,315,malt,,
+Medium Crystal,240.0,315,malt,,
+Carafa Special Malt Type 3,180.0,315,malt,,
+Magnum,12.0,315,hop,70,Bittering
+Amarillo,8.0,315,hop,15,Flavour
+Saphire,6.0,315,hop,15,Flavour
+Plum Concentrate,400.0,315,hop,Flame Out,Flavour
+Pilsner,4200.0,316,malt,,
+Munich Type 1 Light,960.0,316,malt,,
+Carapils,60.0,316,malt,,
+Acidulated Malt,60.0,316,malt,,
+Magnum,4.0,316,hop,70,Bittering
+Hallertauer Mittelfrüh,10.0,316,hop,10,Flavour
+Hallertauer Mittelfrüh,20.0,316,hop,0,Aroma
+Hallertauer Mittelfrüh,20.0,316,hop,0,Aroma
+Mandarina Bavaria,40.0,316,hop,0,Aroma
+Motueka,20.0,316,hop,0,Aroma
+Hallertauer Mittelfrüh,20.0,316,hop,Dry Hop,Aroma
+Mandarina Bavaria,30.0,316,hop,Dry Hop,Aroma
+Motueka,20.0,316,hop,Dry Hop,Aroma
+Pale Ale,7080.0,317,malt,,
+Caramalt,480.0,317,malt,,
+Light Crystal,240.0,317,malt,,
+Medium Crystal,120.0,317,malt,,
+Sweet Orange Peel,20000.0,317,malt,,
+Magnum,6.0,317,hop,70,Bittering
+Mandarina Bavaria,20.0,317,hop,10,Flavour
+Hallertauer Blanc,20.0,317,hop,10,Flavour
+French Oak Chips Medium Toast,40.0,317,hop,Wood Ageing,Flavour
+Pilsner,3600.0,318,malt,,
+Carapils,360.0,318,malt,,
+Vienna,240.0,318,malt,,
+Acidulated Malt,60.0,318,malt,,
+Magnum,2.0,318,hop,70,Bittering
+Citra,10.0,318,hop,10,Flavour
+Centennial,10.0,318,hop,10,Flavour
+Citra,15.0,318,hop,0,Aroma
+Centennial,15.0,318,hop,0,Aroma
+Citra,10.0,318,hop,Dry Hop,Aroma
+Centennial,10.0,318,hop,Dry Hop,Aroma
+Nelson Sauvin,10.0,318,hop,Dry Hop,Aroma
+Pilsner,3480.0,319,malt,,
+Munich Type 1 Light,960.0,319,malt,,
+Grano Dei Miracoli,240.0,319,malt,,
+Brown,180.0,319,malt,,
+Chocolate Wheat,120.0,319,malt,,
+Magnum,6.0,319,hop,70,Bittering
+East Kent Golding,10.0,319,hop,15,Flavour
+Fuggles,10.0,319,hop,15,Flavour
+East Kent Golding,24.0,319,hop,0,Aroma
+Fuggles,24.0,319,hop,0,Aroma
+Pale Ale,4800.0,320,malt,,
+Flaked Oats,600.0,320,malt,,
+Wheat,360.0,320,malt,,
+Citra,2.0,320,hop,70,Bittering
+Citra,30.0,320,hop,0,Aroma
+Citra,160.0,320,hop,Dry Hop,Aroma
+Pale Ale,3120.0,321,malt,,
+Munich,480.0,321,malt,,
+Dextrin Malt,180.0,321,malt,,
+Simcoe,6.0,321,hop,65,Bittering
+Chinook,10.0,321,hop,10,Flavour
+Simcoe,20.0,321,hop,0,Aroma
+Chinook,20.0,321,hop,0,Aroma
+Simcoe,60.0,321,hop,Dry Hop,Aroma
+Centennial,60.0,321,hop,Dry Hop,Aroma
+Pale Ale,4560.0,322,malt,,
+Munich,360.0,322,malt,,
+Dextrin Malt,240.0,322,malt,,
+Carared,240.0,322,malt,,
+Simcoe,32.0,322,hop,65,Bittering
+Cascade,20.0,322,hop,10,Flavour
+Cascade,30.0,322,hop,0,Aroma
+Centennial,30.0,322,hop,0,Aroma
+Citra,60.0,322,hop,Dry Hop,Aroma
+Simcoe,40.0,322,hop,Dry Hop,Aroma
+Cascade,20.0,322,hop,Dry Hop,Aroma
+Chinook,20.0,322,hop,Dry Hop,Aroma
+Mosaic,20.0,322,hop,Dry Hop,Aroma
+Pilsner,1560.0,323,malt,,
+Vienna,1560.0,323,malt,,
+Munich,600.0,323,malt,,
+Carahell,180.0,323,malt,,
+Carared,180.0,323,malt,,
+Perle,5.0,323,hop,65,Bittering
+Hallertauer Mittelfrüh,20.0,323,hop,10,Aroma
+Mandarina Bavaria,20.0,323,hop,0,Aroma
+Pilsner,3360.0,324,malt,,
+Pale Ale,1200.0,324,malt,,
+Magnum,10.0,324,hop,70,Bitering
+Sterling,20.0,324,hop,10,Flavour
+Sterling,20.0,324,hop,0,Aroma
+Pilsner,3540.0,325,malt,,
+Carapils,240.0,325,malt,,
+Magnum,12.0,325,hop,70,Bittering
+Spalter,15.0,325,hop,30,Flavour
+Spalter,15.0,325,hop,10,Flavour
+Saphire,30.0,325,hop,0,Aroma
+Saphire,30.0,325,hop,Dry Hop,Aroma

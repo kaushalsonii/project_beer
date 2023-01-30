@@ -1,0 +1,1621 @@
+id,name,date,metric_name,metric_value,yeast_type
+1,Buzz,2007-09-01,abv,4.5,Ale
+1,Buzz,2007-09-01,ibu,60,Ale
+1,Buzz,2007-09-01,srm,10,Ale
+1,Buzz,2007-09-01,ph,4.4,Ale
+1,Buzz,2007-09-01,target_fg,1010,Ale
+2,Trashy Blonde,2008-04-01,abv,4.1,Ale
+2,Trashy Blonde,2008-04-01,ibu,41.5,Ale
+2,Trashy Blonde,2008-04-01,srm,15,Ale
+2,Trashy Blonde,2008-04-01,ph,4.4,Ale
+2,Trashy Blonde,2008-04-01,target_fg,1010,Ale
+3,Berliner Weisse With Yuzu - B-Sides,2015-11-01,abv,4.2,Ale
+3,Berliner Weisse With Yuzu - B-Sides,2015-11-01,ibu,8,Ale
+3,Berliner Weisse With Yuzu - B-Sides,2015-11-01,srm,4,Ale
+3,Berliner Weisse With Yuzu - B-Sides,2015-11-01,ph,3.2,Ale
+3,Berliner Weisse With Yuzu - B-Sides,2015-11-01,target_fg,1007,Ale
+4,Pilsen Lager,2013-09-01,abv,6.3,Lager
+4,Pilsen Lager,2013-09-01,ibu,55,Lager
+4,Pilsen Lager,2013-09-01,srm,15,Lager
+4,Pilsen Lager,2013-09-01,ph,4.4,Lager
+4,Pilsen Lager,2013-09-01,target_fg,1012,Lager
+5,Avery Brown Dredge,2011-02-01,abv,7.2,Lager
+5,Avery Brown Dredge,2011-02-01,ibu,59,Lager
+5,Avery Brown Dredge,2011-02-01,srm,5,Lager
+5,Avery Brown Dredge,2011-02-01,ph,4.4,Lager
+5,Avery Brown Dredge,2011-02-01,target_fg,1027,Lager
+6,Electric India,2013-05-01,abv,5.2,Other
+6,Electric India,2013-05-01,ibu,38,Other
+6,Electric India,2013-05-01,srm,7.5,Other
+6,Electric India,2013-05-01,ph,4.4,Other
+6,Electric India,2013-05-01,target_fg,1005,Other
+7,AB:12,2012-07-01,abv,11.2,Other
+7,AB:12,2012-07-01,ibu,35,Other
+7,AB:12,2012-07-01,srm,40,Other
+7,AB:12,2012-07-01,ph,5.3,Other
+7,AB:12,2012-07-01,target_fg,1017,Other
+8,Fake Lager,2013-03-01,abv,4.7,Lager
+8,Fake Lager,2013-03-01,ibu,40,Lager
+8,Fake Lager,2013-03-01,srm,6,Lager
+8,Fake Lager,2013-03-01,ph,4.4,Lager
+8,Fake Lager,2013-03-01,target_fg,1010,Lager
+9,AB:07,2010-03-01,abv,12.5,Lager
+9,AB:07,2010-03-01,ibu,30,Lager
+9,AB:07,2010-03-01,srm,42,Lager
+9,AB:07,2010-03-01,ph,5.6,Lager
+9,AB:07,2010-03-01,target_fg,1020,Lager
+10,Bramling X,2011-01-01,abv,7.5,Ale
+10,Bramling X,2011-01-01,ibu,75,Ale
+10,Bramling X,2011-01-01,srm,11,Ale
+10,Bramling X,2011-01-01,ph,4.4,Ale
+10,Bramling X,2011-01-01,target_fg,1013,Ale
+11,Misspent Youth,2013-04-01,abv,7.3,Ale
+11,Misspent Youth,2013-04-01,ibu,30,Ale
+11,Misspent Youth,2013-04-01,srm,60,Ale
+11,Misspent Youth,2013-04-01,ph,4.4,Ale
+11,Misspent Youth,2013-04-01,target_fg,1020,Ale
+12,Arcade Nation,2015-12-01,abv,5.3,Ale
+12,Arcade Nation,2015-12-01,ibu,60,Ale
+12,Arcade Nation,2015-12-01,srm,100,Ale
+12,Arcade Nation,2015-12-01,ph,4.2,Ale
+12,Arcade Nation,2015-12-01,target_fg,1012,Ale
+13,Movember,2009-11-01,abv,4.5,Ale
+13,Movember,2009-11-01,ibu,50,Ale
+13,Movember,2009-11-01,srm,70,Ale
+13,Movember,2009-11-01,ph,5.2,Ale
+13,Movember,2009-11-01,target_fg,1012,Ale
+14,Alpha Dog,2010-02-01,abv,4.5,Ale
+14,Alpha Dog,2010-02-01,ibu,42,Ale
+14,Alpha Dog,2010-02-01,srm,31,Ale
+14,Alpha Dog,2010-02-01,ph,4.4,Ale
+14,Alpha Dog,2010-02-01,target_fg,1025,Ale
+15,Mixtape 8,2012-01-01,abv,14.5,Other
+15,Mixtape 8,2012-01-01,ibu,50,Other
+15,Mixtape 8,2012-01-01,srm,20,Other
+15,Mixtape 8,2012-01-01,ph,4.4,Other
+15,Mixtape 8,2012-01-01,target_fg,1014,Other
+16,Libertine Porter,2012-01-01,abv,6.1,Ale
+16,Libertine Porter,2012-01-01,ibu,45,Ale
+16,Libertine Porter,2012-01-01,srm,109.5,Ale
+16,Libertine Porter,2012-01-01,ph,4.4,Ale
+16,Libertine Porter,2012-01-01,target_fg,1020,Ale
+17,AB:06,2011-04-01,abv,11.2,Ale
+17,AB:06,2011-04-01,ibu,150,Ale
+17,AB:06,2011-04-01,srm,35,Ale
+17,AB:06,2011-04-01,ph,,Ale
+17,AB:06,2011-04-01,target_fg,1013,Ale
+18,Russian Doll – India Pale Ale,2014-08-01,abv,6,Ale
+18,Russian Doll – India Pale Ale,2014-08-01,ibu,70,Ale
+18,Russian Doll – India Pale Ale,2014-08-01,srm,12.5,Ale
+18,Russian Doll – India Pale Ale,2014-08-01,ph,5.2,Ale
+18,Russian Doll – India Pale Ale,2014-08-01,target_fg,1012,Ale
+19,Hello My Name Is Mette-Marit,2013-06-01,abv,8.2,Ale
+19,Hello My Name Is Mette-Marit,2013-06-01,ibu,70,Ale
+19,Hello My Name Is Mette-Marit,2013-06-01,srm,,Ale
+19,Hello My Name Is Mette-Marit,2013-06-01,ph,4.4,Ale
+19,Hello My Name Is Mette-Marit,2013-06-01,target_fg,1013,Ale
+20,Rabiator,2011-03-01,abv,10.27,Other
+20,Rabiator,2011-03-01,ibu,26,Other
+20,Rabiator,2011-03-01,srm,12,Other
+20,Rabiator,2011-03-01,ph,4.4,Other
+20,Rabiator,2011-03-01,target_fg,1014,Other
+21,Vice Bier,2013-04-01,abv,4.3,Other
+21,Vice Bier,2013-04-01,ibu,25,Other
+21,Vice Bier,2013-04-01,srm,15,Other
+21,Vice Bier,2013-04-01,ph,4,Other
+21,Vice Bier,2013-04-01,target_fg,1010,Other
+22,Devine Rebel (w/ Mikkeller),2008-12-01,abv,12.5,Ale
+22,Devine Rebel (w/ Mikkeller),2008-12-01,ibu,100,Ale
+22,Devine Rebel (w/ Mikkeller),2008-12-01,srm,18,Ale
+22,Devine Rebel (w/ Mikkeller),2008-12-01,ph,4.4,Ale
+22,Devine Rebel (w/ Mikkeller),2008-12-01,target_fg,1030,Ale
+23,Storm,2007-12-01,abv,8,Ale
+23,Storm,2007-12-01,ibu,60,Ale
+23,Storm,2007-12-01,srm,6,Ale
+23,Storm,2007-12-01,ph,4.4,Ale
+23,Storm,2007-12-01,target_fg,1010,Ale
+24,The End Of History,2011-06-01,abv,55,Other
+24,The End Of History,2011-06-01,ibu,,Other
+24,The End Of History,2011-06-01,srm,,Other
+24,The End Of History,2011-06-01,ph,4.4,Other
+24,The End Of History,2011-06-01,target_fg,1000,Other
+25,Bad Pixie,2008-10-01,abv,4.7,Ale
+25,Bad Pixie,2008-10-01,ibu,45,Ale
+25,Bad Pixie,2008-10-01,srm,4,Ale
+25,Bad Pixie,2008-10-01,ph,4.4,Ale
+25,Bad Pixie,2008-10-01,target_fg,1010,Ale
+26,Skull Candy,2010-02-01,abv,3.5,Ale
+26,Skull Candy,2010-02-01,ibu,33,Ale
+26,Skull Candy,2010-02-01,srm,25,Ale
+26,Skull Candy,2010-02-01,ph,4.4,Ale
+26,Skull Candy,2010-02-01,target_fg,1012,Ale
+27,Dog B,2013-05-01,abv,15,Ale
+27,Dog B,2013-05-01,ibu,90,Ale
+27,Dog B,2013-05-01,srm,50,Ale
+27,Dog B,2013-05-01,ph,4.4,Ale
+27,Dog B,2013-05-01,target_fg,1003,Ale
+28,HBC 369,2012-02-01,abv,6.7,Ale
+28,HBC 369,2012-02-01,ibu,67,Ale
+28,HBC 369,2012-02-01,srm,9.5,Ale
+28,HBC 369,2012-02-01,ph,4.4,Ale
+28,HBC 369,2012-02-01,target_fg,1064,Ale
+29,10 Heads High,2013-04-01,abv,7.8,Ale
+29,10 Heads High,2013-04-01,ibu,70,Ale
+29,10 Heads High,2013-04-01,srm,45,Ale
+29,10 Heads High,2013-04-01,ph,4.4,Ale
+29,10 Heads High,2013-04-01,target_fg,1015,Ale
+30,Dana - IPA Is Dead,2013-02-01,abv,6.7,Ale
+30,Dana - IPA Is Dead,2013-02-01,ibu,70,Ale
+30,Dana - IPA Is Dead,2013-02-01,srm,15,Ale
+30,Dana - IPA Is Dead,2013-02-01,ph,4.4,Ale
+30,Dana - IPA Is Dead,2013-02-01,target_fg,1015,Ale
+31,Nanny State,2009-08-01,abv,0.5,Ale
+31,Nanny State,2009-08-01,ibu,55,Ale
+31,Nanny State,2009-08-01,srm,15,Ale
+31,Nanny State,2009-08-01,ph,4.4,Ale
+31,Nanny State,2009-08-01,target_fg,1005,Ale
+32,AB:05,2010-12-01,abv,12.5,Other
+32,AB:05,2010-12-01,ibu,40,Other
+32,AB:05,2010-12-01,srm,90,Other
+32,AB:05,2010-12-01,ph,4.4,Other
+32,AB:05,2010-12-01,target_fg,1030,Other
+33,Sorachi Ace,2011-01-01,abv,7.5,Ale
+33,Sorachi Ace,2011-01-01,ibu,75,Ale
+33,Sorachi Ace,2011-01-01,srm,15,Ale
+33,Sorachi Ace,2011-01-01,ph,4.4,Ale
+33,Sorachi Ace,2011-01-01,target_fg,1013,Ale
+34,Bourbon Baby,2014-01-01,abv,5.8,Ale
+34,Bourbon Baby,2014-01-01,ibu,35,Ale
+34,Bourbon Baby,2014-01-01,srm,22,Ale
+34,Bourbon Baby,2014-01-01,ph,4.4,Ale
+34,Bourbon Baby,2014-01-01,target_fg,1005,Ale
+35,Berliner Weisse With Raspberries And Rhubarb - B-Sides,2015-11-01,abv,3.6,Ale
+35,Berliner Weisse With Raspberries And Rhubarb - B-Sides,2015-11-01,ibu,8,Ale
+35,Berliner Weisse With Raspberries And Rhubarb - B-Sides,2015-11-01,srm,,Ale
+35,Berliner Weisse With Raspberries And Rhubarb - B-Sides,2015-11-01,ph,3.2,Ale
+35,Berliner Weisse With Raspberries And Rhubarb - B-Sides,2015-11-01,target_fg,1007,Ale
+36,Shipwrecker Circus (w/ Oskar Blues),2013-09-01,abv,10.5,Ale
+36,Shipwrecker Circus (w/ Oskar Blues),2013-09-01,ibu,85,Ale
+36,Shipwrecker Circus (w/ Oskar Blues),2013-09-01,srm,32,Ale
+36,Shipwrecker Circus (w/ Oskar Blues),2013-09-01,ph,4.4,Ale
+36,Shipwrecker Circus (w/ Oskar Blues),2013-09-01,target_fg,1022,Ale
+37,Zephyr,2008-10-01,abv,12.5,Ale
+37,Zephyr,2008-10-01,ibu,125,Ale
+37,Zephyr,2008-10-01,srm,20,Ale
+37,Zephyr,2008-10-01,ph,4.4,Ale
+37,Zephyr,2008-10-01,target_fg,1016,Ale
+38,Belgian Trappist,2013-09-01,abv,6.3,Ale
+38,Belgian Trappist,2013-09-01,ibu,55,Ale
+38,Belgian Trappist,2013-09-01,srm,15,Ale
+38,Belgian Trappist,2013-09-01,ph,4.4,Ale
+38,Belgian Trappist,2013-09-01,target_fg,1012,Ale
+39,Kohatu - IPA Is Dead,2014-02-01,abv,7.2,Ale
+39,Kohatu - IPA Is Dead,2014-02-01,ibu,70,Ale
+39,Kohatu - IPA Is Dead,2014-02-01,srm,15,Ale
+39,Kohatu - IPA Is Dead,2014-02-01,ph,4.4,Ale
+39,Kohatu - IPA Is Dead,2014-02-01,target_fg,1012,Ale
+40,Hello My Name is Vladimir,2014-01-01,abv,8.2,Ale
+40,Hello My Name is Vladimir,2014-01-01,ibu,70,Ale
+40,Hello My Name is Vladimir,2014-01-01,srm,8,Ale
+40,Hello My Name is Vladimir,2014-01-01,ph,4.4,Ale
+40,Hello My Name is Vladimir,2014-01-01,target_fg,1013,Ale
+41,AB:17,2014-10-01,abv,10.7,Ale
+41,AB:17,2014-10-01,ibu,100,Ale
+41,AB:17,2014-10-01,srm,150,Ale
+41,AB:17,2014-10-01,ph,4.3,Ale
+41,AB:17,2014-10-01,target_fg,1025,Ale
+42,Hardcore IPA,2009-12-01,abv,9.2,Ale
+42,Hardcore IPA,2009-12-01,ibu,125,Ale
+42,Hardcore IPA,2009-12-01,srm,20,Ale
+42,Hardcore IPA,2009-12-01,ph,4.4,Ale
+42,Hardcore IPA,2009-12-01,target_fg,1016,Ale
+43,American Wheat,2014-07-01,abv,4.5,Other
+43,American Wheat,2014-07-01,ibu,17,Other
+43,American Wheat,2014-07-01,srm,5,Other
+43,American Wheat,2014-07-01,ph,5.3,Other
+43,American Wheat,2014-07-01,target_fg,1013,Other
+44,Dog Wired (w/8 Wired),2013-06-01,abv,7.1,Lager
+44,Dog Wired (w/8 Wired),2013-06-01,ibu,65,Lager
+44,Dog Wired (w/8 Wired),2013-06-01,srm,6.5,Lager
+44,Dog Wired (w/8 Wired),2013-06-01,ph,4.4,Lager
+44,Dog Wired (w/8 Wired),2013-06-01,target_fg,1010,Lager
+45,The Physics,2007-04-01,abv,5,Ale
+45,The Physics,2007-04-01,ibu,47,Ale
+45,The Physics,2007-04-01,srm,32.5,Ale
+45,The Physics,2007-04-01,ph,4.4,Ale
+45,The Physics,2007-04-01,target_fg,1010,Ale
+46,Anarchist Alchemist,2012-03-01,abv,16.5,Ale
+46,Anarchist Alchemist,2012-03-01,ibu,20.5,Ale
+46,Anarchist Alchemist,2012-03-01,srm,10,Ale
+46,Anarchist Alchemist,2012-03-01,ph,4.4,Ale
+46,Anarchist Alchemist,2012-03-01,target_fg,1000,Ale
+47,AB:15,2013-03-01,abv,12.8,Ale
+47,AB:15,2013-03-01,ibu,50,Ale
+47,AB:15,2013-03-01,srm,55.5,Ale
+47,AB:15,2013-03-01,ph,4.4,Ale
+47,AB:15,2013-03-01,target_fg,1020,Ale
+48,Goldings - IPA Is Dead,2013-02-01,abv,6.7,Ale
+48,Goldings - IPA Is Dead,2013-02-01,ibu,70,Ale
+48,Goldings - IPA Is Dead,2013-02-01,srm,15,Ale
+48,Goldings - IPA Is Dead,2013-02-01,ph,4.4,Ale
+48,Goldings - IPA Is Dead,2013-02-01,target_fg,1015,Ale
+49,AB:14,2013-02-01,abv,10,Other
+49,AB:14,2013-02-01,ibu,30,Other
+49,AB:14,2013-02-01,srm,10,Other
+49,AB:14,2013-02-01,ph,4.4,Other
+49,AB:14,2013-02-01,target_fg,1016,Other
+50,Lost Dog (w/Lost Abbey),2011-11-01,abv,10,Ale
+50,Lost Dog (w/Lost Abbey),2011-11-01,ibu,35,Ale
+50,Lost Dog (w/Lost Abbey),2011-11-01,srm,40,Ale
+50,Lost Dog (w/Lost Abbey),2011-11-01,ph,4.4,Ale
+50,Lost Dog (w/Lost Abbey),2011-11-01,target_fg,1012,Ale
+51,TM10,2010-04-01,abv,5.5,Other
+51,TM10,2010-04-01,ibu,20,Other
+51,TM10,2010-04-01,srm,7,Other
+51,TM10,2010-04-01,ph,4.2,Other
+51,TM10,2010-04-01,target_fg,1005,Other
+52,Paradox Islay,2007-04-01,abv,10,Ale
+52,Paradox Islay,2007-04-01,ibu,55,Ale
+52,Paradox Islay,2007-04-01,srm,152,Ale
+52,Paradox Islay,2007-04-01,ph,4.4,Ale
+52,Paradox Islay,2007-04-01,target_fg,1014,Ale
+53,Baby Dogma,2013-09-01,abv,4.5,Ale
+53,Baby Dogma,2013-09-01,ibu,35,Ale
+53,Baby Dogma,2013-09-01,srm,20,Ale
+53,Baby Dogma,2013-09-01,ph,4.4,Ale
+53,Baby Dogma,2013-09-01,target_fg,1013,Ale
+54,Albino Squid Assasin,2015-11-01,abv,7.4,Ale
+54,Albino Squid Assasin,2015-11-01,ibu,65,Ale
+54,Albino Squid Assasin,2015-11-01,srm,30,Ale
+54,Albino Squid Assasin,2015-11-01,ph,4.2,Ale
+54,Albino Squid Assasin,2015-11-01,target_fg,1012,Ale
+55,Amarillo - IPA Is Dead,2013-01-01,abv,7.2,Ale
+55,Amarillo - IPA Is Dead,2013-01-01,ibu,70,Ale
+55,Amarillo - IPA Is Dead,2013-01-01,srm,15,Ale
+55,Amarillo - IPA Is Dead,2013-01-01,ph,4.4,Ale
+55,Amarillo - IPA Is Dead,2013-01-01,target_fg,1012,Ale
+56,Black Eyed King Imp,2012-11-01,abv,9.5,Ale
+56,Black Eyed King Imp,2012-11-01,ibu,85,Ale
+56,Black Eyed King Imp,2012-11-01,srm,125,Ale
+56,Black Eyed King Imp,2012-11-01,ph,4.4,Ale
+56,Black Eyed King Imp,2012-11-01,target_fg,1022,Ale
+57,Prototype 27,2010-04-01,abv,9.2,Ale
+57,Prototype 27,2010-04-01,ibu,149,Ale
+57,Prototype 27,2010-04-01,srm,9.8,Ale
+57,Prototype 27,2010-04-01,ph,4.4,Ale
+57,Prototype 27,2010-04-01,target_fg,1014,Ale
+58,Coffee Imperial Stout,2008-11-01,abv,9,Ale
+58,Coffee Imperial Stout,2008-11-01,ibu,65,Ale
+58,Coffee Imperial Stout,2008-11-01,srm,49,Ale
+58,Coffee Imperial Stout,2008-11-01,ph,4.4,Ale
+58,Coffee Imperial Stout,2008-11-01,target_fg,1019,Ale
+59,Mandarina Bavaria - IPA Is Dead,2015-03-01,abv,7.2,Ale
+59,Mandarina Bavaria - IPA Is Dead,2015-03-01,ibu,100,Ale
+59,Mandarina Bavaria - IPA Is Dead,2015-03-01,srm,6,Ale
+59,Mandarina Bavaria - IPA Is Dead,2015-03-01,ph,4.4,Ale
+59,Mandarina Bavaria - IPA Is Dead,2015-03-01,target_fg,1010,Ale
+60,Dogma,2013-07-01,abv,7.5,Lager
+60,Dogma,2013-07-01,ibu,30,Lager
+60,Dogma,2013-07-01,srm,23,Lager
+60,Dogma,2013-07-01,ph,4.5,Lager
+60,Dogma,2013-07-01,target_fg,1023,Lager
+61,Magic Stone Dog (w/Magic Rock & Stone Brewing Co.),2014-06-01,abv,4.6,Other
+61,Magic Stone Dog (w/Magic Rock & Stone Brewing Co.),2014-06-01,ibu,30,Other
+61,Magic Stone Dog (w/Magic Rock & Stone Brewing Co.),2014-06-01,srm,7.5,Other
+61,Magic Stone Dog (w/Magic Rock & Stone Brewing Co.),2014-06-01,ph,4.4,Other
+61,Magic Stone Dog (w/Magic Rock & Stone Brewing Co.),2014-06-01,target_fg,1008,Other
+62,AB:08,2011-11-01,abv,10.43,Ale
+62,AB:08,2011-11-01,ibu,65,Ale
+62,AB:08,2011-11-01,srm,11.5,Ale
+62,AB:08,2011-11-01,ph,4.4,Ale
+62,AB:08,2011-11-01,target_fg,1016,Ale
+63,Sunk Punk,2011-09-01,abv,7.1,Lager
+63,Sunk Punk,2011-09-01,ibu,68,Lager
+63,Sunk Punk,2011-09-01,srm,7,Lager
+63,Sunk Punk,2011-09-01,ph,4.4,Lager
+63,Sunk Punk,2011-09-01,target_fg,1010,Lager
+64,Sub Hop,2014-06-01,abv,8,Lager
+64,Sub Hop,2014-06-01,ibu,35,Lager
+64,Sub Hop,2014-06-01,srm,7.5,Lager
+64,Sub Hop,2014-06-01,ph,4.4,Lager
+64,Sub Hop,2014-06-01,target_fg,1016,Lager
+65,Bracken's Porter,2013-03-01,abv,5,Ale
+65,Bracken's Porter,2013-03-01,ibu,50,Ale
+65,Bracken's Porter,2013-03-01,srm,55,Ale
+65,Bracken's Porter,2013-03-01,ph,4.4,Ale
+65,Bracken's Porter,2013-03-01,target_fg,1010,Ale
+66,Tokyo Rising Sun - Lowland,2009-06-01,abv,13.2,Ale
+66,Tokyo Rising Sun - Lowland,2009-06-01,ibu,85,Ale
+66,Tokyo Rising Sun - Lowland,2009-06-01,srm,71,Ale
+66,Tokyo Rising Sun - Lowland,2009-06-01,ph,4.4,Ale
+66,Tokyo Rising Sun - Lowland,2009-06-01,target_fg,1023,Ale
+67,Hunter Foundation Pale Ale,2012-05-01,abv,5.4,Ale
+67,Hunter Foundation Pale Ale,2012-05-01,ibu,35,Ale
+67,Hunter Foundation Pale Ale,2012-05-01,srm,5.75,Ale
+67,Hunter Foundation Pale Ale,2012-05-01,ph,4.4,Ale
+67,Hunter Foundation Pale Ale,2012-05-01,target_fg,1008,Ale
+68,Hype,2007-08-01,abv,4.1,Ale
+68,Hype,2007-08-01,ibu,65,Ale
+68,Hype,2007-08-01,srm,8.5,Ale
+68,Hype,2007-08-01,ph,4.4,Ale
+68,Hype,2007-08-01,target_fg,1010,Ale
+69,AB:16,2014-02-01,abv,10.6,Other
+69,AB:16,2014-02-01,ibu,55,Other
+69,AB:16,2014-02-01,srm,15,Other
+69,AB:16,2014-02-01,ph,4.4,Other
+69,AB:16,2014-02-01,target_fg,1012,Other
+70,Sunmaid Stout,2011-12-01,abv,10.2,Ale
+70,Sunmaid Stout,2011-12-01,ibu,50,Ale
+70,Sunmaid Stout,2011-12-01,srm,100,Ale
+70,Sunmaid Stout,2011-12-01,ph,4.4,Ale
+70,Sunmaid Stout,2011-12-01,target_fg,1102,Ale
+71,Pale - Russian Doll,2014-08-01,abv,4,Ale
+71,Pale - Russian Doll,2014-08-01,ibu,35,Ale
+71,Pale - Russian Doll,2014-08-01,srm,22.5,Ale
+71,Pale - Russian Doll,2014-08-01,ph,5.2,Ale
+71,Pale - Russian Doll,2014-08-01,target_fg,1010,Ale
+72,Whisky Sour - B-Sides,2015-03-01,abv,7,Ale
+72,Whisky Sour - B-Sides,2015-03-01,ibu,20,Ale
+72,Whisky Sour - B-Sides,2015-03-01,srm,6,Ale
+72,Whisky Sour - B-Sides,2015-03-01,ph,3.2,Ale
+72,Whisky Sour - B-Sides,2015-03-01,target_fg,1021,Ale
+73,Black Eyed King Imp - Vietnamese Coffee Edition,2014-12-01,abv,12.7,Ale
+73,Black Eyed King Imp - Vietnamese Coffee Edition,2014-12-01,ibu,85,Ale
+73,Black Eyed King Imp - Vietnamese Coffee Edition,2014-12-01,srm,125,Ale
+73,Black Eyed King Imp - Vietnamese Coffee Edition,2014-12-01,ph,5.2,Ale
+73,Black Eyed King Imp - Vietnamese Coffee Edition,2014-12-01,target_fg,1038,Ale
+74,Eurotrash,2009-10-01,abv,4.1,Other
+74,Eurotrash,2009-10-01,ibu,52,Other
+74,Eurotrash,2009-10-01,srm,8.5,Other
+74,Eurotrash,2009-10-01,ph,5.2,Other
+74,Eurotrash,2009-10-01,target_fg,1010,Other
+75,Never Mind The Anabolics,2012-06-01,abv,6.5,Ale
+75,Never Mind The Anabolics,2012-06-01,ibu,35,Ale
+75,Never Mind The Anabolics,2012-06-01,srm,11.5,Ale
+75,Never Mind The Anabolics,2012-06-01,ph,4.4,Ale
+75,Never Mind The Anabolics,2012-06-01,target_fg,1012,Ale
+76,#Mashtag 2013,2013-05-01,abv,7.5,Ale
+76,#Mashtag 2013,2013-05-01,ibu,50,Ale
+76,#Mashtag 2013,2013-05-01,srm,20,Ale
+76,#Mashtag 2013,2013-05-01,ph,4.4,Ale
+76,#Mashtag 2013,2013-05-01,target_fg,1013,Ale
+77,Hobo Pop,2013-11-01,abv,4.2,Ale
+77,Hobo Pop,2013-11-01,ibu,50,Ale
+77,Hobo Pop,2013-11-01,srm,15,Ale
+77,Hobo Pop,2013-11-01,ph,4.4,Ale
+77,Hobo Pop,2013-11-01,target_fg,1010,Ale
+78,AB:18,2011-10-01,abv,11.8,Ale
+78,AB:18,2011-10-01,ibu,80,Ale
+78,AB:18,2011-10-01,srm,57.5,Ale
+78,AB:18,2011-10-01,ph,5.2,Ale
+78,AB:18,2011-10-01,target_fg,1020,Ale
+79,Hops Kill Nazis,2011-08-01,abv,7.6,Ale
+79,Hops Kill Nazis,2011-08-01,ibu,70,Ale
+79,Hops Kill Nazis,2011-08-01,srm,29.5,Ale
+79,Hops Kill Nazis,2011-08-01,ph,4.4,Ale
+79,Hops Kill Nazis,2011-08-01,target_fg,1015,Ale
+80,AB:04,2010-08-01,abv,15,Ale
+80,AB:04,2010-08-01,ibu,80,Ale
+80,AB:04,2010-08-01,srm,200,Ale
+80,AB:04,2010-08-01,ph,4,Ale
+80,AB:04,2010-08-01,target_fg,1018,Ale
+81,India Session Lager - Prototype Challenge,2015-11-01,abv,4.4,Lager
+81,India Session Lager - Prototype Challenge,2015-11-01,ibu,35,Lager
+81,India Session Lager - Prototype Challenge,2015-11-01,srm,6,Lager
+81,India Session Lager - Prototype Challenge,2015-11-01,ph,4.4,Lager
+81,India Session Lager - Prototype Challenge,2015-11-01,target_fg,1007,Lager
+82,Hopped-Up Brown Ale - Prototype Challenge,2016-01-01,abv,6.3,Ale
+82,Hopped-Up Brown Ale - Prototype Challenge,2016-01-01,ibu,85,Ale
+82,Hopped-Up Brown Ale - Prototype Challenge,2016-01-01,srm,12,Ale
+82,Hopped-Up Brown Ale - Prototype Challenge,2016-01-01,ph,4.2,Ale
+82,Hopped-Up Brown Ale - Prototype Challenge,2016-01-01,target_fg,1015,Ale
+83,Comet,2014-02-01,abv,7.2,Ale
+83,Comet,2014-02-01,ibu,70,Ale
+83,Comet,2014-02-01,srm,15,Ale
+83,Comet,2014-02-01,ph,4.4,Ale
+83,Comet,2014-02-01,target_fg,1012,Ale
+84,Baby Saison - B-Sides,2015-08-01,abv,3.6,Other
+84,Baby Saison - B-Sides,2015-08-01,ibu,9,Other
+84,Baby Saison - B-Sides,2015-08-01,srm,1,Other
+84,Baby Saison - B-Sides,2015-08-01,ph,4.4,Other
+84,Baby Saison - B-Sides,2015-08-01,target_fg,1004,Other
+85,Santa Paws,2010-10-01,abv,4.5,Ale
+85,Santa Paws,2010-10-01,ibu,35,Ale
+85,Santa Paws,2010-10-01,srm,22,Ale
+85,Santa Paws,2010-10-01,ph,4.4,Ale
+85,Santa Paws,2010-10-01,target_fg,1013,Ale
+86,Original Dogma (Née Speedball),2008-07-01,abv,7.8,Ale
+86,Original Dogma (Née Speedball),2008-07-01,ibu,60,Ale
+86,Original Dogma (Née Speedball),2008-07-01,srm,15.5,Ale
+86,Original Dogma (Née Speedball),2008-07-01,ph,4.3,Ale
+86,Original Dogma (Née Speedball),2008-07-01,target_fg,1012,Ale
+87,Alpha Pop,2014-03-01,abv,4.5,Ale
+87,Alpha Pop,2014-03-01,ibu,30,Ale
+87,Alpha Pop,2014-03-01,srm,12.5,Ale
+87,Alpha Pop,2014-03-01,ph,4.4,Ale
+87,Alpha Pop,2014-03-01,target_fg,1011,Ale
+88,Bavarian Weizen,2013-09-01,abv,6.3,Other
+88,Bavarian Weizen,2013-09-01,ibu,55,Other
+88,Bavarian Weizen,2013-09-01,srm,15,Other
+88,Bavarian Weizen,2013-09-01,ph,4.4,Other
+88,Bavarian Weizen,2013-09-01,target_fg,1012,Other
+89,Citra,2011-01-01,abv,7.5,Ale
+89,Citra,2011-01-01,ibu,70,Ale
+89,Citra,2011-01-01,srm,15,Ale
+89,Citra,2011-01-01,ph,4.4,Ale
+89,Citra,2011-01-01,target_fg,1013,Ale
+90,#Mashtag 2015,2015-05-01,abv,10,Ale
+90,#Mashtag 2015,2015-05-01,ibu,85,Ale
+90,#Mashtag 2015,2015-05-01,srm,65,Ale
+90,#Mashtag 2015,2015-05-01,ph,4.4,Ale
+90,#Mashtag 2015,2015-05-01,target_fg,1020,Ale
+91,Dead Pony Club,2012-03-01,abv,3.8,Ale
+91,Dead Pony Club,2012-03-01,ibu,35,Ale
+91,Dead Pony Club,2012-03-01,srm,12.7,Ale
+91,Dead Pony Club,2012-03-01,ph,4.4,Ale
+91,Dead Pony Club,2012-03-01,target_fg,1012,Ale
+92,AB:09,2010-11-01,abv,11.6,Other
+92,AB:09,2010-11-01,ibu,77,Other
+92,AB:09,2010-11-01,srm,132.5,Other
+92,AB:09,2010-11-01,ph,5.2,Other
+92,AB:09,2010-11-01,target_fg,1022,Other
+93,Mango Gose - B-Sides,2015-07-01,abv,6.4,Ale
+93,Mango Gose - B-Sides,2015-07-01,ibu,40,Ale
+93,Mango Gose - B-Sides,2015-07-01,srm,5,Ale
+93,Mango Gose - B-Sides,2015-07-01,ph,3.5,Ale
+93,Mango Gose - B-Sides,2015-07-01,target_fg,1000,Ale
+94,Everday Anarchy,2013-06-01,abv,10.5,Other
+94,Everday Anarchy,2013-06-01,ibu,45,Other
+94,Everday Anarchy,2013-06-01,srm,7.5,Other
+94,Everday Anarchy,2013-06-01,ph,4.4,Other
+94,Everday Anarchy,2013-06-01,target_fg,1005,Other
+95,Peroxide Punk,2007-04-01,abv,4,Ale
+95,Peroxide Punk,2007-04-01,ibu,40,Ale
+95,Peroxide Punk,2007-04-01,srm,9,Ale
+95,Peroxide Punk,2007-04-01,ph,4.4,Ale
+95,Peroxide Punk,2007-04-01,target_fg,1009,Ale
+96,Lumberjack Stout,2013-12-01,abv,15.2,Ale
+96,Lumberjack Stout,2013-12-01,ibu,20,Ale
+96,Lumberjack Stout,2013-12-01,srm,79,Ale
+96,Lumberjack Stout,2013-12-01,ph,4.4,Ale
+96,Lumberjack Stout,2013-12-01,target_fg,1020,Ale
+97,Bowman's Beard - B-Sides,2015-03-01,abv,18.3,Ale
+97,Bowman's Beard - B-Sides,2015-03-01,ibu,50,Ale
+97,Bowman's Beard - B-Sides,2015-03-01,srm,8,Ale
+97,Bowman's Beard - B-Sides,2015-03-01,ph,5.3,Ale
+97,Bowman's Beard - B-Sides,2015-03-01,target_fg,1011,Ale
+98,Pumpkin King,2015-08-01,abv,5.4,Ale
+98,Pumpkin King,2015-08-01,ibu,20,Ale
+98,Pumpkin King,2015-08-01,srm,15,Ale
+98,Pumpkin King,2015-08-01,ph,4.4,Ale
+98,Pumpkin King,2015-08-01,target_fg,1014,Ale
+99,Hello My Name Is Päivi,2014-05-01,abv,8.3,Ale
+99,Hello My Name Is Päivi,2014-05-01,ibu,70,Ale
+99,Hello My Name Is Päivi,2014-05-01,srm,15,Ale
+99,Hello My Name Is Päivi,2014-05-01,ph,4.4,Ale
+99,Hello My Name Is Päivi,2014-05-01,target_fg,1013,Ale
+100,Elvis Juice V2.0 - Prototype Challenge,2015-12-01,abv,6.5,Ale
+100,Elvis Juice V2.0 - Prototype Challenge,2015-12-01,ibu,60,Ale
+100,Elvis Juice V2.0 - Prototype Challenge,2015-12-01,srm,12.5,Ale
+100,Elvis Juice V2.0 - Prototype Challenge,2015-12-01,ph,4.4,Ale
+100,Elvis Juice V2.0 - Prototype Challenge,2015-12-01,target_fg,1010,Ale
+101,Riptide,2007-04-01,abv,8,Ale
+101,Riptide,2007-04-01,ibu,45,Ale
+101,Riptide,2007-04-01,srm,120,Ale
+101,Riptide,2007-04-01,ph,4.4,Ale
+101,Riptide,2007-04-01,target_fg,1014,Ale
+102,Peach Therapy,2015-06-01,abv,9,Other
+102,Peach Therapy,2015-06-01,ibu,30,Other
+102,Peach Therapy,2015-06-01,srm,6,Other
+102,Peach Therapy,2015-06-01,ph,3.6,Other
+102,Peach Therapy,2015-06-01,target_fg,1000,Other
+103,Clown King,2013-12-01,abv,12,Ale
+103,Clown King,2013-12-01,ibu,85,Ale
+103,Clown King,2013-12-01,srm,12,Ale
+103,Clown King,2013-12-01,ph,4.4,Ale
+103,Clown King,2013-12-01,target_fg,1020,Ale
+104,India Pale Weizen (w/ Weihenstephan),2014-09-01,abv,6.2,Other
+104,India Pale Weizen (w/ Weihenstephan),2014-09-01,ibu,50,Other
+104,India Pale Weizen (w/ Weihenstephan),2014-09-01,srm,17.5,Other
+104,India Pale Weizen (w/ Weihenstephan),2014-09-01,ph,4,Other
+104,India Pale Weizen (w/ Weihenstephan),2014-09-01,target_fg,1010,Other
+105,Hello My Name Is Beastie,2012-08-01,abv,8.2,Ale
+105,Hello My Name Is Beastie,2012-08-01,ibu,42,Ale
+105,Hello My Name Is Beastie,2012-08-01,srm,45,Ale
+105,Hello My Name Is Beastie,2012-08-01,ph,4.4,Ale
+105,Hello My Name Is Beastie,2012-08-01,target_fg,1013,Ale
+106,Punk IPA 2010 - Current,2010-10-01,abv,5.6,Ale
+106,Punk IPA 2010 - Current,2010-10-01,ibu,40,Ale
+106,Punk IPA 2010 - Current,2010-10-01,srm,7.6,Ale
+106,Punk IPA 2010 - Current,2010-10-01,ph,4.4,Ale
+106,Punk IPA 2010 - Current,2010-10-01,target_fg,1011,Ale
+107,HBC 366 - IPA Is Dead,2014-02-01,abv,7.2,Ale
+107,HBC 366 - IPA Is Dead,2014-02-01,ibu,70,Ale
+107,HBC 366 - IPA Is Dead,2014-02-01,srm,15,Ale
+107,HBC 366 - IPA Is Dead,2014-02-01,ph,4.4,Ale
+107,HBC 366 - IPA Is Dead,2014-02-01,target_fg,1012,Ale
+108,American Ale,2013-09-01,abv,6.3,Ale
+108,American Ale,2013-09-01,ibu,55,Ale
+108,American Ale,2013-09-01,srm,15,Ale
+108,American Ale,2013-09-01,ph,4.4,Ale
+108,American Ale,2013-09-01,target_fg,1012,Ale
+109,Cocoa Psycho,2012-11-01,abv,10,Ale
+109,Cocoa Psycho,2012-11-01,ibu,85,Ale
+109,Cocoa Psycho,2012-11-01,srm,15.25,Ale
+109,Cocoa Psycho,2012-11-01,ph,4.4,Ale
+109,Cocoa Psycho,2012-11-01,target_fg,1012,Ale
+110,Truffle and Chocolate Stout - B-Sides,2015-03-01,abv,5.6,Ale
+110,Truffle and Chocolate Stout - B-Sides,2015-03-01,ibu,30,Ale
+110,Truffle and Chocolate Stout - B-Sides,2015-03-01,srm,27,Ale
+110,Truffle and Chocolate Stout - B-Sides,2015-03-01,ph,4.4,Ale
+110,Truffle and Chocolate Stout - B-Sides,2015-03-01,target_fg,1015,Ale
+111,Vagabond Pilsner,2013-02-01,abv,4.5,Lager
+111,Vagabond Pilsner,2013-02-01,ibu,55,Lager
+111,Vagabond Pilsner,2013-02-01,srm,12.5,Lager
+111,Vagabond Pilsner,2013-02-01,ph,4.4,Lager
+111,Vagabond Pilsner,2013-02-01,target_fg,1012,Lager
+112,Vote Sepp,2014-05-01,abv,3.6,Other
+112,Vote Sepp,2014-05-01,ibu,20,Other
+112,Vote Sepp,2014-05-01,srm,4,Other
+112,Vote Sepp,2014-05-01,ph,4.1,Other
+112,Vote Sepp,2014-05-01,target_fg,1009,Other
+113,Hello My Name Is Ingrid,2010-12-01,abv,8.2,Ale
+113,Hello My Name Is Ingrid,2010-12-01,ibu,42,Ale
+113,Hello My Name Is Ingrid,2010-12-01,srm,35,Ale
+113,Hello My Name Is Ingrid,2010-12-01,ph,4.4,Ale
+113,Hello My Name Is Ingrid,2010-12-01,target_fg,1013,Ale
+114,U-Boat (w/ Victory Brewing),2014-07-01,abv,8.4,Lager
+114,U-Boat (w/ Victory Brewing),2014-07-01,ibu,50,Lager
+114,U-Boat (w/ Victory Brewing),2014-07-01,srm,100,Lager
+114,U-Boat (w/ Victory Brewing),2014-07-01,ph,4.4,Lager
+114,U-Boat (w/ Victory Brewing),2014-07-01,target_fg,1015,Lager
+115,Melon And Cucumber IPA - B-Sides,2015-03-01,abv,6,Ale
+115,Melon And Cucumber IPA - B-Sides,2015-03-01,ibu,50,Ale
+115,Melon And Cucumber IPA - B-Sides,2015-03-01,srm,4,Ale
+115,Melon And Cucumber IPA - B-Sides,2015-03-01,ph,5.2,Ale
+115,Melon And Cucumber IPA - B-Sides,2015-03-01,target_fg,1010,Ale
+116,Morag's Mojito - B-Sides,2015-08-01,abv,6.7,Ale
+116,Morag's Mojito - B-Sides,2015-08-01,ibu,40,Ale
+116,Morag's Mojito - B-Sides,2015-08-01,srm,7.5,Ale
+116,Morag's Mojito - B-Sides,2015-08-01,ph,5.2,Ale
+116,Morag's Mojito - B-Sides,2015-08-01,target_fg,1010,Ale
+117,Hop Rocker,2007-04-01,abv,5.5,Lager
+117,Hop Rocker,2007-04-01,ibu,40,Lager
+117,Hop Rocker,2007-04-01,srm,12,Lager
+117,Hop Rocker,2007-04-01,ph,4.2,Lager
+117,Hop Rocker,2007-04-01,target_fg,1010,Lager
+118,Bounty Hunter - Shareholder Brew,2015-02-01,abv,6.5,Ale
+118,Bounty Hunter - Shareholder Brew,2015-02-01,ibu,35,Ale
+118,Bounty Hunter - Shareholder Brew,2015-02-01,srm,125,Ale
+118,Bounty Hunter - Shareholder Brew,2015-02-01,ph,4.2,Ale
+118,Bounty Hunter - Shareholder Brew,2015-02-01,target_fg,1020,Ale
+119,Zeitgeist,2008-12-01,abv,4.9,Lager
+119,Zeitgeist,2008-12-01,ibu,32,Lager
+119,Zeitgeist,2008-12-01,srm,60,Lager
+119,Zeitgeist,2008-12-01,ph,4.3,Lager
+119,Zeitgeist,2008-12-01,target_fg,1010,Lager
+120,AB:10,2011-10-01,abv,11.5,Ale
+120,AB:10,2011-10-01,ibu,80,Ale
+120,AB:10,2011-10-01,srm,57.5,Ale
+120,AB:10,2011-10-01,ph,4.4,Ale
+120,AB:10,2011-10-01,target_fg,1020,Ale
+121,Punk Monk,2009-07-01,abv,6,Other
+121,Punk Monk,2009-07-01,ibu,60,Other
+121,Punk Monk,2009-07-01,srm,8.5,Other
+121,Punk Monk,2009-07-01,ph,4.4,Other
+121,Punk Monk,2009-07-01,target_fg,1010,Other
+122,Dog Fight (w/ Flying Dog),2012-10-01,abv,8.5,Ale
+122,Dog Fight (w/ Flying Dog),2012-10-01,ibu,65,Ale
+122,Dog Fight (w/ Flying Dog),2012-10-01,srm,15.6,Ale
+122,Dog Fight (w/ Flying Dog),2012-10-01,ph,4.4,Ale
+122,Dog Fight (w/ Flying Dog),2012-10-01,target_fg,1012,Ale
+123,Candy Kaiser,2015-08-01,abv,5.2,Ale
+123,Candy Kaiser,2015-08-01,ibu,45,Ale
+123,Candy Kaiser,2015-08-01,srm,22.5,Ale
+123,Candy Kaiser,2015-08-01,ph,4.2,Ale
+123,Candy Kaiser,2015-08-01,target_fg,1009,Ale
+124,Chaos Theory,2008-10-01,abv,7.1,Ale
+124,Chaos Theory,2008-10-01,ibu,90,Ale
+124,Chaos Theory,2008-10-01,srm,7.5,Ale
+124,Chaos Theory,2008-10-01,ph,4.4,Ale
+124,Chaos Theory,2008-10-01,target_fg,1013,Ale
+125,Juniper Wheat Beer,2011-06-01,abv,5,Other
+125,Juniper Wheat Beer,2011-06-01,ibu,40,Other
+125,Juniper Wheat Beer,2011-06-01,srm,7.5,Other
+125,Juniper Wheat Beer,2011-06-01,ph,4.1,Other
+125,Juniper Wheat Beer,2011-06-01,target_fg,1008,Other
+126,Jet Black Heart,2016-01-01,abv,4.7,Ale
+126,Jet Black Heart,2016-01-01,ibu,45,Ale
+126,Jet Black Heart,2016-01-01,srm,100,Ale
+126,Jet Black Heart,2016-01-01,ph,4.4,Ale
+126,Jet Black Heart,2016-01-01,target_fg,1019,Ale
+127,Galaxy,2012-02-01,abv,6.7,Ale
+127,Galaxy,2012-02-01,ibu,67,Ale
+127,Galaxy,2012-02-01,srm,9.5,Ale
+127,Galaxy,2012-02-01,ph,4.4,Ale
+127,Galaxy,2012-02-01,target_fg,1064,Ale
+128,White Noise,2012-07-01,abv,6.8,Other
+128,White Noise,2012-07-01,ibu,50,Other
+128,White Noise,2012-07-01,srm,15,Other
+128,White Noise,2012-07-01,ph,4.4,Other
+128,White Noise,2012-07-01,target_fg,1012,Other
+129,Hinterland,2015-05-01,abv,9,Ale
+129,Hinterland,2015-05-01,ibu,85,Ale
+129,Hinterland,2015-05-01,srm,200,Ale
+129,Hinterland,2015-05-01,ph,4.3,Ale
+129,Hinterland,2015-05-01,target_fg,1025,Ale
+130,Spiced Cherry Sour - B-Sides,2015-03-01,abv,6.5,Ale
+130,Spiced Cherry Sour - B-Sides,2015-03-01,ibu,20,Ale
+130,Spiced Cherry Sour - B-Sides,2015-03-01,srm,,Ale
+130,Spiced Cherry Sour - B-Sides,2015-03-01,ph,3.2,Ale
+130,Spiced Cherry Sour - B-Sides,2015-03-01,target_fg,1010,Ale
+131,Motueka,2012-02-01,abv,6.7,Ale
+131,Motueka,2012-02-01,ibu,67,Ale
+131,Motueka,2012-02-01,srm,9.5,Ale
+131,Motueka,2012-02-01,ph,4.4,Ale
+131,Motueka,2012-02-01,target_fg,1064,Ale
+132,5am Saint,2009-06-01,abv,5,Ale
+132,5am Saint,2009-06-01,ibu,30,Ale
+132,5am Saint,2009-06-01,srm,30.5,Ale
+132,5am Saint,2009-06-01,ph,4.4,Ale
+132,5am Saint,2009-06-01,target_fg,1012,Ale
+133,Black Eye Joe (w/ Stone Brewing Co),2013-11-01,abv,5.8,Ale
+133,Black Eye Joe (w/ Stone Brewing Co),2013-11-01,ibu,40,Ale
+133,Black Eye Joe (w/ Stone Brewing Co),2013-11-01,srm,88.7,Ale
+133,Black Eye Joe (w/ Stone Brewing Co),2013-11-01,ph,4.4,Ale
+133,Black Eye Joe (w/ Stone Brewing Co),2013-11-01,target_fg,1008,Ale
+134,Mr.Miyagi's Wasabi Stout,2011-09-01,abv,7.5,Ale
+134,Mr.Miyagi's Wasabi Stout,2011-09-01,ibu,90,Ale
+134,Mr.Miyagi's Wasabi Stout,2011-09-01,srm,102,Ale
+134,Mr.Miyagi's Wasabi Stout,2011-09-01,ph,4.4,Ale
+134,Mr.Miyagi's Wasabi Stout,2011-09-01,target_fg,1015,Ale
+135,Growler,2011-03-01,abv,4.5,Lager
+135,Growler,2011-03-01,ibu,38,Lager
+135,Growler,2011-03-01,srm,9,Lager
+135,Growler,2011-03-01,ph,4.4,Lager
+135,Growler,2011-03-01,target_fg,1008,Lager
+136,#Mashtag 2014,2014-05-01,abv,9,Ale
+136,#Mashtag 2014,2014-05-01,ibu,50,Ale
+136,#Mashtag 2014,2014-05-01,srm,10,Ale
+136,#Mashtag 2014,2014-05-01,ph,4.4,Ale
+136,#Mashtag 2014,2014-05-01,target_fg,1015,Ale
+137,Sink The Bismarck!,2009-12-01,abv,41,Ale
+137,Sink The Bismarck!,2009-12-01,ibu,1085,Ale
+137,Sink The Bismarck!,2009-12-01,srm,20,Ale
+137,Sink The Bismarck!,2009-12-01,ph,4.4,Ale
+137,Sink The Bismarck!,2009-12-01,target_fg,1016,Ale
+138,Dog A,2012-05-01,abv,15,Ale
+138,Dog A,2012-05-01,ibu,90,Ale
+138,Dog A,2012-05-01,srm,50,Ale
+138,Dog A,2012-05-01,ph,4.4,Ale
+138,Dog A,2012-05-01,target_fg,1003,Ale
+139,Born To Die,2015-03-01,abv,8.5,Ale
+139,Born To Die,2015-03-01,ibu,85,Ale
+139,Born To Die,2015-03-01,srm,7.5,Ale
+139,Born To Die,2015-03-01,ph,4.4,Ale
+139,Born To Die,2015-03-01,target_fg,1007,Ale
+140,Pioneer - IPA Is Dead,2015-03-01,abv,7.2,Ale
+140,Pioneer - IPA Is Dead,2015-03-01,ibu,100,Ale
+140,Pioneer - IPA Is Dead,2015-03-01,srm,6,Ale
+140,Pioneer - IPA Is Dead,2015-03-01,ph,4.4,Ale
+140,Pioneer - IPA Is Dead,2015-03-01,target_fg,1010,Ale
+141,Cap Dog (w/ Cap Brewery),2014-08-01,abv,9,Ale
+141,Cap Dog (w/ Cap Brewery),2014-08-01,ibu,80,Ale
+141,Cap Dog (w/ Cap Brewery),2014-08-01,srm,90,Ale
+141,Cap Dog (w/ Cap Brewery),2014-08-01,ph,5.2,Ale
+141,Cap Dog (w/ Cap Brewery),2014-08-01,target_fg,1014,Ale
+142,Orange Blossom - B-Sides,2015-08-01,abv,3.8,Ale
+142,Orange Blossom - B-Sides,2015-08-01,ibu,20,Ale
+142,Orange Blossom - B-Sides,2015-08-01,srm,3,Ale
+142,Orange Blossom - B-Sides,2015-08-01,ph,5.2,Ale
+142,Orange Blossom - B-Sides,2015-08-01,target_fg,1000,Ale
+143,Lizard Bride - Prototype Challenge,2015-07-01,abv,5.7,Ale
+143,Lizard Bride - Prototype Challenge,2015-07-01,ibu,35,Ale
+143,Lizard Bride - Prototype Challenge,2015-07-01,srm,12.5,Ale
+143,Lizard Bride - Prototype Challenge,2015-07-01,ph,4.4,Ale
+143,Lizard Bride - Prototype Challenge,2015-07-01,target_fg,1009,Ale
+144,Tokyo*,2009-06-01,abv,16.2,Ale
+144,Tokyo*,2009-06-01,ibu,85,Ale
+144,Tokyo*,2009-06-01,srm,127,Ale
+144,Tokyo*,2009-06-01,ph,4.4,Ale
+144,Tokyo*,2009-06-01,target_fg,1028,Ale
+145,Sorachi Bitter - B-Sides,2015-03-01,abv,6.3,Ale
+145,Sorachi Bitter - B-Sides,2015-03-01,ibu,130,Ale
+145,Sorachi Bitter - B-Sides,2015-03-01,srm,7,Ale
+145,Sorachi Bitter - B-Sides,2015-03-01,ph,5.2,Ale
+145,Sorachi Bitter - B-Sides,2015-03-01,target_fg,1010,Ale
+146,Nelson Sauvin,2011-01-01,abv,7.5,Ale
+146,Nelson Sauvin,2011-01-01,ibu,75,Ale
+146,Nelson Sauvin,2011-01-01,srm,15,Ale
+146,Nelson Sauvin,2011-01-01,ph,4.4,Ale
+146,Nelson Sauvin,2011-01-01,target_fg,1013,Ale
+147,Hello My Name Is Little Ingrid,2015-03-01,abv,4.4,Ale
+147,Hello My Name Is Little Ingrid,2015-03-01,ibu,35,Ale
+147,Hello My Name Is Little Ingrid,2015-03-01,srm,15,Ale
+147,Hello My Name Is Little Ingrid,2015-03-01,ph,4.4,Ale
+147,Hello My Name Is Little Ingrid,2015-03-01,target_fg,1012,Ale
+148,AB:02,2010-05-01,abv,18,Ale
+148,AB:02,2010-05-01,ibu,70,Ale
+148,AB:02,2010-05-01,srm,28.5,Ale
+148,AB:02,2010-05-01,ph,4.4,Ale
+148,AB:02,2010-05-01,target_fg,1010,Ale
+149,AB:03,2008-09-01,abv,10.5,Ale
+149,AB:03,2008-09-01,ibu,14,Ale
+149,AB:03,2008-09-01,srm,,Ale
+149,AB:03,2008-09-01,ph,4.4,Ale
+149,AB:03,2008-09-01,target_fg,1013,Ale
+150,AB:13,2012-01-01,abv,11.3,Ale
+150,AB:13,2012-01-01,ibu,50,Ale
+150,AB:13,2012-01-01,srm,83,Ale
+150,AB:13,2012-01-01,ph,4.4,Ale
+150,AB:13,2012-01-01,target_fg,1020,Ale
+151,Rhubarb Saison - B-Sides,2015-10-01,abv,6.4,Other
+151,Rhubarb Saison - B-Sides,2015-10-01,ibu,25,Other
+151,Rhubarb Saison - B-Sides,2015-10-01,srm,5,Other
+151,Rhubarb Saison - B-Sides,2015-10-01,ph,5.2,Other
+151,Rhubarb Saison - B-Sides,2015-10-01,target_fg,1008,Other
+152,Deaf Mermaid - B-Sides,2015-04-01,abv,5.2,Ale
+152,Deaf Mermaid - B-Sides,2015-04-01,ibu,65,Ale
+152,Deaf Mermaid - B-Sides,2015-04-01,srm,8,Ale
+152,Deaf Mermaid - B-Sides,2015-04-01,ph,5.2,Ale
+152,Deaf Mermaid - B-Sides,2015-04-01,target_fg,1010,Ale
+153,Hoppy Saison - B-Sides,2015-03-01,abv,6.4,Other
+153,Hoppy Saison - B-Sides,2015-03-01,ibu,40,Other
+153,Hoppy Saison - B-Sides,2015-03-01,srm,4,Other
+153,Hoppy Saison - B-Sides,2015-03-01,ph,5.2,Other
+153,Hoppy Saison - B-Sides,2015-03-01,target_fg,1010,Other
+154,No Label,2015-10-01,abv,4.5,Ale
+154,No Label,2015-10-01,ibu,25,Ale
+154,No Label,2015-10-01,srm,5,Ale
+154,No Label,2015-10-01,ph,4.2,Ale
+154,No Label,2015-10-01,target_fg,1009,Ale
+155,Old World Russian Imperial Stout,2011-10-01,abv,9.5,Ale
+155,Old World Russian Imperial Stout,2011-10-01,ibu,80,Ale
+155,Old World Russian Imperial Stout,2011-10-01,srm,97.5,Ale
+155,Old World Russian Imperial Stout,2011-10-01,ph,4.5,Ale
+155,Old World Russian Imperial Stout,2011-10-01,target_fg,1014,Ale
+156,Hoppy Christmas,2012-10-01,abv,7.2,Ale
+156,Hoppy Christmas,2012-10-01,ibu,70,Ale
+156,Hoppy Christmas,2012-10-01,srm,15,Ale
+156,Hoppy Christmas,2012-10-01,ph,4.4,Ale
+156,Hoppy Christmas,2012-10-01,target_fg,1012,Ale
+157,Edge,2007-12-01,abv,2.7,Ale
+157,Edge,2007-12-01,ibu,36,Ale
+157,Edge,2007-12-01,srm,29,Ale
+157,Edge,2007-12-01,ph,4.4,Ale
+157,Edge,2007-12-01,target_fg,1010,Ale
+158,Hello My Name Is Zé (w/ 2Cabeças),2014-03-01,abv,6.4,Ale
+158,Hello My Name Is Zé (w/ 2Cabeças),2014-03-01,ibu,50,Ale
+158,Hello My Name Is Zé (w/ 2Cabeças),2014-03-01,srm,10,Ale
+158,Hello My Name Is Zé (w/ 2Cabeças),2014-03-01,ph,4.4,Ale
+158,Hello My Name Is Zé (w/ 2Cabeças),2014-03-01,target_fg,1012,Ale
+159,Black Tokyo Horizon (w/Nøgne Ø & Mikkeller),2010-12-01,abv,17.2,Ale
+159,Black Tokyo Horizon (w/Nøgne Ø & Mikkeller),2010-12-01,ibu,75,Ale
+159,Black Tokyo Horizon (w/Nøgne Ø & Mikkeller),2010-12-01,srm,64,Ale
+159,Black Tokyo Horizon (w/Nøgne Ø & Mikkeller),2010-12-01,ph,4.4,Ale
+159,Black Tokyo Horizon (w/Nøgne Ø & Mikkeller),2010-12-01,target_fg,1030,Ale
+160,Restorative Beverage For Invalids And Convalescents,2015-02-01,abv,8.5,Ale
+160,Restorative Beverage For Invalids And Convalescents,2015-02-01,ibu,100,Ale
+160,Restorative Beverage For Invalids And Convalescents,2015-02-01,srm,7.5,Ale
+160,Restorative Beverage For Invalids And Convalescents,2015-02-01,ph,4.4,Ale
+160,Restorative Beverage For Invalids And Convalescents,2015-02-01,target_fg,1003,Ale
+161,Tokyo Rising Sun - Highland,2009-06-01,abv,13.2,Ale
+161,Tokyo Rising Sun - Highland,2009-06-01,ibu,85,Ale
+161,Tokyo Rising Sun - Highland,2009-06-01,srm,71,Ale
+161,Tokyo Rising Sun - Highland,2009-06-01,ph,4.4,Ale
+161,Tokyo Rising Sun - Highland,2009-06-01,target_fg,1023,Ale
+162,77 Lager,2008-12-01,abv,4.9,Lager
+162,77 Lager,2008-12-01,ibu,30,Lager
+162,77 Lager,2008-12-01,srm,6,Lager
+162,77 Lager,2008-12-01,ph,4.4,Lager
+162,77 Lager,2008-12-01,target_fg,1009,Lager
+163,This. Is. Lager,2014-08-01,abv,4.7,Lager
+163,This. Is. Lager,2014-08-01,ibu,37,Lager
+163,This. Is. Lager,2014-08-01,srm,6,Lager
+163,This. Is. Lager,2014-08-01,ph,4.2,Lager
+163,This. Is. Lager,2014-08-01,target_fg,1007,Lager
+164,Ella - IPA Is Dead,2015-03-01,abv,7.2,Ale
+164,Ella - IPA Is Dead,2015-03-01,ibu,100,Ale
+164,Ella - IPA Is Dead,2015-03-01,srm,6,Ale
+164,Ella - IPA Is Dead,2015-03-01,ph,4.4,Ale
+164,Ella - IPA Is Dead,2015-03-01,target_fg,1010,Ale
+165,Barley Wine - Russian Doll,2014-06-01,abv,10,Ale
+165,Barley Wine - Russian Doll,2014-06-01,ibu,80,Ale
+165,Barley Wine - Russian Doll,2014-06-01,srm,32.5,Ale
+165,Barley Wine - Russian Doll,2014-06-01,ph,4.4,Ale
+165,Barley Wine - Russian Doll,2014-06-01,target_fg,1020,Ale
+166,Vagabond Pale ALe - Prototype Challenge,2014-11-01,abv,4.5,Ale
+166,Vagabond Pale ALe - Prototype Challenge,2014-11-01,ibu,55,Ale
+166,Vagabond Pale ALe - Prototype Challenge,2014-11-01,srm,10,Ale
+166,Vagabond Pale ALe - Prototype Challenge,2014-11-01,ph,4.2,Ale
+166,Vagabond Pale ALe - Prototype Challenge,2014-11-01,target_fg,1011,Ale
+167,Libertine Black Ale,2012-03-01,abv,7.2,Ale
+167,Libertine Black Ale,2012-03-01,ibu,50,Ale
+167,Libertine Black Ale,2012-03-01,srm,76,Ale
+167,Libertine Black Ale,2012-03-01,ph,4.4,Ale
+167,Libertine Black Ale,2012-03-01,target_fg,1013,Ale
+168,Jack Hammer,2012-06-01,abv,7.2,Ale
+168,Jack Hammer,2012-06-01,ibu,250,Ale
+168,Jack Hammer,2012-06-01,srm,7.5,Ale
+168,Jack Hammer,2012-06-01,ph,4.4,Ale
+168,Jack Hammer,2012-06-01,target_fg,1010,Ale
+170,Bashah (w/ Stone Brewing Co),2009-08-01,abv,9.7,Other
+170,Bashah (w/ Stone Brewing Co),2009-08-01,ibu,100,Other
+170,Bashah (w/ Stone Brewing Co),2009-08-01,srm,15.3,Other
+170,Bashah (w/ Stone Brewing Co),2009-08-01,ph,4.4,Other
+170,Bashah (w/ Stone Brewing Co),2009-08-01,target_fg,1015,Other
+171,Challenger,2012-02-01,abv,6.7,Ale
+171,Challenger,2012-02-01,ibu,67,Ale
+171,Challenger,2012-02-01,srm,9.5,Ale
+171,Challenger,2012-02-01,ph,4.4,Ale
+171,Challenger,2012-02-01,target_fg,1013,Ale
+172,Single Hop Enigma IPA - B-Sides,2016-01-01,abv,5,Ale
+172,Single Hop Enigma IPA - B-Sides,2016-01-01,ibu,50,Ale
+172,Single Hop Enigma IPA - B-Sides,2016-01-01,srm,5,Ale
+172,Single Hop Enigma IPA - B-Sides,2016-01-01,ph,4.4,Ale
+172,Single Hop Enigma IPA - B-Sides,2016-01-01,target_fg,1011,Ale
+173,Chinook - IPA Is Dead,2015-03-01,abv,7.2,Ale
+173,Chinook - IPA Is Dead,2015-03-01,ibu,100,Ale
+173,Chinook - IPA Is Dead,2015-03-01,srm,6,Ale
+173,Chinook - IPA Is Dead,2015-03-01,ph,4.4,Ale
+173,Chinook - IPA Is Dead,2015-03-01,target_fg,1010,Ale
+174,Konnichiwa Kitsune,2014-10-01,abv,4.4,Ale
+174,Konnichiwa Kitsune,2014-10-01,ibu,70,Ale
+174,Konnichiwa Kitsune,2014-10-01,srm,15,Ale
+174,Konnichiwa Kitsune,2014-10-01,ph,4.4,Ale
+174,Konnichiwa Kitsune,2014-10-01,target_fg,1012,Ale
+175,San Diego Scotch Ale (w/Ballast Point),2012-07-01,abv,9,Ale
+175,San Diego Scotch Ale (w/Ballast Point),2012-07-01,ibu,70,Ale
+175,San Diego Scotch Ale (w/Ballast Point),2012-07-01,srm,95,Ale
+175,San Diego Scotch Ale (w/Ballast Point),2012-07-01,ph,4.4,Ale
+175,San Diego Scotch Ale (w/Ballast Point),2012-07-01,target_fg,1018,Ale
+176,Old World India Pale Ale,2011-10-01,abv,7.5,Ale
+176,Old World India Pale Ale,2011-10-01,ibu,80,Ale
+176,Old World India Pale Ale,2011-10-01,srm,25,Ale
+176,Old World India Pale Ale,2011-10-01,ph,4.4,Ale
+176,Old World India Pale Ale,2011-10-01,target_fg,1012,Ale
+177,Dog D,2015-05-01,abv,16.1,Ale
+177,Dog D,2015-05-01,ibu,85,Ale
+177,Dog D,2015-05-01,srm,200,Ale
+177,Dog D,2015-05-01,ph,4.3,Ale
+177,Dog D,2015-05-01,target_fg,1015,Ale
+178,Simcoe,2012-01-01,abv,6.7,Ale
+178,Simcoe,2012-01-01,ibu,70,Ale
+178,Simcoe,2012-01-01,srm,15,Ale
+178,Simcoe,2012-01-01,ph,4.4,Ale
+178,Simcoe,2012-01-01,target_fg,1012,Ale
+179,How To Disappear Completely,2009-04-01,abv,3.5,Other
+179,How To Disappear Completely,2009-04-01,ibu,198,Other
+179,How To Disappear Completely,2009-04-01,srm,19,Other
+179,How To Disappear Completely,2009-04-01,ph,4.4,Other
+179,How To Disappear Completely,2009-04-01,target_fg,1010,Other
+180,Doodlebug,2015-09-01,abv,2.5,Ale
+180,Doodlebug,2015-09-01,ibu,35,Ale
+180,Doodlebug,2015-09-01,srm,5,Ale
+180,Doodlebug,2015-09-01,ph,4.2,Ale
+180,Doodlebug,2015-09-01,target_fg,1008,Ale
+181,Vic Secret,2013-10-01,abv,7.4,Ale
+181,Vic Secret,2013-10-01,ibu,70,Ale
+181,Vic Secret,2013-10-01,srm,15,Ale
+181,Vic Secret,2013-10-01,ph,4.4,Ale
+181,Vic Secret,2013-10-01,target_fg,1012,Ale
+182,All Day Long - Prototype Challenge,2014-11-01,abv,2.8,Ale
+182,All Day Long - Prototype Challenge,2014-11-01,ibu,30,Ale
+182,All Day Long - Prototype Challenge,2014-11-01,srm,21,Ale
+182,All Day Long - Prototype Challenge,2014-11-01,ph,4.4,Ale
+182,All Day Long - Prototype Challenge,2014-11-01,target_fg,1012,Ale
+183,Nuns With Guns,2012-11-01,abv,4.2,Lager
+183,Nuns With Guns,2012-11-01,ibu,25,Lager
+183,Nuns With Guns,2012-11-01,srm,9.5,Lager
+183,Nuns With Guns,2012-11-01,ph,4.4,Lager
+183,Nuns With Guns,2012-11-01,target_fg,1012,Lager
+184,Atlantic IPA Ale,2008-12-01,abv,8,Ale
+184,Atlantic IPA Ale,2008-12-01,ibu,80,Ale
+184,Atlantic IPA Ale,2008-12-01,srm,13,Ale
+184,Atlantic IPA Ale,2008-12-01,ph,4.4,Ale
+184,Atlantic IPA Ale,2008-12-01,target_fg,1013,Ale
+185,Tactical Nuclear Penguin,2009-09-01,abv,32,Ale
+185,Tactical Nuclear Penguin,2009-09-01,ibu,1157,Ale
+185,Tactical Nuclear Penguin,2009-09-01,srm,127,Ale
+185,Tactical Nuclear Penguin,2009-09-01,ph,4.4,Ale
+185,Tactical Nuclear Penguin,2009-09-01,target_fg,1028,Ale
+186,Jasmine IPA,2014-03-01,abv,5.8,Ale
+186,Jasmine IPA,2014-03-01,ibu,40,Ale
+186,Jasmine IPA,2014-03-01,srm,17.5,Ale
+186,Jasmine IPA,2014-03-01,ph,4.4,Ale
+186,Jasmine IPA,2014-03-01,target_fg,1014,Ale
+187,Lichtenstein Pale Ale,2013-01-01,abv,5.2,Ale
+187,Lichtenstein Pale Ale,2013-01-01,ibu,50,Ale
+187,Lichtenstein Pale Ale,2013-01-01,srm,8.5,Ale
+187,Lichtenstein Pale Ale,2013-01-01,ph,4.4,Ale
+187,Lichtenstein Pale Ale,2013-01-01,target_fg,1010,Ale
+188,Paradox Jura,2010-06-01,abv,10,Ale
+188,Paradox Jura,2010-06-01,ibu,55,Ale
+188,Paradox Jura,2010-06-01,srm,152,Ale
+188,Paradox Jura,2010-06-01,ph,4.4,Ale
+188,Paradox Jura,2010-06-01,target_fg,1014,Ale
+189,AB:11,2012-08-01,abv,12.8,Ale
+189,AB:11,2012-08-01,ibu,70,Ale
+189,AB:11,2012-08-01,srm,40,Ale
+189,AB:11,2012-08-01,ph,4.4,Ale
+189,AB:11,2012-08-01,target_fg,1020,Ale
+190,Hello My Name is Sonja (w/ Evil Twin),2013-09-01,abv,8.3,Ale
+190,Hello My Name is Sonja (w/ Evil Twin),2013-09-01,ibu,70,Ale
+190,Hello My Name is Sonja (w/ Evil Twin),2013-09-01,srm,15,Ale
+190,Hello My Name is Sonja (w/ Evil Twin),2013-09-01,ph,4.4,Ale
+190,Hello My Name is Sonja (w/ Evil Twin),2013-09-01,target_fg,1013,Ale
+191,Interstellar,2013-11-01,abv,6.5,Ale
+191,Interstellar,2013-11-01,ibu,55,Ale
+191,Interstellar,2013-11-01,srm,25,Ale
+191,Interstellar,2013-11-01,ph,4.4,Ale
+191,Interstellar,2013-11-01,target_fg,1011,Ale
+192,Punk IPA 2007 - 2010,2007-04-01,abv,6,Ale
+192,Punk IPA 2007 - 2010,2007-04-01,ibu,60,Ale
+192,Punk IPA 2007 - 2010,2007-04-01,srm,8.5,Ale
+192,Punk IPA 2007 - 2010,2007-04-01,ph,4.4,Ale
+192,Punk IPA 2007 - 2010,2007-04-01,target_fg,1010,Ale
+193,Blitz Berliner Weisse,2013-07-01,abv,3,Ale
+193,Blitz Berliner Weisse,2013-07-01,ibu,8,Ale
+193,Blitz Berliner Weisse,2013-07-01,srm,4.5,Ale
+193,Blitz Berliner Weisse,2013-07-01,ph,3.2,Ale
+193,Blitz Berliner Weisse,2013-07-01,target_fg,1040,Ale
+194,Hardkogt IPA,2010-06-01,abv,7.6,Ale
+194,Hardkogt IPA,2010-06-01,ibu,175,Ale
+194,Hardkogt IPA,2010-06-01,srm,20,Ale
+194,Hardkogt IPA,2010-06-01,ph,4.4,Ale
+194,Hardkogt IPA,2010-06-01,target_fg,1014,Ale
+195,Hello My Name Is Holy Moose,2015-07-01,abv,5.5,Ale
+195,Hello My Name Is Holy Moose,2015-07-01,ibu,35,Ale
+195,Hello My Name Is Holy Moose,2015-07-01,srm,12.5,Ale
+195,Hello My Name Is Holy Moose,2015-07-01,ph,4.4,Ale
+195,Hello My Name Is Holy Moose,2015-07-01,target_fg,1011,Ale
+196,Catherine's Pony (w/ Beavertown),2012-12-01,abv,8.8,Ale
+196,Catherine's Pony (w/ Beavertown),2012-12-01,ibu,40,Ale
+196,Catherine's Pony (w/ Beavertown),2012-12-01,srm,95,Ale
+196,Catherine's Pony (w/ Beavertown),2012-12-01,ph,4.5,Ale
+196,Catherine's Pony (w/ Beavertown),2012-12-01,target_fg,1017,Ale
+197,Moshi Moshi 15,2013-11-01,abv,5.2,Ale
+197,Moshi Moshi 15,2013-11-01,ibu,45,Ale
+197,Moshi Moshi 15,2013-11-01,srm,17.5,Ale
+197,Moshi Moshi 15,2013-11-01,ph,4.4,Ale
+197,Moshi Moshi 15,2013-11-01,target_fg,1011,Ale
+198,AB:01,2010-02-01,abv,10.2,Other
+198,AB:01,2010-02-01,ibu,20,Other
+198,AB:01,2010-02-01,srm,8,Other
+198,AB:01,2010-02-01,ph,4.1,Other
+198,AB:01,2010-02-01,target_fg,1018,Other
+199,Alice Porter,2010-09-01,abv,5.2,Ale
+199,Alice Porter,2010-09-01,ibu,55,Ale
+199,Alice Porter,2010-09-01,srm,82.5,Ale
+199,Alice Porter,2010-09-01,ph,5.2,Ale
+199,Alice Porter,2010-09-01,target_fg,1013,Ale
+200,Double IPA - Russian Doll,2014-08-01,abv,8,Ale
+200,Double IPA - Russian Doll,2014-08-01,ibu,85,Ale
+200,Double IPA - Russian Doll,2014-08-01,srm,17.5,Ale
+200,Double IPA - Russian Doll,2014-08-01,ph,5.2,Ale
+200,Double IPA - Russian Doll,2014-08-01,target_fg,1013,Ale
+201,Waimea - IPA Is Dead,2013-02-01,abv,6.7,Ale
+201,Waimea - IPA Is Dead,2013-02-01,ibu,70,Ale
+201,Waimea - IPA Is Dead,2013-02-01,srm,15,Ale
+201,Waimea - IPA Is Dead,2013-02-01,ph,4.4,Ale
+201,Waimea - IPA Is Dead,2013-02-01,target_fg,1015,Ale
+202,Dog C,2014-05-01,abv,15,Ale
+202,Dog C,2014-05-01,ibu,90,Ale
+202,Dog C,2014-05-01,srm,50,Ale
+202,Dog C,2014-05-01,ph,4.4,Ale
+202,Dog C,2014-05-01,target_fg,1003,Ale
+203,Bitch Please (w/ 3 Floyds),2012-02-01,abv,11.5,Ale
+203,Bitch Please (w/ 3 Floyds),2012-02-01,ibu,50,Ale
+203,Bitch Please (w/ 3 Floyds),2012-02-01,srm,19,Ale
+203,Bitch Please (w/ 3 Floyds),2012-02-01,ph,4.4,Ale
+203,Bitch Please (w/ 3 Floyds),2012-02-01,target_fg,1016,Ale
+204,"Cascade, Centennial & Willamette IPA - B-Sides",2016-01-01,abv,6.4,Ale
+204,"Cascade, Centennial & Willamette IPA - B-Sides",2016-01-01,ibu,65,Ale
+204,"Cascade, Centennial & Willamette IPA - B-Sides",2016-01-01,srm,7,Ale
+204,"Cascade, Centennial & Willamette IPA - B-Sides",2016-01-01,ph,5.2,Ale
+204,"Cascade, Centennial & Willamette IPA - B-Sides",2016-01-01,target_fg,1011,Ale
+205,Shareholder Black IPA 2011,2011-12-01,abv,7.1,Ale
+205,Shareholder Black IPA 2011,2011-12-01,ibu,80,Ale
+205,Shareholder Black IPA 2011,2011-12-01,srm,36,Ale
+205,Shareholder Black IPA 2011,2011-12-01,ph,4.4,Ale
+205,Shareholder Black IPA 2011,2011-12-01,target_fg,1014,Ale
+206,Black Jacques,2013-06-01,abv,11.1,Other
+206,Black Jacques,2013-06-01,ibu,45,Other
+206,Black Jacques,2013-06-01,srm,7.5,Other
+206,Black Jacques,2013-06-01,ph,4.4,Other
+206,Black Jacques,2013-06-01,target_fg,1005,Other
+207,International Arms Race (w/ Flying Dog),2012-08-01,abv,7.5,Ale
+207,International Arms Race (w/ Flying Dog),2012-08-01,ibu,0,Ale
+207,International Arms Race (w/ Flying Dog),2012-08-01,srm,25,Ale
+207,International Arms Race (w/ Flying Dog),2012-08-01,ph,4.4,Ale
+207,International Arms Race (w/ Flying Dog),2012-08-01,target_fg,1013,Ale
+208,Sunshine On Rye - B-Sides,2015-02-01,abv,7.2,Ale
+208,Sunshine On Rye - B-Sides,2015-02-01,ibu,130,Ale
+208,Sunshine On Rye - B-Sides,2015-02-01,srm,7,Ale
+208,Sunshine On Rye - B-Sides,2015-02-01,ph,5.2,Ale
+208,Sunshine On Rye - B-Sides,2015-02-01,target_fg,1010,Ale
+209,Stereo Wolf Stout - Prototype Challenge,2015-02-01,abv,5.2,Ale
+209,Stereo Wolf Stout - Prototype Challenge,2015-02-01,ibu,55,Ale
+209,Stereo Wolf Stout - Prototype Challenge,2015-02-01,srm,100,Ale
+209,Stereo Wolf Stout - Prototype Challenge,2015-02-01,ph,5.2,Ale
+209,Stereo Wolf Stout - Prototype Challenge,2015-02-01,target_fg,1014,Ale
+210,Dead Metaphor,2013-09-01,abv,6.8,Ale
+210,Dead Metaphor,2013-09-01,ibu,30,Ale
+210,Dead Metaphor,2013-09-01,srm,43,Ale
+210,Dead Metaphor,2013-09-01,ph,4.4,Ale
+210,Dead Metaphor,2013-09-01,target_fg,1016,Ale
+211,Black Dog,2009-11-01,abv,5.5,Ale
+211,Black Dog,2009-11-01,ibu,60,Ale
+211,Black Dog,2009-11-01,srm,115,Ale
+211,Black Dog,2009-11-01,ph,4.4,Ale
+211,Black Dog,2009-11-01,target_fg,1020,Ale
+212,Hop Fiction - Prototype Challenge,2014-11-01,abv,5.2,Ale
+212,Hop Fiction - Prototype Challenge,2014-11-01,ibu,40,Ale
+212,Hop Fiction - Prototype Challenge,2014-11-01,srm,6.5,Ale
+212,Hop Fiction - Prototype Challenge,2014-11-01,ph,4.4,Ale
+212,Hop Fiction - Prototype Challenge,2014-11-01,target_fg,1010,Ale
+213,El Dorado - IPA Is Dead,2013-02-01,abv,6.7,Ale
+213,El Dorado - IPA Is Dead,2013-02-01,ibu,70,Ale
+213,El Dorado - IPA Is Dead,2013-02-01,srm,15,Ale
+213,El Dorado - IPA Is Dead,2013-02-01,ph,4.4,Ale
+213,El Dorado - IPA Is Dead,2013-02-01,target_fg,1015,Ale
+214,Cult Lager,2008-04-01,abv,5.4,Lager
+214,Cult Lager,2008-04-01,ibu,50,Lager
+214,Cult Lager,2008-04-01,srm,8,Lager
+214,Cult Lager,2008-04-01,ph,4.1,Lager
+214,Cult Lager,2008-04-01,target_fg,1049,Lager
+215,Brixton Porter,2013-11-01,abv,5,Ale
+215,Brixton Porter,2013-11-01,ibu,50,Ale
+215,Brixton Porter,2013-11-01,srm,100,Ale
+215,Brixton Porter,2013-11-01,ph,4.4,Ale
+215,Brixton Porter,2013-11-01,target_fg,1014,Ale
+216,Barrel Aged Hinterland,2016-06-01,abv,9,Ale
+216,Barrel Aged Hinterland,2016-06-01,ibu,85,Ale
+216,Barrel Aged Hinterland,2016-06-01,srm,200,Ale
+216,Barrel Aged Hinterland,2016-06-01,ph,4.3,Ale
+216,Barrel Aged Hinterland,2016-06-01,target_fg,1025,Ale
+217,Barrel Aged Albino Squid Assassin,2016-06-01,abv,9.2,Ale
+217,Barrel Aged Albino Squid Assassin,2016-06-01,ibu,65,Ale
+217,Barrel Aged Albino Squid Assassin,2016-06-01,srm,30,Ale
+217,Barrel Aged Albino Squid Assassin,2016-06-01,ph,4.2,Ale
+217,Barrel Aged Albino Squid Assassin,2016-06-01,target_fg,1012,Ale
+218,Monk Hammer,2016-03-01,abv,7.2,Other
+218,Monk Hammer,2016-03-01,ibu,250,Other
+218,Monk Hammer,2016-03-01,srm,7.5,Other
+218,Monk Hammer,2016-03-01,ph,4.4,Other
+218,Monk Hammer,2016-03-01,target_fg,1010,Other
+219,Ship Wreck,2016-03-01,abv,13.8,Ale
+219,Ship Wreck,2016-03-01,ibu,60,Ale
+219,Ship Wreck,2016-03-01,srm,13,Ale
+219,Ship Wreck,2016-03-01,ph,4.4,Ale
+219,Ship Wreck,2016-03-01,target_fg,1015,Ale
+220,Ace Of Simcoe,2016-01-01,abv,4.5,Ale
+220,Ace Of Simcoe,2016-01-01,ibu,40,Ale
+220,Ace Of Simcoe,2016-01-01,srm,9,Ale
+220,Ace Of Simcoe,2016-01-01,ph,4.2,Ale
+220,Ace Of Simcoe,2016-01-01,target_fg,1011,Ale
+221,Blitz Series,2016-06-01,abv,3.2,Ale
+221,Blitz Series,2016-06-01,ibu,8,Ale
+221,Blitz Series,2016-06-01,srm,3,Ale
+221,Blitz Series,2016-06-01,ph,3.2,Ale
+221,Blitz Series,2016-06-01,target_fg,1032,Ale
+222,Dog E,2016-06-01,abv,16.1,Ale
+222,Dog E,2016-06-01,ibu,100,Ale
+222,Dog E,2016-06-01,srm,254,Ale
+222,Dog E,2016-06-01,ph,4.4,Ale
+222,Dog E,2016-06-01,target_fg,1125,Ale
+223,Prototype Pils 2.0,2016-06-01,abv,4.7,Lager
+223,Prototype Pils 2.0,2016-06-01,ibu,25,Lager
+223,Prototype Pils 2.0,2016-06-01,srm,5,Lager
+223,Prototype Pils 2.0,2016-06-01,ph,4.2,Lager
+223,Prototype Pils 2.0,2016-06-01,target_fg,1044,Lager
+224,AB:20,2016-06-01,abv,14.2,Ale
+224,AB:20,2016-06-01,ibu,20,Ale
+224,AB:20,2016-06-01,srm,34,Ale
+224,AB:20,2016-06-01,ph,4,Ale
+224,AB:20,2016-06-01,target_fg,1120,Ale
+225,Paradox Islay 2.0,2016-06-01,abv,13,Ale
+225,Paradox Islay 2.0,2016-06-01,ibu,100,Ale
+225,Paradox Islay 2.0,2016-06-01,srm,152,Ale
+225,Paradox Islay 2.0,2016-06-01,ph,4.4,Ale
+225,Paradox Islay 2.0,2016-06-01,target_fg,1112,Ale
+226,Chili Hammer,2016-06-01,abv,7.2,Ale
+226,Chili Hammer,2016-06-01,ibu,250,Ale
+226,Chili Hammer,2016-06-01,srm,7.5,Ale
+226,Chili Hammer,2016-06-01,ph,4.4,Ale
+226,Chili Hammer,2016-06-01,target_fg,1010,Ale
+227,Brewdog Vs Beavertown,2016-06-01,abv,9.2,Ale
+227,Brewdog Vs Beavertown,2016-06-01,ibu,50,Ale
+227,Brewdog Vs Beavertown,2016-06-01,srm,40,Ale
+227,Brewdog Vs Beavertown,2016-06-01,ph,4.2,Ale
+227,Brewdog Vs Beavertown,2016-06-01,target_fg,1085,Ale
+228,Prototype Helles,2016-06-01,abv,4.9,Lager
+228,Prototype Helles,2016-06-01,ibu,18,Lager
+228,Prototype Helles,2016-06-01,srm,6.6,Lager
+228,Prototype Helles,2016-06-01,ph,4.2,Lager
+228,Prototype Helles,2016-06-01,target_fg,1047,Lager
+229,Rye Hammer,2016-06-01,abv,7.2,Ale
+229,Rye Hammer,2016-06-01,ibu,250,Ale
+229,Rye Hammer,2016-06-01,srm,8.5,Ale
+229,Rye Hammer,2016-06-01,ph,4.4,Ale
+229,Rye Hammer,2016-06-01,target_fg,1010,Ale
+230,Black Hammer,2016-06-01,abv,7.2,Ale
+230,Black Hammer,2016-06-01,ibu,250,Ale
+230,Black Hammer,2016-06-01,srm,53,Ale
+230,Black Hammer,2016-06-01,ph,4.4,Ale
+230,Black Hammer,2016-06-01,target_fg,1010,Ale
+231,Ace Of Chinook,2016-01-01,abv,4.5,Ale
+231,Ace Of Chinook,2016-01-01,ibu,40,Ale
+231,Ace Of Chinook,2016-01-01,srm,9,Ale
+231,Ace Of Chinook,2016-01-01,ph,4.2,Ale
+231,Ace Of Chinook,2016-01-01,target_fg,1011,Ale
+232,Ace Of Equinox,2016-01-01,abv,4.5,Ale
+232,Ace Of Equinox,2016-01-01,ibu,40,Ale
+232,Ace Of Equinox,2016-01-01,srm,9,Ale
+232,Ace Of Equinox,2016-01-01,ph,4.2,Ale
+232,Ace Of Equinox,2016-01-01,target_fg,1011,Ale
+233,Ace Of Citra,2016-01-01,abv,4.5,Ale
+233,Ace Of Citra,2016-01-01,ibu,40,Ale
+233,Ace Of Citra,2016-01-01,srm,9,Ale
+233,Ace Of Citra,2016-01-01,ph,4.2,Ale
+233,Ace Of Citra,2016-01-01,target_fg,1011,Ale
+234,Neon Overlord,2016-01-01,abv,7.6,Ale
+234,Neon Overlord,2016-01-01,ibu,70,Ale
+234,Neon Overlord,2016-01-01,srm,10,Ale
+234,Neon Overlord,2016-01-01,ph,4.4,Ale
+234,Neon Overlord,2016-01-01,target_fg,1012,Ale
+235,Mango And Chili Barley Wine,2016-01-01,abv,12,Ale
+235,Mango And Chili Barley Wine,2016-01-01,ibu,,Ale
+235,Mango And Chili Barley Wine,2016-01-01,srm,40,Ale
+235,Mango And Chili Barley Wine,2016-01-01,ph,4.4,Ale
+235,Mango And Chili Barley Wine,2016-01-01,target_fg,1015,Ale
+236,Science IPA,2016-01-01,abv,5,Ale
+236,Science IPA,2016-01-01,ibu,,Ale
+236,Science IPA,2016-01-01,srm,47,Ale
+236,Science IPA,2016-01-01,ph,4.4,Ale
+236,Science IPA,2016-01-01,target_fg,1011,Ale
+237,Honey And Lemon Blitz,2016-01-01,abv,3.2,Ale
+237,Honey And Lemon Blitz,2016-01-01,ibu,,Ale
+237,Honey And Lemon Blitz,2016-01-01,srm,4,Ale
+237,Honey And Lemon Blitz,2016-01-01,ph,3.2,Ale
+237,Honey And Lemon Blitz,2016-01-01,target_fg,1008,Ale
+238,Kingpin,2016-01-01,abv,4.7,Lager
+238,Kingpin,2016-01-01,ibu,40,Lager
+238,Kingpin,2016-01-01,srm,7,Lager
+238,Kingpin,2016-01-01,ph,4.2,Lager
+238,Kingpin,2016-01-01,target_fg,1008,Lager
+239,#Mashtag 2016,2016-01-01,abv,10.5,Ale
+239,#Mashtag 2016,2016-01-01,ibu,100,Ale
+239,#Mashtag 2016,2016-01-01,srm,8,Ale
+239,#Mashtag 2016,2016-01-01,ph,4.4,Ale
+239,#Mashtag 2016,2016-01-01,target_fg,1010,Ale
+240,Blitz Saison,2016-01-01,abv,3.2,Other
+240,Blitz Saison,2016-01-01,ibu,8,Other
+240,Blitz Saison,2016-01-01,srm,14,Other
+240,Blitz Saison,2016-01-01,ph,3.2,Other
+240,Blitz Saison,2016-01-01,target_fg,1007,Other
+241,Hello My Name Is Ingrid 2016,2016-01-01,abv,8.2,Ale
+241,Hello My Name Is Ingrid 2016,2016-01-01,ibu,70,Ale
+241,Hello My Name Is Ingrid 2016,2016-01-01,srm,15.2,Ale
+241,Hello My Name Is Ingrid 2016,2016-01-01,ph,5.2,Ale
+241,Hello My Name Is Ingrid 2016,2016-01-01,target_fg,1013,Ale
+242,Crew Brew,2016-01-01,abv,8,Ale
+242,Crew Brew,2016-01-01,ibu,100,Ale
+242,Crew Brew,2016-01-01,srm,14.2,Ale
+242,Crew Brew,2016-01-01,ph,5.2,Ale
+242,Crew Brew,2016-01-01,target_fg,1011,Ale
+243,Gin Blitz,2016-01-01,abv,3.2,Ale
+243,Gin Blitz,2016-01-01,ibu,8,Ale
+243,Gin Blitz,2016-01-01,srm,4,Ale
+243,Gin Blitz,2016-01-01,ph,3.2,Ale
+243,Gin Blitz,2016-01-01,target_fg,1008,Ale
+244,AB:21,2016-01-01,abv,12,Ale
+244,AB:21,2016-01-01,ibu,100,Ale
+244,AB:21,2016-01-01,srm,101.6,Ale
+244,AB:21,2016-01-01,ph,5.1,Ale
+244,AB:21,2016-01-01,target_fg,1015,Ale
+245,Beatnik,2016-01-01,abv,8,Ale
+245,Beatnik,2016-01-01,ibu,60,Ale
+245,Beatnik,2016-01-01,srm,30.5,Ale
+245,Beatnik,2016-01-01,ph,5.2,Ale
+245,Beatnik,2016-01-01,target_fg,1013,Ale
+246,Casino Rye Ale,2016-01-01,abv,5.1,Ale
+246,Casino Rye Ale,2016-01-01,ibu,40,Ale
+246,Casino Rye Ale,2016-01-01,srm,12.7,Ale
+246,Casino Rye Ale,2016-01-01,ph,5.2,Ale
+246,Casino Rye Ale,2016-01-01,target_fg,1009,Ale
+247,Self Assembly Pope,2016-01-01,abv,7.4,Ale
+247,Self Assembly Pope,2016-01-01,ibu,75,Ale
+247,Self Assembly Pope,2016-01-01,srm,101.6,Ale
+247,Self Assembly Pope,2016-01-01,ph,5.1,Ale
+247,Self Assembly Pope,2016-01-01,target_fg,1016,Ale
+248,Twin Atlantic,2016-01-01,abv,5,Ale
+248,Twin Atlantic,2016-01-01,ibu,80,Ale
+248,Twin Atlantic,2016-01-01,srm,9.7,Ale
+248,Twin Atlantic,2016-01-01,ph,5.2,Ale
+248,Twin Atlantic,2016-01-01,target_fg,1011,Ale
+249,Hop Shot,2016-01-01,abv,7,Ale
+249,Hop Shot,2016-01-01,ibu,250,Ale
+249,Hop Shot,2016-01-01,srm,7.5,Ale
+249,Hop Shot,2016-01-01,ph,4.4,Ale
+249,Hop Shot,2016-01-01,target_fg,1010,Ale
+250,Small Batch: Rye IPA,2016-01-01,abv,7.2,Ale
+250,Small Batch: Rye IPA,2016-01-01,ibu,100,Ale
+250,Small Batch: Rye IPA,2016-01-01,srm,16,Ale
+250,Small Batch: Rye IPA,2016-01-01,ph,4.4,Ale
+250,Small Batch: Rye IPA,2016-01-01,target_fg,1010,Ale
+251,Small Batch: Sorachi Ace Session,2016-01-01,abv,4,Ale
+251,Small Batch: Sorachi Ace Session,2016-01-01,ibu,25,Ale
+251,Small Batch: Sorachi Ace Session,2016-01-01,srm,7.62,Ale
+251,Small Batch: Sorachi Ace Session,2016-01-01,ph,5.1,Ale
+251,Small Batch: Sorachi Ace Session,2016-01-01,target_fg,1005,Ale
+252,Small Batch: Dortmunder,2017-01-01,abv,4.9,Lager
+252,Small Batch: Dortmunder,2017-01-01,ibu,32,Lager
+252,Small Batch: Dortmunder,2017-01-01,srm,7.62,Lager
+252,Small Batch: Dortmunder,2017-01-01,ph,5.2,Lager
+252,Small Batch: Dortmunder,2017-01-01,target_fg,1009,Lager
+253,Small Batch: 90 Shilling,2017-01-01,abv,5.3,Ale
+253,Small Batch: 90 Shilling,2017-01-01,ibu,25,Ale
+253,Small Batch: 90 Shilling,2017-01-01,srm,20.32,Ale
+253,Small Batch: 90 Shilling,2017-01-01,ph,4.2,Ale
+253,Small Batch: 90 Shilling,2017-01-01,target_fg,1010,Ale
+254,Small Batch: Kellerbier,2017-01-01,abv,4.5,Lager
+254,Small Batch: Kellerbier,2017-01-01,ibu,25,Lager
+254,Small Batch: Kellerbier,2017-01-01,srm,8.6,Lager
+254,Small Batch: Kellerbier,2017-01-01,ph,5.3,Lager
+254,Small Batch: Kellerbier,2017-01-01,target_fg,1011,Lager
+255,Small Batch: Tripel,2017-01-01,abv,13,Ale
+255,Small Batch: Tripel,2017-01-01,ibu,50,Ale
+255,Small Batch: Tripel,2017-01-01,srm,11.6,Ale
+255,Small Batch: Tripel,2017-01-01,ph,5.1,Ale
+255,Small Batch: Tripel,2017-01-01,target_fg,1008,Ale
+256,Small Batch: Vermont IPA,2017-01-01,abv,6.9,Ale
+256,Small Batch: Vermont IPA,2017-01-01,ibu,35,Ale
+256,Small Batch: Vermont IPA,2017-01-01,srm,7.62,Ale
+256,Small Batch: Vermont IPA,2017-01-01,ph,4.2,Ale
+256,Small Batch: Vermont IPA,2017-01-01,target_fg,1012,Ale
+257,Semi Skimmed Occultist,2017-01-01,abv,8,Ale
+257,Semi Skimmed Occultist,2017-01-01,ibu,70,Ale
+257,Semi Skimmed Occultist,2017-01-01,srm,81.28,Ale
+257,Semi Skimmed Occultist,2017-01-01,ph,4.1,Ale
+257,Semi Skimmed Occultist,2017-01-01,target_fg,1014,Ale
+258,Paradox Rye,2005-01-01,abv,13,Ale
+258,Paradox Rye,2005-01-01,ibu,100,Ale
+258,Paradox Rye,2005-01-01,srm,152,Ale
+258,Paradox Rye,2005-01-01,ph,4.4,Ale
+258,Paradox Rye,2005-01-01,target_fg,1015,Ale
+259,Tropic Thunder,2016-01-01,abv,7,Ale
+259,Tropic Thunder,2016-01-01,ibu,25,Ale
+259,Tropic Thunder,2016-01-01,srm,86.36,Ale
+259,Tropic Thunder,2016-01-01,ph,4.2,Ale
+259,Tropic Thunder,2016-01-01,target_fg,1020,Ale
+260,New England IPA,2017-01-01,abv,6.8,Ale
+260,New England IPA,2017-01-01,ibu,45,Ale
+260,New England IPA,2017-01-01,srm,9,Ale
+260,New England IPA,2017-01-01,ph,4.2,Ale
+260,New England IPA,2017-01-01,target_fg,1012,Ale
+261,Small Batch: Nitro Breakfast Stout,2017-01-01,abv,8,Ale
+261,Small Batch: Nitro Breakfast Stout,2017-01-01,ibu,80,Ale
+261,Small Batch: Nitro Breakfast Stout,2017-01-01,srm,44.7,Ale
+261,Small Batch: Nitro Breakfast Stout,2017-01-01,ph,5.2,Ale
+261,Small Batch: Nitro Breakfast Stout,2017-01-01,target_fg,1027,Ale
+262,Small Batch: Vermont IPA V2.0,2017-01-01,abv,6.9,Ale
+262,Small Batch: Vermont IPA V2.0,2017-01-01,ibu,35,Ale
+262,Small Batch: Vermont IPA V2.0,2017-01-01,srm,7.6,Ale
+262,Small Batch: Vermont IPA V2.0,2017-01-01,ph,4.2,Ale
+262,Small Batch: Vermont IPA V2.0,2017-01-01,target_fg,1012,Ale
+263,Small Batch: Mandarina Lager,2017-01-01,abv,5.3,Lager
+263,Small Batch: Mandarina Lager,2017-01-01,ibu,40,Lager
+263,Small Batch: Mandarina Lager,2017-01-01,srm,4,Lager
+263,Small Batch: Mandarina Lager,2017-01-01,ph,4.3,Lager
+263,Small Batch: Mandarina Lager,2017-01-01,target_fg,1008,Lager
+264,Small Batch: East Coast Crush,2017-01-01,abv,4.8,Ale
+264,Small Batch: East Coast Crush,2017-01-01,ibu,25,Ale
+264,Small Batch: East Coast Crush,2017-01-01,srm,8,Ale
+264,Small Batch: East Coast Crush,2017-01-01,ph,4.2,Ale
+264,Small Batch: East Coast Crush,2017-01-01,target_fg,1010,Ale
+265,Pump Action Poet,2017-01-01,abv,7.5,Ale
+265,Pump Action Poet,2017-01-01,ibu,40,Ale
+265,Pump Action Poet,2017-01-01,srm,6,Ale
+265,Pump Action Poet,2017-01-01,ph,5.2,Ale
+265,Pump Action Poet,2017-01-01,target_fg,1013,Ale
+266,Small Batch: Lemon Meringue Pie,2017-01-01,abv,6.5,Ale
+266,Small Batch: Lemon Meringue Pie,2017-01-01,ibu,5,Ale
+266,Small Batch: Lemon Meringue Pie,2017-01-01,srm,4,Ale
+266,Small Batch: Lemon Meringue Pie,2017-01-01,ph,4,Ale
+266,Small Batch: Lemon Meringue Pie,2017-01-01,target_fg,1015,Ale
+267,AB:22,2017-01-01,abv,12.5,Ale
+267,AB:22,2017-01-01,ibu,70,Ale
+267,AB:22,2017-01-01,srm,51,Ale
+267,AB:22,2017-01-01,ph,4.1,Ale
+267,AB:22,2017-01-01,target_fg,1020,Ale
+268,Hazy Jane,2017-01-01,abv,7.2,Ale
+268,Hazy Jane,2017-01-01,ibu,30,Ale
+268,Hazy Jane,2017-01-01,srm,8,Ale
+268,Hazy Jane,2017-01-01,ph,4.2,Ale
+268,Hazy Jane,2017-01-01,target_fg,1009,Ale
+269,Small Batch: Imperial Pale Weizen,2017-01-01,abv,7.5,Other
+269,Small Batch: Imperial Pale Weizen,2017-01-01,ibu,25,Other
+269,Small Batch: Imperial Pale Weizen,2017-01-01,srm,9,Other
+269,Small Batch: Imperial Pale Weizen,2017-01-01,ph,4.4,Other
+269,Small Batch: Imperial Pale Weizen,2017-01-01,target_fg,1010,Other
+270,Blonde Export Stout,2017-01-01,abv,7,Ale
+270,Blonde Export Stout,2017-01-01,ibu,55,Ale
+270,Blonde Export Stout,2017-01-01,srm,8,Ale
+270,Blonde Export Stout,2017-01-01,ph,4.4,Ale
+270,Blonde Export Stout,2017-01-01,target_fg,1020,Ale
+271,Small Batch: Cranachan Cream Ale,2017-01-01,abv,6.5,Ale
+271,Small Batch: Cranachan Cream Ale,2017-01-01,ibu,8,Ale
+271,Small Batch: Cranachan Cream Ale,2017-01-01,srm,5,Ale
+271,Small Batch: Cranachan Cream Ale,2017-01-01,ph,4.3,Ale
+271,Small Batch: Cranachan Cream Ale,2017-01-01,target_fg,1019,Ale
+272,Small Batch: Spelt & Honey Saison,2017-01-01,abv,5.2,Other
+272,Small Batch: Spelt & Honey Saison,2017-01-01,ibu,22,Other
+272,Small Batch: Spelt & Honey Saison,2017-01-01,srm,4,Other
+272,Small Batch: Spelt & Honey Saison,2017-01-01,ph,4.1,Other
+272,Small Batch: Spelt & Honey Saison,2017-01-01,target_fg,1008,Other
+273,Prototype Double IPA,2017-01-01,abv,8.5,Ale
+273,Prototype Double IPA,2017-01-01,ibu,60,Ale
+273,Prototype Double IPA,2017-01-01,srm,8,Ale
+273,Prototype Double IPA,2017-01-01,ph,4.2,Ale
+273,Prototype Double IPA,2017-01-01,target_fg,1007,Ale
+274,Prototype Black Rye IPA,2017-01-01,abv,6.5,Ale
+274,Prototype Black Rye IPA,2017-01-01,ibu,70,Ale
+274,Prototype Black Rye IPA,2017-01-01,srm,69,Ale
+274,Prototype Black Rye IPA,2017-01-01,ph,4.5,Ale
+274,Prototype Black Rye IPA,2017-01-01,target_fg,1012,Ale
+275,Sidewalk Shark,2017-01-01,abv,5.2,Ale
+275,Sidewalk Shark,2017-01-01,ibu,22,Ale
+275,Sidewalk Shark,2017-01-01,srm,4,Ale
+275,Sidewalk Shark,2017-01-01,ph,3.8,Ale
+275,Sidewalk Shark,2017-01-01,target_fg,1008,Ale
+276,Nine To Five Wizard,2017-01-01,abv,7.5,Other
+276,Nine To Five Wizard,2017-01-01,ibu,35,Other
+276,Nine To Five Wizard,2017-01-01,srm,10,Other
+276,Nine To Five Wizard,2017-01-01,ph,4.3,Other
+276,Nine To Five Wizard,2017-01-01,target_fg,1012,Other
+277,Prototype Blonde Ale,2017-01-01,abv,4.5,Ale
+277,Prototype Blonde Ale,2017-01-01,ibu,15,Ale
+277,Prototype Blonde Ale,2017-01-01,srm,6,Ale
+277,Prototype Blonde Ale,2017-01-01,ph,4.6,Ale
+277,Prototype Blonde Ale,2017-01-01,target_fg,1009,Ale
+278,AB:23,2017-01-01,abv,11.5,Ale
+278,AB:23,2017-01-01,ibu,80,Ale
+278,AB:23,2017-01-01,srm,41,Ale
+278,AB:23,2017-01-01,ph,4.1,Ale
+278,AB:23,2017-01-01,target_fg,1020,Ale
+279,Slot Machine,2017-01-01,abv,5.2,Ale
+279,Slot Machine,2017-01-01,ibu,50,Ale
+279,Slot Machine,2017-01-01,srm,25,Ale
+279,Slot Machine,2017-01-01,ph,4.3,Ale
+279,Slot Machine,2017-01-01,target_fg,1011,Ale
+280,Make Earth Great Again,2017-01-01,abv,7.5,Other
+280,Make Earth Great Again,2017-01-01,ibu,35,Other
+280,Make Earth Great Again,2017-01-01,srm,5,Other
+280,Make Earth Great Again,2017-01-01,ph,4.6,Other
+280,Make Earth Great Again,2017-01-01,target_fg,1004,Other
+281,Homicidal Puppet Help Desk,2017-01-01,abv,11.5,Ale
+281,Homicidal Puppet Help Desk,2017-01-01,ibu,132,Ale
+281,Homicidal Puppet Help Desk,2017-01-01,srm,23,Ale
+281,Homicidal Puppet Help Desk,2017-01-01,ph,4.1,Ale
+281,Homicidal Puppet Help Desk,2017-01-01,target_fg,1020,Ale
+282,Pina Colada Sidewalk,2017-01-01,abv,5.2,Ale
+282,Pina Colada Sidewalk,2017-01-01,ibu,10,Ale
+282,Pina Colada Sidewalk,2017-01-01,srm,7,Ale
+282,Pina Colada Sidewalk,2017-01-01,ph,3.8,Ale
+282,Pina Colada Sidewalk,2017-01-01,target_fg,1008,Ale
+283,AB:24,2017-01-01,abv,11.5,Ale
+283,AB:24,2017-01-01,ibu,50,Ale
+283,AB:24,2017-01-01,srm,112,Ale
+283,AB:24,2017-01-01,ph,4.4,Ale
+283,AB:24,2017-01-01,target_fg,1019,Ale
+284,Hello My Name Is Helga,2017-01-01,abv,8.2,Ale
+284,Hello My Name Is Helga,2017-01-01,ibu,70,Ale
+284,Hello My Name Is Helga,2017-01-01,srm,8,Ale
+284,Hello My Name Is Helga,2017-01-01,ph,4.4,Ale
+284,Hello My Name Is Helga,2017-01-01,target_fg,1009,Ale
+285,Hello My Name Is Sari,2017-01-01,abv,8.2,Ale
+285,Hello My Name Is Sari,2017-01-01,ibu,70,Ale
+285,Hello My Name Is Sari,2017-01-01,srm,8,Ale
+285,Hello My Name Is Sari,2017-01-01,ph,4.4,Ale
+285,Hello My Name Is Sari,2017-01-01,target_fg,1009,Ale
+286,Hello My Name Is Aune,2017-01-01,abv,8.2,Ale
+286,Hello My Name Is Aune,2017-01-01,ibu,70,Ale
+286,Hello My Name Is Aune,2017-01-01,srm,8,Ale
+286,Hello My Name Is Aune,2017-01-01,ph,4.4,Ale
+286,Hello My Name Is Aune,2017-01-01,target_fg,1009,Ale
+287,Hello My Name Is Marianne,2017-01-01,abv,8.2,Ale
+287,Hello My Name Is Marianne,2017-01-01,ibu,70,Ale
+287,Hello My Name Is Marianne,2017-01-01,srm,8,Ale
+287,Hello My Name Is Marianne,2017-01-01,ph,4.4,Ale
+287,Hello My Name Is Marianne,2017-01-01,target_fg,1009,Ale
+288,Hello My Name Is Agnetha,2017-01-01,abv,8.2,Ale
+288,Hello My Name Is Agnetha,2017-01-01,ibu,70,Ale
+288,Hello My Name Is Agnetha,2017-01-01,srm,8,Ale
+288,Hello My Name Is Agnetha,2017-01-01,ph,4.4,Ale
+288,Hello My Name Is Agnetha,2017-01-01,target_fg,1009,Ale
+289,Hello My Name Is Lieke,2017-01-01,abv,8.2,Ale
+289,Hello My Name Is Lieke,2017-01-01,ibu,70,Ale
+289,Hello My Name Is Lieke,2017-01-01,srm,8,Ale
+289,Hello My Name Is Lieke,2017-01-01,ph,4.4,Ale
+289,Hello My Name Is Lieke,2017-01-01,target_fg,1009,Ale
+290,Hello My Name Is Niamh,2017-01-01,abv,8.2,Ale
+290,Hello My Name Is Niamh,2017-01-01,ibu,70,Ale
+290,Hello My Name Is Niamh,2017-01-01,srm,8,Ale
+290,Hello My Name Is Niamh,2017-01-01,ph,4.4,Ale
+290,Hello My Name Is Niamh,2017-01-01,target_fg,1009,Ale
+291,Hello My Name Is Sofia,2017-01-01,abv,8.2,Ale
+291,Hello My Name Is Sofia,2017-01-01,ibu,70,Ale
+291,Hello My Name Is Sofia,2017-01-01,srm,8,Ale
+291,Hello My Name Is Sofia,2017-01-01,ph,4.4,Ale
+291,Hello My Name Is Sofia,2017-01-01,target_fg,1009,Ale
+292,Hello My Name Is Maria,2017-01-01,abv,8.2,Ale
+292,Hello My Name Is Maria,2017-01-01,ibu,70,Ale
+292,Hello My Name Is Maria,2017-01-01,srm,8,Ale
+292,Hello My Name Is Maria,2017-01-01,ph,4.4,Ale
+292,Hello My Name Is Maria,2017-01-01,target_fg,1009,Ale
+293,I Wanna Be Your Dog,2017-01-01,abv,12,Ale
+293,I Wanna Be Your Dog,2017-01-01,ibu,55,Ale
+293,I Wanna Be Your Dog,2017-01-01,srm,305,Ale
+293,I Wanna Be Your Dog,2017-01-01,ph,4.1,Ale
+293,I Wanna Be Your Dog,2017-01-01,target_fg,1035,Ale
+294,Opaque Jake,2017-01-01,abv,7.2,Ale
+294,Opaque Jake,2017-01-01,ibu,20,Ale
+294,Opaque Jake,2017-01-01,srm,10,Ale
+294,Opaque Jake,2017-01-01,ph,4.4,Ale
+294,Opaque Jake,2017-01-01,target_fg,1009,Ale
+295,Choco Libre,2017-01-01,abv,9,Ale
+295,Choco Libre,2017-01-01,ibu,25,Ale
+295,Choco Libre,2017-01-01,srm,96,Ale
+295,Choco Libre,2017-01-01,ph,4.2,Ale
+295,Choco Libre,2017-01-01,target_fg,1020,Ale
+296,Off-Duty Alien,2018-01-01,abv,6.5,Ale
+296,Off-Duty Alien,2018-01-01,ibu,50,Ale
+296,Off-Duty Alien,2018-01-01,srm,10,Ale
+296,Off-Duty Alien,2018-01-01,ph,4.4,Ale
+296,Off-Duty Alien,2018-01-01,target_fg,1010,Ale
+297,East Of Vermont,2018-01-01,abv,7.8,Ale
+297,East Of Vermont,2018-01-01,ibu,15,Ale
+297,East Of Vermont,2018-01-01,srm,10,Ale
+297,East Of Vermont,2018-01-01,ph,4.4,Ale
+297,East Of Vermont,2018-01-01,target_fg,1018,Ale
+298,Declassified Demi-God,2018-01-01,abv,14.1,Ale
+298,Declassified Demi-God,2018-01-01,ibu,70,Ale
+298,Declassified Demi-God,2018-01-01,srm,46,Ale
+298,Declassified Demi-God,2018-01-01,ph,4.1,Ale
+298,Declassified Demi-God,2018-01-01,target_fg,1020,Ale
+299,Raspberry Popsicle Parade,2018-01-01,abv,0.5,Ale
+299,Raspberry Popsicle Parade,2018-01-01,ibu,8,Ale
+299,Raspberry Popsicle Parade,2018-01-01,srm,4,Ale
+299,Raspberry Popsicle Parade,2018-01-01,ph,3.5,Ale
+299,Raspberry Popsicle Parade,2018-01-01,target_fg,1005,Ale
+300,Indie Pale Ale,2018-01-01,abv,4.2,Ale
+300,Indie Pale Ale,2018-01-01,ibu,30,Ale
+300,Indie Pale Ale,2018-01-01,srm,8,Ale
+300,Indie Pale Ale,2018-01-01,ph,4.6,Ale
+300,Indie Pale Ale,2018-01-01,target_fg,1008,Ale
+301,Small Batch: Dry-hopped Pilsner,2018-01-01,abv,4.7,Lager
+301,Small Batch: Dry-hopped Pilsner,2018-01-01,ibu,37,Lager
+301,Small Batch: Dry-hopped Pilsner,2018-01-01,srm,3,Lager
+301,Small Batch: Dry-hopped Pilsner,2018-01-01,ph,4.4,Lager
+301,Small Batch: Dry-hopped Pilsner,2018-01-01,target_fg,1006,Lager
+302,Hazy Jane Bourbon Barrel Aged,2018-01-01,abv,7.2,Ale
+302,Hazy Jane Bourbon Barrel Aged,2018-01-01,ibu,30,Ale
+302,Hazy Jane Bourbon Barrel Aged,2018-01-01,srm,8,Ale
+302,Hazy Jane Bourbon Barrel Aged,2018-01-01,ph,4.2,Ale
+302,Hazy Jane Bourbon Barrel Aged,2018-01-01,target_fg,1009,Ale
+303,Hazy Jane Rye Barrel Aged,2018-01-01,abv,7.2,Ale
+303,Hazy Jane Rye Barrel Aged,2018-01-01,ibu,30,Ale
+303,Hazy Jane Rye Barrel Aged,2018-01-01,srm,8,Ale
+303,Hazy Jane Rye Barrel Aged,2018-01-01,ph,4.2,Ale
+303,Hazy Jane Rye Barrel Aged,2018-01-01,target_fg,1009,Ale
+304,Karma Cloud,2018-01-01,abv,6.5,Ale
+304,Karma Cloud,2018-01-01,ibu,50,Ale
+304,Karma Cloud,2018-01-01,srm,18,Ale
+304,Karma Cloud,2018-01-01,ph,4.4,Ale
+304,Karma Cloud,2018-01-01,target_fg,1010,Ale
+305,Native Son,2018-01-01,abv,8.5,Ale
+305,Native Son,2018-01-01,ibu,70,Ale
+305,Native Son,2018-01-01,srm,9,Ale
+305,Native Son,2018-01-01,ph,4.6,Ale
+305,Native Son,2018-01-01,target_fg,1010,Ale
+306,AB:25,2018-01-01,abv,13.3,Ale
+306,AB:25,2018-01-01,ibu,35,Ale
+306,AB:25,2018-01-01,srm,46,Ale
+306,AB:25,2018-01-01,ph,4.2,Ale
+306,AB:25,2018-01-01,target_fg,1020,Ale
+307,Kamikaze Knitting Club,2018-01-01,abv,7.5,Ale
+307,Kamikaze Knitting Club,2018-01-01,ibu,30,Ale
+307,Kamikaze Knitting Club,2018-01-01,srm,66,Ale
+307,Kamikaze Knitting Club,2018-01-01,ph,4.6,Ale
+307,Kamikaze Knitting Club,2018-01-01,target_fg,1013,Ale
+308,Very Big Moose,2018-01-01,abv,12,Ale
+308,Very Big Moose,2018-01-01,ibu,25,Ale
+308,Very Big Moose,2018-01-01,srm,50,Ale
+308,Very Big Moose,2018-01-01,ph,4.4,Ale
+308,Very Big Moose,2018-01-01,target_fg,1038,Ale
+309,Paradox Islay 2018,2018-01-01,abv,13.5,Ale
+309,Paradox Islay 2018,2018-01-01,ibu,100,Ale
+309,Paradox Islay 2018,2018-01-01,srm,152,Ale
+309,Paradox Islay 2018,2018-01-01,ph,4.4,Ale
+309,Paradox Islay 2018,2018-01-01,target_fg,1015,Ale
+310,Clockwork Tangerine,2018-01-01,abv,4.5,Ale
+310,Clockwork Tangerine,2018-01-01,ibu,37,Ale
+310,Clockwork Tangerine,2018-01-01,srm,10,Ale
+310,Clockwork Tangerine,2018-01-01,ph,4.2,Ale
+310,Clockwork Tangerine,2018-01-01,target_fg,1012,Ale
+311,Sonic Boom,2018-01-01,abv,6.5,Ale
+311,Sonic Boom,2018-01-01,ibu,60,Ale
+311,Sonic Boom,2018-01-01,srm,6,Ale
+311,Sonic Boom,2018-01-01,ph,4.6,Ale
+311,Sonic Boom,2018-01-01,target_fg,1008,Ale
+312,Dog G,2018-01-01,abv,17,Ale
+312,Dog G,2018-01-01,ibu,100,Ale
+312,Dog G,2018-01-01,srm,254,Ale
+312,Dog G,2018-01-01,ph,4.4,Ale
+312,Dog G,2018-01-01,target_fg,1015,Ale
+313,Mallow Mafia,2018-01-01,abv,12,Ale
+313,Mallow Mafia,2018-01-01,ibu,75,Ale
+313,Mallow Mafia,2018-01-01,srm,198,Ale
+313,Mallow Mafia,2018-01-01,ph,4.4,Ale
+313,Mallow Mafia,2018-01-01,target_fg,1025,Ale
+314,Manic Mango,2018-01-01,abv,6,Ale
+314,Manic Mango,2018-01-01,ibu,20,Ale
+314,Manic Mango,2018-01-01,srm,6,Ale
+314,Manic Mango,2018-01-01,ph,4.4,Ale
+314,Manic Mango,2018-01-01,target_fg,1010,Ale
+315,Baltic Fleet,2018-01-01,abv,7.2,Lager
+315,Baltic Fleet,2018-01-01,ibu,45,Lager
+315,Baltic Fleet,2018-01-01,srm,61,Lager
+315,Baltic Fleet,2018-01-01,ph,4.2,Lager
+315,Baltic Fleet,2018-01-01,target_fg,1016,Lager
+316,SOS! (May Day!),2018-01-01,abv,6.4,Lager
+316,SOS! (May Day!),2018-01-01,ibu,34,Lager
+316,SOS! (May Day!),2018-01-01,srm,11,Lager
+316,SOS! (May Day!),2018-01-01,ph,4.2,Lager
+316,SOS! (May Day!),2018-01-01,target_fg,1014,Lager
+317,Al Adjore!,2018-01-01,abv,9,Ale
+317,Al Adjore!,2018-01-01,ibu,65,Ale
+317,Al Adjore!,2018-01-01,srm,18,Ale
+317,Al Adjore!,2018-01-01,ph,79,Ale
+317,Al Adjore!,2018-01-01,target_fg,1018,Ale
+318,Neverland,2018-01-01,abv,5,Lager
+318,Neverland,2018-01-01,ibu,40,Lager
+318,Neverland,2018-01-01,srm,6,Lager
+318,Neverland,2018-01-01,ph,4.2,Lager
+318,Neverland,2018-01-01,target_fg,1007,Lager
+319,Grano Giusto,2018-01-01,abv,5.5,Lager
+319,Grano Giusto,2018-01-01,ibu,28,Lager
+319,Grano Giusto,2018-01-01,srm,28,Lager
+319,Grano Giusto,2018-01-01,ph,4.3,Lager
+319,Grano Giusto,2018-01-01,target_fg,1009,Lager
+320,King of Eights,2018-01-01,abv,7.4,Ale
+320,King of Eights,2018-01-01,ibu,20,Ale
+320,King of Eights,2018-01-01,srm,10,Ale
+320,King of Eights,2018-01-01,ph,4.4,Ale
+320,King of Eights,2018-01-01,target_fg,1009,Ale
+321,Jinx Pale Ale,2018-01-01,abv,4.7,Ale
+321,Jinx Pale Ale,2018-01-01,ibu,35,Ale
+321,Jinx Pale Ale,2018-01-01,srm,7,Ale
+321,Jinx Pale Ale,2018-01-01,ph,4.6,Ale
+321,Jinx Pale Ale,2018-01-01,target_fg,1008,Ale
+322,Jet Trash,2018-01-01,abv,6.9,Ale
+322,Jet Trash,2018-01-01,ibu,65,Ale
+322,Jet Trash,2018-01-01,srm,9,Ale
+322,Jet Trash,2018-01-01,ph,4.6,Ale
+322,Jet Trash,2018-01-01,target_fg,1008,Ale
+323,Interstate Vienna Lager.,2018-01-01,abv,5,Lager
+323,Interstate Vienna Lager.,2018-01-01,ibu,25,Lager
+323,Interstate Vienna Lager.,2018-01-01,srm,7,Lager
+323,Interstate Vienna Lager.,2018-01-01,ph,4.2,Lager
+323,Interstate Vienna Lager.,2018-01-01,target_fg,1007,Lager
+324,Fools Gold Dortmunder Lager,2018-01-01,abv,5.6,Lager
+324,Fools Gold Dortmunder Lager,2018-01-01,ibu,32,Lager
+324,Fools Gold Dortmunder Lager,2018-01-01,srm,6,Lager
+324,Fools Gold Dortmunder Lager,2018-01-01,ph,4.2,Lager
+324,Fools Gold Dortmunder Lager,2018-01-01,target_fg,1009,Lager
+325,Zipcode,2018-01-01,abv,5,Lager
+325,Zipcode,2018-01-01,ibu,37,Lager
+325,Zipcode,2018-01-01,srm,3,Lager
+325,Zipcode,2018-01-01,ph,4.4,Lager
+325,Zipcode,2018-01-01,target_fg,1006,Lager
